@@ -6,6 +6,7 @@ import os
 import csv
 
 # get the data from the csv file
+print(os.getcwd())
 data = pd.read_csv(os.getcwd() + "/data/all_prof_data.csv")
 
 professors = []

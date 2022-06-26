@@ -1,13 +1,14 @@
+import os
 import pandas as pd
 import time
 import plotly.express as px
 
-colleges = pd.read_csv('/Users/kevins/Documents/CSImpact/data/colleges.csv')
+colleges = pd.read_csv(str(os.getcwd()).replace('code', '') + '/data/colleges.csv')
 
 college_data = pd.DataFrame()
 def plot(college):
     i = colleges.index[colleges['college'] == f'{college}'].tolist()[0]
-    college_data = pd.read_csv(f'/Users/kevins/Documents/CSImpact/data/college_data/college{i}.csv')
+    college_data = pd.read_csv(str(os.getcwd()).replace('code', '') + '/data/college_data/college'+str(i)+'.csv')
     missing_id_rows = college_data.loc[college_data['scholar_id'] == 'NOSCHOLARPAGE']
     rows_to_plot = college_data.loc[college_data['scholar_id'] != 'NOSCHOLARPAGE']
 

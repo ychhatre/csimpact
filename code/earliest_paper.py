@@ -20,8 +20,6 @@ for i in range(total_rows):
         soup = BeautifulSoup(html_text, 'lxml')
         values = soup.find_all('button', id = 'gsc_bpf_more')
         
-        
-        
         driver.get(f'https://scholar.google.com/citations?hl=en&user={s_id}&view_op=list_works&sortby=pubdate')
         text1 = driver.page_source
         while True:

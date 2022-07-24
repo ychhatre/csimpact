@@ -2,14 +2,12 @@ from cmath import isnan
 import os
 from random import random
 import time
-from typing import Any
 import pandas as pd
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-from csv import writerd
 
 # read the data from a file
 data = pd.read_csv(os.getcwd().replace('code/old_test_code','') + "/data/cleaned_prof_data_v4.csv")

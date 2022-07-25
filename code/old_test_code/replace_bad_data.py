@@ -39,7 +39,7 @@ professors = []
 professorExists = True
 
 for i in range(400, 801):
-
+    
     # initialize values
     scholar_id = data.iat[i, 3]
     citation = data.iat[i, 4]

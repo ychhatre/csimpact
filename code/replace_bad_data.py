@@ -10,7 +10,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 
 # read the data from a file
-data = pd.read_csv(os.getcwd().replace('code/old_test_code','') + "/data/cleaned_prof_data_v4.csv")
+data = pd.read_csv(os.getcwd().replace('code/','') + "/data/cleaned_prof_data_v4.csv")
 
 # initialize web driver for selenium
 options = webdriver.ChromeOptions()

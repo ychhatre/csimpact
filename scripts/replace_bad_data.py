@@ -38,7 +38,7 @@ def findMaxCitations(web_elements: list):
 professors = []
 professorExists = True
 
-for i in range(400, 801):
+for i in range(1201, 2001):
     
     # initialize values
     scholar_id = data.iat[i, 3]
@@ -119,4 +119,4 @@ for i in range(400, 801):
 
 
 df = pd.DataFrame(professors)
-df.to_csv("data/cleaned_prof_data_v5_2.csv")
+df.to_csv("data/cleaned_prof_data_v5_4.csv")

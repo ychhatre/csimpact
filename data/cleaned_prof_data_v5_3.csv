@@ -1,0 +1,401 @@
+,Name,affiliation,homepage,scholar-id,citations,h-index
+0,Azer Bestavros,Boston University,http://www.bu.edu/cs/azer-bestavros,S5B0QmMAAAAJ,22480.0,64.0
+1,Edward Chien,Boston University,https://cs-people.bu.edu/edchien,YZ1HFYIAAAAJ,307.0,9.0
+2,Francesco Orabona,Boston University,http://francesco.orabona.com,g1ha-iYAAAAJ,4014.0,35.0
+3,Emily Whiting,Boston University,http://cs-people.bu.edu/whiting/#,_TU9kGYAAAAJ,1655.0,21.0
+4,Prakash Ishwar,Boston University,https://www.bu.edu/eng/profile/prakash-ishwar,RYvdtGcAAAAJ,6392.0,36.0
+5,Jonathan Appavoo,Boston University,http://www.cs.bu.edu/~jappavoo,Z1Kl2REAAAAJ,2631.0,27.0
+6,Sharon Goldberg,Boston University,http://www.cs.bu.edu/~goldbe,lJ8qjPAAAAAJ,3507.0,27.0
+7,Bryan A. Plummer,Boston University,https://bryanplummer.com,Rv8E-_cAAAAJ,2758.0,20.0
+8,George Kollios,Boston University,http://www.cs.bu.edu/~gkollios,0VFi-vAAAAAJ,11118.0,47.0
+9,Kate Saenko,Boston University,http://www.cs.uml.edu/~saenko,9xDADY4AAAAJ,37731.0,69.0
+10,A. J. Kfoury,Boston University,http://www.cs.bu.edu/~kfoury,VpdYemsAAAAJ,2463.0,25.0
+11,Ran Canetti,Boston University,http://www.cs.bu.edu/fac/canetti,-PWcE1YAAAAJ,42418.0,83.0
+12,Babis Tsourakakis,Boston University,http://people.seas.harvard.edu/~babis,IkEXPUEAAAAJ,4897.0,32.0
+13,Zaoxing Liu,Boston University,https://www.bu.edu/eng/profile/alan-liu,qvK1_5wAAAAJ,854.0,11.0
+14,Adam D. Smith,Boston University,http://www.cse.psu.edu/~ads22,fkGi-JMAAAAJ,21793.0,55.0
+15,Steve Homer,Boston University,http://www.cs.bu.edu/~homer,y1n8bZAAAAAJ,1312.0,21.0
+16,Venkatesh Saligrama,Boston University,https://www.bu.edu/eng/profile/venkatesh-saligrama,S4z3uzMAAAAJ,10480.0,51.0
+17,Manuel Egele,Boston University,https://www.bu.edu/eng/profile/manuel-egele,DRvJPxcAAAAJ,7010.0,31.0
+18,Sofya Raskhodnikova,Boston University,https://cs-people.bu.edu/sofya,VdBfGdoAAAAJ,4452.0,23.0
+19,Vasiliki Kalavri,Boston University,http://people.inf.ethz.ch/kalavriv,8VMnu5IAAAAJ,595.0,14.0
+20,Eshed Ohn-Bar,Boston University,https://eshed1.github.io,p9zVBV4AAAAJ,2707.0,27.0
+21,Mark Bun,Boston University,https://cs-people.bu.edu/mbun,oDwLyYUAAAAJ,1841.0,20.0
+22,Manos Athanassoulis,Boston University,https://cs-people.bu.edu/mathan,RyXHY68AAAAJ,1394.0,21.0
+23,Brian Kulis,Boston University,http://people.bu.edu/bkulis,okcbLqoAAAAJ,16690.0,35.0
+24,David Starobinski,Boston University,http://people.bu.edu/staro,C0ddY2kAAAAJ,4241.0,33.0
+25,Susan M. Üsküdarli,Boğaziçi University,http://www.cmpe.boun.edu.tr/~uskudarli,GlcUjKIAAAAJ,561.0,13.0
+26,Arzucan Ozgur,Boğaziçi University,https://www.cmpe.boun.edu.tr/~ozgur,8Kn4-EsAAAAJ,3346.0,27.0
+27,Can C. Özturan,Boğaziçi University,https://www.cmpe.boun.edu.tr/~ozturan,--uJKY0AAAAJ,1338.0,22.0
+28,Taflan I. Gündem,Boğaziçi University,https://www.cmpe.boun.edu.tr/~gundem,,,
+29,A. C. Cem Say,Boğaziçi University,https://www.cmpe.boun.edu.tr/~say,rOum2XsAAAAJ,835.0,15.0
+30,A. Yurdakul,Boğaziçi University,https://www.cmpe.boun.edu.tr/~yurdakul,6UUbTP4AAAAJ,825.0,14.0
+31,Tunga Gungor,Boğaziçi University,https://www.cmpe.boun.edu.tr/~gungort,oymuGoYAAAAJ,2268.0,25.0
+32,Tuna Tugcu,Boğaziçi University,http://www.cmpe.boun.edu.tr/~tugcu,aN_VUtQAAAAJ,3088.0,25.0
+33,Alper Sen,Boğaziçi University,https://www.cmpe.boun.edu.tr/~sen,yfdctbkAAAAJ,885.0,18.0
+34,Emre Ugur,Boğaziçi University,https://www.cmpe.boun.edu.tr/~emre,B1Dy3WMAAAAJ,1935.0,22.0
+35,A. Taylan Cemgil,Boğaziçi University,https://www.cmpe.boun.edu.tr/~cemgil,X3ZFZ7AAAAAJ,4759.0,33.0
+36,Haluk Bingol,Boğaziçi University,https://www.cmpe.boun.edu.tr/~bingol,NZhnwp4AAAAJ,1101.0,14.0
+37,Fatih Alagöz,Boğaziçi University,https://www.cmpe.boun.edu.tr/~alagoz,5Nku4S8AAAAJ,5197.0,30.0
+38,H. Levent Akin,Boğaziçi University,https://www.cmpe.boun.edu.tr/~akin,61aKNawAAAAJ,1714.0,21.0
+39,Lale Akarun,Boğaziçi University,https://www.cmpe.boun.edu.tr/~akarun/doku.php,MybhMyUAAAAJ,6260.0,39.0
+40,Fikret Gürgen,Boğaziçi University,https://www.cmpe.boun.edu.tr/~gurgen,B8EWl8gAAAAJ,2187.0,22.0
+41,Cem Ersoy,Boğaziçi University,https://www.cmpe.boun.edu.tr/~ersoy/CemErsoySite/Home.html,I8ojCJYAAAAJ,10750.0,39.0
+42,James Pustejovsky,Brandeis University,http://www.brandeis.edu/facultyguide/person.html?emplid=dbbe2e6922a901a7151b3d83b6618450867207ae,56UT_6IAAAAJ,27208.0,68.0
+43,Chu-Xu Zhang,Brandeis University,https://chuxuzhang.github.io,ZbZ0l0oAAAAJ,2037.0,18.0
+44,Hongfu Liu,Brandeis University,http://hongfuliu.com,3FqYBw0AAAAJ,2112.0,26.0
+45,Timothy J. Hickey,Brandeis University,http://www.cs.brandeis.edu/~tim,APFVA6sAAAAJ,1881.0,20.0
+46,Lotus Goldberg,Brandeis University,http://www.brandeis.edu/facultyguide/person.html?emplid=19717dba85e7e7d919456954c1c56642a52e0740,bx2LquQAAAAJ,423.0,6.0
+47,Sophia A. Malamud,Brandeis University,http://www.brandeis.edu/facultyguide/person.html?emplid=3910d55813d1ab5d82f569d8e7923afa2ac792f5,JZoHN2UAAAAJ,504.0,9.0
+48,Richard Alterman,Brandeis University,http://www.brandeis.edu/facultyguide/person.html?emplid=4a09ce0d1a4b429db8f07e9e0210e5e2e7ab094b,,,
+49,James A. Storer,Brandeis University,http://www.cs.brandeis.edu/~storer,v3vdZycAAAAJ,1595.0,18.0
+50,Nianwen Xue,Brandeis University,http://www.cs.brandeis.edu/~xuen,KlVbOkMAAAAJ,8744.0,42.0
+51,Pengyu Hong,Brandeis University,http://www.cs.brandeis.edu/~hong,pvDa8pcAAAAJ,3219.0,26.0
+52,Jordan Pollack,Brandeis University,http://www.cs.brandeis.edu/~pollack,,,
+53,Liuba Shrira,Brandeis University,http://www.cs.brandeis.edu/~liuba,tyUShkAAAAAJ,4555.0,26.0
+54,Mitch Cherniack,Brandeis University,http://www.cs.brandeis.edu/~mfc,,,
+55,Antonella Di Lillo,Brandeis University,http://www.brandeis.edu/facultyguide/person.html?emplid=4b4fcfe64c1c153c08a131c97077c1726072e6c9,,,
+56,Harry G. Mairson,Brandeis University,http://www.cs.brandeis.edu/~mairson,,,
+57,Olga Papaemmanouil,Brandeis University,http://www.cs.brandeis.edu/~olga/home.html,JaAonb0AAAAJ,2101.0,21.0
+58,Oliver Hohlfeld,Brandenburg University of Technology,http://www.ohohlfeld.com,2dy3cC4AAAAJ,2516.0,22.0
+59,Michael Hübner,Brandenburg University of Technology,https://www.b-tu.de/en/fg-technische-informatik/team/professor,Z4fIgdUAAAAJ,5698.0,34.0
+60,Andriy Panchenko,Brandenburg University of Technology,https://www.b-tu.de/en/it-security,,,
+61,Douglas W. Cunningham,Brandenburg University of Technology,https://www.b-tu.de/fg-graphische-systeme/team/professor,Lo4fRbwAAAAJ,2590.0,28.0
+62,Gerd Wagner,Brandenburg University of Technology,https://www.b-tu.de/fg-internet-technologie/team/professor,zna3SeQAAAAJ,6499.0,44.0
+63,Klaus Meer,Brandenburg University of Technology,https://www.b-tu.de/fg-theoretische-informatik/team/lehrstuhlinhaber,,,
+64,Ingo Schmitt,Brandenburg University of Technology,https://www.b-tu.de/fg-dbis/team/professor,,,
+65,Peter Langendörfer,Brandenburg University of Technology,https://www.b-tu.de/fg-sicherheit-in-pervasiven-systemen/team/professor,giUyxgYAAAAJ,1920.0,20.0
+66,Jörg Nolte,Brandenburg University of Technology,https://www.b-tu.de/en/distributed-systems-operating-systems-group/team/professor,,,
+67,Claus Lewerentz,Brandenburg University of Technology,https://www.b-tu.de/fg-software-systemtechnik/team/professor,fANb-HAAAAAJ,2875.0,24.0
+68,Rolf Kraemer,Brandenburg University of Technology,https://www.b-tu.de/fg-systeme/team/professor,-rT-Qp0AAAAJ,2187.0,25.0
+69,Monika Heiner,Brandenburg University of Technology,https://www-dssz.informatik.tu-cottbus.de/DSSZ/Main/MonikaHeiner,esKBj4UAAAAJ,4969.0,37.0
+70,Petra Hofstedt,Brandenburg University of Technology,https://www.b-tu.de/fg-programmiersprachen-compilerbau/team/professorin/petra-hofstedt,,,
+71,Thomas W. Sederberg,Brigham Young University,https://cs.byu.edu/faculty/tom,mveYvw8AAAAJ,16494.0,50.0
+72,Kenneth J. Rodham,Brigham Young University,https://cs.byu.edu/faculty/rodham,,,
+73,Cory Barker,Brigham Young University,https://cs.byu.edu/faculty/barker,iZfqmbMAAAAJ,82.0,4.0
+74,Sean C. Warnick,Brigham Young University,https://cs.byu.edu/faculty/sean,k7WBrxoAAAAJ,1497.0,19.0
+75,Kent E. Seamons,Brigham Young University,https://cs.byu.edu/faculty/seamons,XY4ky-YAAAAJ,6804.0,39.0
+76,David Wingate,Brigham Young University,https://cs.byu.edu/faculty/dw87,W9uPOIQAAAAJ,8425.0,46.0
+77,Jacob W. Crandall,Brigham Young University,http://www.jacobcrandall.net,FHGBC58AAAAJ,3204.0,28.0
+78,Paul R. Roper,Brigham Young University,https://cs.byu.edu/faculty/proper,44RdgPcAAAAJ,71.0,1.0
+79,Kevin D. Seppi,Brigham Young University,https://cs.byu.edu/faculty/kseppi,xLQan5cAAAAJ,3240.0,32.0
+80,Michael D. Jones,Brigham Young University,https://cs.byu.edu/faculty/jones,OLUt0kgAAAAJ,9763.0,22.0
+81,Christopher Archibald,Brigham Young University,https://cs.byu.edu/faculty/ca65,tH8pducAAAAJ,213.0,8.0
+82,Daniel Zappala,Brigham Young University,https://cs.byu.edu/faculty/zappala,Q9DsCL4AAAAJ,5284.0,27.0
+83,Christophe G. Giraud-Carrier,Brigham Young University,https://cs.byu.edu/faculty/cgc,i17LzmoAAAAJ,7083.0,37.0
+84,Robert P. Burton,Brigham Young University,https://cs.byu.edu/faculty/rpburton,0NKgxEEAAAAJ,7240.0,33.0
+85,J. Kelly Flanagan,Brigham Young University,https://cs.byu.edu/faculty/flanaganjkelly,,,
+86,Seth Holladay,Brigham Young University,https://cs.byu.edu/faculty/srh43,FLK47OIAAAAJ,14.0,2.0
+87,Brent Adams,Brigham Young University,https://animation.byu.edu/content/faculty,,,
+88,Parris K. Egbert,Brigham Young University,https://cs.byu.edu/faculty/egbert,7oD2ZL8AAAAJ,1093.0,18.0
+89,Ryan Farrell,Brigham Young University,https://faculty.cs.byu.edu/~farrell,56EZh6YAAAAJ,1904.0,14.0
+90,Bill Barrett,Brigham Young University,https://cs.byu.edu/faculty/barrett,yLWfq68AAAAJ,5899.0,29.0
+91,Scott N. Woodfield,Brigham Young University,https://cs.byu.edu/faculty/woodfiel,,,
+92,Mark J. Clement,Brigham Young University,https://faculty.cs.byu.edu/~clement,8sFevmEAAAAJ,13443.0,24.0
+93,Bryan S. Morse,Brigham Young University,http://morse.cs.byu.edu,COQLAncAAAAJ,4491.0,30.0
+94,Eric K. Ringger,Brigham Young University,https://faculty.cs.byu.edu/~ringger,XkkU-hwAAAAJ,3966.0,30.0
+95,Yiu-Kai Dennis Ng,Brigham Young University,https://faculty.cs.byu.edu/~ng/ng.html,HhIElBEAAAAJ,3140.0,23.0
+96,Michael A. Goodrich,Brigham Young University,https://faculty.cs.byu.edu/~mike,7LTGov4AAAAJ,11793.0,47.0
+97,Dan Ventura,Brigham Young University,http://axon.cs.byu.edu/Dan,iSsKAqQAAAAJ,3597.0,30.0
+98,Tony R. Martinez,Brigham Young University,http://axon.cs.byu.edu/~martinez,R1JyT9AAAAAJ,8379.0,36.0
+99,Eric G. Mercer,Brigham Young University,https://cs.byu.edu/faculty/egm,FbUhdYYAAAAJ,3487.0,8.0
+100,Quinn O. Snell,Brigham Young University,https://faculty.cs.byu.edu/~snell,,,
+101,Tomás Vojnar,Brno University of Technology,https://www.fit.vut.cz/person/vojnar,YbSGwKwAAAAJ,3089.0,31.0
+102,Adam Herout,Brno University of Technology,https://www.fit.vut.cz/person/herout,qQDbJDMAAAAJ,2359.0,25.0
+103,Honza Cernocký,Brno University of Technology,https://www.fit.vut.cz/person/cernocky,BnfCLXcAAAAJ,15630.0,43.0
+104,Martin Drahanský,Brno University of Technology,https://www.fit.vut.cz/person/drahan,,,
+105,Lukás Holík,Brno University of Technology,https://www.fit.vut.cz/person/holik,0cPbvY0AAAAJ,1406.0,19.0
+106,Lukás Sekanina,Brno University of Technology,https://www.fit.vut.cz/person/sekanina,,,
+107,Adam Rogalewicz,Brno University of Technology,https://www.fit.vut.cz/person/rogalew,,,
+108,Lukás Burget,Brno University of Technology,https://www.fit.vut.cz/person/burget,pRBbU7wAAAAJ,25310.0,56.0
+109,Thomas Serre,Brown University,https://serre-lab.clps.brown.edu/person/thomas-serre,kZlPW4wAAAAJ,14728.0,42.0
+110,Malte Schwarzkopf,Brown University,http://www.malteschwarzkopf.de,Lf1hSacAAAAJ,2988.0,19.0
+111,Andries van Dam,Brown University,http://cs.brown.edu/~avd,,,
+112,Amy Greenwald,Brown University,http://cs.brown.edu/~amygreen,aQCRuYQAAAAJ,4058.0,32.0
+113,George Dimitri Konidaris,Brown University,http://cs.brown.edu/people/gdk,9UERvVEAAAAJ,5826.0,41.0
+114,Vasileios P. Kemerlis,Brown University,https://cs.brown.edu/~vpk,tkb2YWQAAAAJ,3031.0,28.0
+115,Sorin Istrail,Brown University,http://www.brown.edu/Research/Istrail_Lab/sorin.php,,,
+116,Shriram Krishnamurthi,Brown University,https://cs.brown.edu/~sk,Cxwj5hEAAAAJ,10592.0,55.0
+117,John E. Savage,Brown University,http://cs.brown.edu/~jes,1lHqK_4AAAAJ,338.0,8.0
+118,David H. Laidlaw,Brown University,http://cs.brown.edu/~dhl,GIle-VwAAAAJ,17097.0,58.0
+119,Michael L. Littman,Brown University,http://cs.brown.edu/~mlittman,iRMZ2hoAAAAJ,49808.0,86.0
+120,Maurice Herlihy,Brown University,http://cs.brown.edu/~mph,Ezrt3pkAAAAJ,31523.0,73.0
+121,Pedro F. Felzenszwalb,Brown University,http://cs.brown.edu/~pff,k1hJzF0AAAAJ,34125.0,30.0
+122,Rodrigo C. Fonseca,Brown University,http://cs.brown.edu/~rfonseca,VuvKPiQAAAAJ,10061.0,43.0
+123,Jeff Huang,Brown University,http://jeffhuang.com,o8oJ6s4AAAAJ,3523.0,29.0
+124,Stan Zdonik,Brown University,http://cs.brown.edu/~sbz,k3YaoIEAAAAJ,32073.0,81.0
+125,Roberto Tamassia,Brown University,http://cs.brown.edu/~rt,eEYPTKUAAAAJ,24439.0,70.0
+126,Franco P. Preparata,Brown University,http://cs.brown.edu/~franco,i6uX5zUAAAAJ,379.0,9.0
+127,Chen Sun,Brown University,https://chensun.me,vQa7heEAAAAJ,12479.0,34.0
+128,James Tompkin,Brown University,http://www.jamestompkin.com,Ex3pgLAAAAAJ,2042.0,25.0
+129,Theophilus A. Benson,Brown University,https://users.cs.duke.edu/~tbenson,55B-xqUAAAAJ,6931.0,30.0
+130,Sherief Reda,Brown University,https://scale.engin.brown.edu/pages/sreda.html,p69MQp4AAAAJ,4564.0,38.0
+131,John F. Hughes,Brown University,http://cs.brown.edu/~jfh,EEG6tPMAAAAJ,25390.0,50.0
+132,Seny Kamara,Brown University,https://cs.brown.edu/~seny,TY9L1ecAAAAJ,10958.0,32.0
+133,Thomas W. Doeppner Jr.,Brown University,https://cs.brown.edu/~twd,,,
+134,Srinath Sridhar,Brown University,https://cs.brown.edu/people/ssrinath,qIvZT74AAAAJ,3281.0,16.0
+135,Ritambhara Singh,Brown University,https://ritambharasingh.com,V6lRMxoAAAAJ,1995.0,14.0
+136,Carsten Eickhoff,Brown University,https://brown.edu/Research/AI/people/carsten.html,QQi1_rAAAAAJ,2728.0,24.0
+137,Eugene Charniak,Brown University,https://cs.brown.edu/~ec,_XHudx4AAAAJ,24624.0,66.0
+138,Steven P. Reiss,Brown University,http://cs.brown.edu/~spr,fn3HR4YAAAAJ,19671.0,56.0
+139,Eli Upfal,Brown University,https://cs.brown.edu/people/eli,O_7MVDIAAAAJ,18405.0,59.0
+140,Philip N. Klein,Brown University,http://cs.brown.edu/~pnk,gVUD47sAAAAJ,10054.0,51.0
+141,Daniel Ritchie,Brown University,https://dritchie.github.io,0RiypNsAAAAJ,2964.0,20.0
+142,Stephen H. Bach,Brown University,https://cs.brown.edu/people/sbach,hs6pGXoAAAAJ,3053.0,17.0
+143,Ellie Pavlick,Brown University,https://cs.brown.edu/people/epavlick/index.html,sFyrSa8AAAAJ,3924.0,25.0
+144,Ugur Çetintemel,Brown University,https://cs.brown.edu/people/faculty/ugur,,,
+145,Stefanie Tellex,Brown University,http://cs.brown.edu/~stefie10,Pd8-ju0AAAAJ,5504.0,37.0
+146,Anna Lysyanskaya,Brown University,https://cs.brown.edu/people/anna,woqUivYAAAAJ,12091.0,43.0
+147,Faris Alwzinani,Brunel University London,https://www.brunel.ac.uk/people/faris-alwzinani,QdsIHjgAAAAJ,10.0,2.0
+148,Alan Edwin Serrano-Rico,Brunel University London,https://www.brunel.ac.uk/people/alan-serrano,EbUlFxwAAAAJ,1441.0,20.0
+149,Alessandro Pandini,Brunel University London,https://www.brunel.ac.uk/people/alessandro-pandini,6hPiNCgAAAAJ,1707.0,18.0
+150,Rumyana Neykova,Brunel University London,https://www.brunel.ac.uk/people/rumyana-neykova,AN2wqD0AAAAJ,792.0,12.0
+151,Theodora Koulouri,Brunel University London,https://www.brunel.ac.uk/people/theodora-koulouri2,lOELX4UAAAAJ,305.0,8.0
+152,Alireza Mousavi,Brunel University London,https://www.brunel.ac.uk/people/ali-mousavi,XkuYCeYAAAAJ,1485.0,19.0
+153,Andrea Capiluppi,Brunel University London,https://www.brunel.ac.uk/people/andrea-capiluppi,pWVTJ3YAAAAJ,2177.0,27.0
+154,Robert D. Macredie,Brunel University London,https://www.brunel.ac.uk/people/robert-macredie,jdB84x8AAAAJ,4990.0,33.0
+155,Nour Ali,Brunel University London,https://www.brunel.ac.uk/people/nour-ali,vPCf98oAAAAJ,1748.0,21.0
+156,Allan Tucker,Brunel University London,https://www.brunel.ac.uk/people/allan-tucker,F55XS58AAAAJ,2668.0,29.0
+157,Martin J. Shepperd,Brunel University London,https://www.brunel.ac.uk/people/martin-shepperd,VqZsDvUAAAAJ,13175.0,55.0
+158,Anastasia Anagnostou,Brunel University London,https://www.brunel.ac.uk/people/anastasia-anagnostou,KabR3MQAAAAJ,553.0,15.0
+159,George Ghinea,Brunel University London,https://www.brunel.ac.uk/people/george-ghinea,k-Q6RlEAAAAJ,7564.0,46.0
+160,Timothy Cribbin,Brunel University London,https://www.brunel.ac.uk/people/timothy-cribbin,YElMutkmjUoJ,662.0,13.0
+161,Yongmin Li,Brunel University London,https://www.brunel.ac.uk/people/yongmin-li,R5dedx0AAAAJ,3844.0,31.0
+162,Ian D. Blackman,Brunel University London,https://www.brunel.ac.uk/people/ian-blackman,nGWe75sAAAAJ,660.0,11.0
+163,Zidong Wang,Brunel University London,https://www.brunel.ac.uk/people/zidong-wang,Bbz0jRUAAAAJ,59425.0,135.0
+164,Stasha Lauria,Brunel University London,https://www.brunel.ac.uk/people/stanislao-lauria,,,
+165,Xiaohui Liu,Brunel University London,https://www.brunel.ac.uk/people/xiaohui-liu,G9UHfbwAAAAJ,28639.0,87.0
+166,Stephen J. Counsell,Brunel University London,https://www.brunel.ac.uk/people/steve-counsell,It_Dl_UAAAAJ,7255.0,38.0
+167,David Bell,Brunel University London,https://www.brunel.ac.uk/people/david-bell,8lfxFfIAAAAJ,700.0,13.0
+168,Mark Perry,Brunel University London,https://www.brunel.ac.uk/people/mark-perry,qL33780AAAAJ,4448.0,30.0
+169,David R. Gilbert,Brunel University London,https://www.brunel.ac.uk/people/david-gilbert,DS-hZXgAAAAJ,7236.0,40.0
+170,Armin Kashefi,Brunel University London,https://www.brunel.ac.uk/people/armin-kashefi,pZhfz0kAAAAJ,108.0,6.0
+171,Kathy McGrath,Brunel University London,https://www.brunel.ac.uk/people/kathy-mcgrath,49RIzd4AAAAJ,1213.0,14.0
+172,Simon J. E. Taylor,Brunel University London,https://www.brunel.ac.uk/people/simon-taylor,ig7RNOgAAAAJ,3848.0,32.0
+173,Stephen Swift,Brunel University London,https://www.brunel.ac.uk/people/stephen-swift,cDvF-W4AAAAJ,2860.0,25.0
+174,Kate Hone,Brunel University London,https://www.brunel.ac.uk/people/kate-hone,kDS5XxgAAAAJ,4554.0,31.0
+175,Mahir Arzoky,Brunel University London,https://www.brunel.ac.uk/people/mahir-arzoky,xaj1ZbMAAAAJ,129.0,7.0
+176,Crina Grosan,Brunel University London,https://www.brunel.ac.uk/people/crina-grosan,tCLKdLkAAAAJ,5903.0,40.0
+177,Arthur G. Money,Brunel University London,https://www.brunel.ac.uk/people/arthur-money,dmzs-pIAAAAJ,1675.0,17.0
+178,Giuseppe Destefanis,Brunel University London,https://www.brunel.ac.uk/people/giuseppe-destefanis,o2KkJXIAAAAJ,1608.0,22.0
+179,Derek Groen,Brunel University London,https://www.brunel.ac.uk/people/derek-groen,lK4WTUsAAAAJ,1990.0,24.0
+180,Panos Louvieris,Brunel University London,https://www.brunel.ac.uk/people/panos-louvieris,aQziTS0AAAAJ,1134.0,18.0
+181,Annette M. Payne,Brunel University London,https://www.brunel.ac.uk/people/annette-payne,bLTTMDgAAAAJ,4262.0,33.0
+182,Cigdem Sengul,Brunel University London,https://www.brunel.ac.uk/people/cigdem-sengul,dvmxdpEAAAAJ,1363.0,19.0
+183,Peter Hertling,Bundeswehr University Munich,https://www.unibw.de/timor/mitarbeiter/hertling/univ-prof-dr-peter-hertling,,,
+184,Florian Alt,Bundeswehr University Munich,https://www.unibw.de/usable-security-and-privacy/team/univ-prof-dr-florian-alt,wf3Muy8AAAAJ,6995.0,44.0
+185,Helmut Mayer,Bundeswehr University Munich,https://www.unibw.de/inf4/mitarbeiter/univ-prof-dr-ing-helmut-mayer,f_n9lOIAAAAJ,5026.0,33.0
+186,Mark Minas,Bundeswehr University Munich,https://www.unibw.de/inf2/personen/professoren/minas,,,
+187,Wolfgang Hommel,Bundeswehr University Munich,https://www.unibw.de/inf2/personen/professoren/hommel,LCsesngAAAAJ,588.0,12.0
+188,Stefan Brunthaler,Bundeswehr University Munich,https://www.unibw.de/systemsicherheit/univ-prof-dr-stefan-brunthaler,8PPYUEQAAAAJ,2470.0,19.0
+189,Stefan Pickl,Bundeswehr University Munich,https://www.unibw.de/comtessa,,,
+190,Arno Rüdiger Wacker,Bundeswehr University Munich,https://www.unibw.de/anwendungssicherheit/univ-prof-dr-arno-wacker,zq79YP0AAAAJ,978.0,16.0
+191,Uwe M. Borghoff,Bundeswehr University Munich,https://www.unibw.de/inf2/personen/professoren/borghoff,Xn-P8FwAAAAJ,3097.0,23.0
+192,Andreas Karcher,Bundeswehr University Munich,https://www.unibw.de/ia,,,
+193,Ulrike Lechner,Bundeswehr University Munich,https://www.unibw.de/wirtschaftsinformatik,OzCAdaMAAAAJ,1843.0,19.0
+194,Markus Siegle,Bundeswehr University Munich,https://www.unibw.de/technische-informatik/mitarbeiter/professoren/siegle/entwurf-von-rechen-und-kommunikationssystemen,Sdh-toEAAAAJ,1773.0,20.0
+195,Johannes Kinder,Bundeswehr University Munich,https://www.unibw.de/systemsicherheit/kinder,rnDHTKYAAAAJ,2605.0,25.0
+196,Wolfgang Reinhardt,Bundeswehr University Munich,https://websrv.rz.unibw-muenchen.de/inf4/professuren/geoinformatik/index_html,Xar_GqcAAAAJ,931.0,16.0
+197,Vasco Brattka,Bundeswehr University Munich,http://theory.cca-net.de/vasco.php,BlPeOrIAAAAJ,2903.0,30.0
+198,Gunnar Teege,Bundeswehr University Munich,http://www.unibw.de/gunnar.teege,,,
+199,Oliver Rose,Bundeswehr University Munich,https://www.unibw.de/technische-informatik/mitarbeiter/professoren/univ-prof-dr-oliver-rose,CJqlQKQAAAAJ,3973.0,25.0
+200,Gabi Dreo,Bundeswehr University Munich,https://www.unibw.de/technische-informatik/mitarbeiter/professoren/univ-prof-in-dr-gabi-dreo-rodosek,,,
+201,Klaus Buchenrieder,Bundeswehr University Munich,https://www.unibw.de/technische-informatik/mitarbeiter/professoren/univ-prof-ph-d-klaus-buchenrieder,,,
+202,Michael Koch,Bundeswehr University Munich,http://www.unibw.de/michael.koch,knY18cEAAAAJ,5047.0,32.0
+203,Cornelius Greither,Bundeswehr University Munich,https://www.unibw.de/timor/mitarbeiter/greither/univ-prof-dr-cornelius-greither,,,
+204,Andreas Zeller,CISPA Helmholtz Center,https://www.st.cs.uni-saarland.de/zeller,,,
+205,Sebastian U. Stich,CISPA Helmholtz Center,https://www.sstich.ch,8l-mDfQAAAAJ,5791.0,24.0
+206,Sven Bugiel,CISPA Helmholtz Center,https://trust.cispa.saarland/~bugiel,sPrlusAAAAAJ,3578.0,24.0
+207,Antoine Joux,CISPA Helmholtz Center,https://cispa.saarland/people/c01anjo,BG9yVCMAAAAJ,10422.0,44.0
+208,Aleksandar Bojchevski,CISPA Helmholtz Center,https://abojchevski.github.io,F1APiN4AAAAJ,2285.0,14.0
+209,Dániel Marx,CISPA Helmholtz Center,https://cispa.saarland/people/c01dama,hY2ibr8AAAAJ,9651.0,48.0
+210,Mario Fritz,CISPA Helmholtz Center,https://cispa.saarland/people/gallery,4V1nNm4AAAAJ,14780.0,62.0
+211,Nico Döttling,CISPA Helmholtz Center,https://cispa.saarland/people/nico.doettling,F8rmIoIAAAAJ,1455.0,23.0
+212,Cas Cremers,CISPA Helmholtz Center,https://cispa.saarland/people/cas.cremers,3uT_2lcAAAAJ,6479.0,38.0
+213,Rebekka Burkholz,CISPA Helmholtz Center,https://sites.google.com/view/rebekkaburkholz/rebekka-burkholz,vkWBb2wAAAAJ,197.0,7.0
+214,Rayna Dimitrova,CISPA Helmholtz Center,https://www.sheffield.ac.uk/dcs/people/academic/rayna-dimitrova,HgCDGyQAAAAJ,384.0,11.0
+215,Yang Zhang,CISPA Helmholtz Center,https://yangzhangalmo.github.io,Xeb2888AAAAJ,2154.0,22.0
+216,Thorsten Holz,CISPA Helmholtz Center,http://syssec.rub.de/~tho,tv2HR38AAAAJ,19365.0,69.0
+217,Jilles Vreeken,CISPA Helmholtz Center,http://people.mmci.uni-saarland.de/~jilles,p5HEQfIAAAAJ,4724.0,36.0
+218,Nils Ole Tippenhauer,CISPA Helmholtz Center,https://cispa.saarland/people/nils.tippenhauer,IptcAgQAAAAJ,4858.0,36.0
+219,Michael Backes,CISPA Helmholtz Center,https://cispa.de/en/people/backes,ZVS3KOEAAAAJ,18330.0,77.0
+220,Bernd Finkbeiner,CISPA Helmholtz Center,https://www.react.uni-saarland.de/people/finkbeiner.html,mSwHrYMAAAAJ,4322.0,35.0
+221,Mridula Singh,CISPA Helmholtz Center,https://cispa.de/en/people/c01mrsi,0nTK5BsAAAAJ,129.0,7.0
+222,Katharina Krombholz,CISPA Helmholtz Center,https://cispa.saarland/people/katharina.krombholz,BkeawyUAAAAJ,1878.0,18.0
+223,Julian Loss,CISPA Helmholtz Center,https://www.julianloss.com,RTGQifoAAAAJ,516.0,12.0
+224,Sascha Fahl,CISPA Helmholtz Center,https://saschafahl.de,uiB3WGEAAAAJ,4118.0,32.0
+225,Michael Schwarz,CISPA Helmholtz Center,https://cispa.de/en/people/c02misc,2HPadJUAAAAJ,7157.0,27.0
+226,Christian Rossow,CISPA Helmholtz Center,https://christian-rossow.de,lNn4hRMAAAAJ,5387.0,39.0
+227,Cristian-Alexandru Staicu,CISPA Helmholtz Center,https://www.staicu.org,JmpDeRQAAAAJ,514.0,10.0
+228,Christoph Lenzen,CISPA Helmholtz Center,https://cispa.de/en/people/c01chle,9Y9je40AAAAJ,2319.0,25.0
+229,Sebastian Brandt,CISPA Helmholtz Center,https://cispa.de/de/people/c01sebr,3MIPfVYAAAAJ,694.0,15.0
+230,Swen Jacobs,CISPA Helmholtz Center,https://www.react.uni-saarland.de/people/jacobs.html,pofIiPIAAAAJ,1143.0,20.0
+231,Giancarlo Pellegrino,CISPA Helmholtz Center,https://people.cispa.io/giancarlo.pellegrino,PC_RNUcAAAAJ,1119.0,18.0
+232,Lucjan Hanzlik,CISPA Helmholtz Center,https://cispa.saarland/people/lucjan.hanzlik,xV54a20AAAAJ,326.0,9.0
+233,Ben Stock,CISPA Helmholtz Center,https://people.cispa.io/ben.stock,_hDa-5wAAAAJ,1204.0,18.0
+234,Karl Wüst,CISPA Helmholtz Center,https://cispa.de/en/people/c01kawu,F5oUrWAAAAAJ,2689.0,11.0
+235,Madhavan Mukund,CMI,http://www.cmi.ac.in/~madhavan,,,
+236,K. V. Subrahmanyam,CMI,http://www.cmi.ac.in/~kv,pxVeS_IAAAAJ,304.0,11.0
+237,S. P. Suresh,CMI,http://www.cmi.ac.in/~spsuresh,S0fWcAoAAAAJ,1540.0,17.0
+238,Partha Mukhopadhyay,CMI,http://www.cmi.ac.in/~suryajith,RPCLZDMAAAAJ,11967.0,60.0
+239,K. Narayan Kumar,CMI,http://www.cmi.ac.in/~kumar,tFCSOd0AAAAJ,1154.0,19.0
+240,Sourav Chakraborty,CMI,http://www.cmi.ac.in/~sourav,rXKZblQAAAAJ,805.0,15.0
+241,B. Srivathsan,CMI,http://www.cmi.ac.in/~sri,2SMNivQAAAAJ,320.0,6.0
+242,Geevarghese Philip,CMI,http://www.cmi.ac.in/~gphilip,F--BO8oAAAAJ,816.0,17.0
+243,Samir Datta,CMI,http://www.cmi.ac.in/~sdatta,rQj5IIkAAAAJ,910.0,18.0
+244,Prajakta Nimbhorkar,CMI,http://www.cmi.ac.in/~prajakta,hDBz3EUAAAAJ,1067.0,10.0
+245,Aiswarya Cyriac,CMI,http://www.cmi.ac.in/~aiswarya,NLwqvCwAAAAJ,255.0,9.0
+246,M. Praveen,CMI,http://www.cmi.ac.in/~praveenm,xDgt2Z8AAAAJ,5679.0,24.0
+247,François Lemaire,CRIStAL,https://www.cristal.univ-lille.fr/profil/francois.lemaire,,,
+248,Serge G. Petiton,CRIStAL,https://www.cristal.univ-lille.fr/profil/petiton,,,
+249,Diego Cattaruzza,CRIStAL,https://www.cristal.univ-lille.fr/profil/dcattaru,vNvqTXoAAAAJ,935.0,12.0
+250,Odalric Maillard,CRIStAL,https://www.cristal.univ-lille.fr/profil/omaillar,7EweMdoAAAAJ,1761.0,20.0
+251,Pascal Denis,CRIStAL,https://www.cristal.univ-lille.fr/profil/pdenis,Y1nQ6eUAAAAJ,2082.0,24.0
+252,Florent Capelli,CRIStAL,https://www.cristal.univ-lille.fr/profil/fcapelli,,,
+253,Bilel Derbel,CRIStAL,https://www.cristal.univ-lille.fr/profil/derbel,,,
+254,Bernard Carré,CRIStAL,https://www.cristal.univ-lille.fr/profil/carre,,,
+255,Mikaël Monet,CRIStAL,http://mikael-monet.net,,,
+256,Olivier Caron,CRIStAL,https://www.cristal.univ-lille.fr/profil/carono,,,
+257,Nicolas Anquetil,CRIStAL,https://www.cristal.univ-lille.fr/profil/anquetil,DSMdD9UAAAAJ,3948.0,31.0
+258,Yann Secq,CRIStAL,http://www.lifl.fr/~ysecq,Kk7Bg3cAAAAJ,297.0,8.0
+259,Pierre Laperdrix,CRIStAL,https://plaperdr.github.io,hcXaYRAAAAAJ,906.0,14.0
+260,Christophe Chaillou,CRIStAL,https://www.cristal.univ-lille.fr/profil/chaillou,mHUbF2cAAAAJ,1278.0,19.0
+261,Francesco De Comité,CRIStAL,https://www.cristal.univ-lille.fr/profil/decomite,,,
+262,Jan Ramon,CRIStAL,https://www.cristal.univ-lille.fr/profil/jramon,Di086VkAAAAJ,4469.0,32.0
+263,Marcus Denker,CRIStAL,https://www.cristal.univ-lille.fr/profil/denker,uVa--40AAAAJ,1650.0,23.0
+264,Cédric Dumoulin,CRIStAL,http://cristal.univ-lille.fr/~dumoulin,mmKnPuMAAAAJ,757.0,11.0
+265,Pierre Tirilly,CRIStAL,https://sites.google.com/site/tirillypierre/home,CKGKuOAAAAAJ,532.0,12.0
+266,Cristian Versari,CRIStAL,https://cristal.univ-lille.fr/~versaric,,,
+267,Cédric Lhoussaine,CRIStAL,https://www.cristal.univ-lille.fr/profil/lhoussai,,,
+268,Mikaela Keller,CRIStAL,https://www.cristal.univ-lille.fr/profil/kellerm,BbxquKkAAAAJ,943.0,11.0
+269,Rémi Gilleron,CRIStAL,https://sites.google.com/view/remi-gilleron,dKliE7IAAAAJ,3873.0,24.0
+270,Philippe Marquet,CRIStAL,https://www.cristal.univ-lille.fr/profil/marquet,IeTyR8gAAAAJ,1350.0,17.0
+271,Matthieu Basseur,CRIStAL,https://www.cristal.univ-lille.fr/profil/mbasseur,bwetphkAAAAJ,1440.0,20.0
+272,Samy Meftali,CRIStAL,https://www.cristal.univ-lille.fr/profil/meftali,W-8M4_YAAAAJ,981.0,17.0
+273,Maxime Ogier,CRIStAL,https://www.cristal.univ-lille.fr/profil/ogier,UHYkmIMAAAAJ,244.0,8.0
+274,Antoine Nongaillard,CRIStAL,https://www.cristal.univ-lille.fr/profil/anongail,,,
+275,Julien Forget,CRIStAL,https://www.cristal.univ-lille.fr/profil/forget,Xm0-xKwAAAAJ,566.0,12.0
+276,Philippe Merle,CRIStAL,https://www.cristal.univ-lille.fr/profil/merle,P-Bo69MAAAAJ,3271.0,29.0
+277,Omar Abdelkafi,CRIStAL,https://www.cristal.univ-lille.fr/profil/abdelkafi,Cz2bqtoAAAAJ,62.0,5.0
+278,Maxime Folschette,CRIStAL,https://www.cristal.univ-lille.fr/profil/mfolsche,,,
+279,Xavier Le Pallec,CRIStAL,http://cristal.univ-lille.fr/~lepallec,zO9OcTMAAAAJ,362.0,11.0
+280,Charles Paperman,CRIStAL,https://www.cristal.univ-lille.fr/profil/cpaperma,jzXAoMcAAAAJ,102.0,6.0
+281,Anne-Cécile Caron,CRIStAL,http://cristal.univ-lille.fr/~caronc,NMDTe3cAAAAJ,384.0,9.0
+282,François Boulier,CRIStAL,http://cristal.univ-lille.fr/~boulier/pmwiki/pmwiki.php,pzwDiKgAAAAJ,1329.0,17.0
+283,Julien Baste,CRIStAL,https://www.iut-info.univ-lille.fr/~baste,,,
+284,Philippe Preux,CRIStAL,https://philippe-preux.github.io,JTXxmeAAAAAJ,1673.0,22.0
+285,Charles Bouillaguet,CRIStAL,http://cristal.univ-lille.fr/~bouillag,5ov-TX4AAAAJ,946.0,18.0
+286,Aurélien Lemay,CRIStAL,https://www.cristal.univ-lille.fr/profil/alemay,,,
+287,José Mennesson,CRIStAL,https://www.cristal.univ-lille.fr/profil/mennesso,,,
+288,Ioan Marius Bilasco,CRIStAL,http://cristal.univ-lille.fr/~bilasco,jNBdRCsAAAAJ,827.0,17.0
+289,Mohamed Daoudi,CRIStAL,https://mohammeddaoudi.github.io/mdaoudi.github.io,7UoD6McAAAAJ,6495.0,43.0
+290,Luigi Lancieri,CRIStAL,http://cristal.univ-lille.fr/~lancieri,rYa0IzwAAAAJ,381.0,10.0
+291,Giuseppe Lipari,CRIStAL,http://cristal.univ-lille.fr/~lipari,rnBRPpQAAAAJ,7999.0,46.0
+292,Laurent Grisoni,CRIStAL,https://www.cristal.univ-lille.fr/profil/grisoni,38F4-JIAAAAJ,1949.0,21.0
+293,Clarisse Dhaenens,CRIStAL,http://cristal.univ-lille.fr/~dhaenens,0_tYTLoAAAAJ,2223.0,24.0
+294,Chaabane Djeraba,CRIStAL,http://cristal.univ-lille.fr/~djeraba,cCo-rYsAAAAJ,5371.0,33.0
+295,Stéphane Huot,CRIStAL,https://www.cristal.univ-lille.fr/profil/huot,hSznLJ8AAAAJ,1554.0,21.0
+296,Frédéric Semet,CRIStAL,https://www.cristal.univ-lille.fr/profil/fsemet,6iUyQhMAAAAJ,10433.0,41.0
+297,Géry Casiez,CRIStAL,http://cristal.univ-lille.fr/~casiez,_l0mjIoAAAAJ,2943.0,27.0
+298,Jean-Luc Dekeyser,CRIStAL,http://cristal.univ-lille.fr/~dekeyser,,,
+299,Pierre Bourhis,CRIStAL,http://cristal.univ-lille.fr/~bourhis,yykk3JMAAAAJ,1003.0,19.0
+300,Romain Rouvoy,CRIStAL,http://romain.rouvoy.fr,U3217h0AAAAJ,4203.0,35.0
+301,Laetitia Jourdan,CRIStAL,http://cristal.univ-lille.fr/~jourdan,HEUAUJkAAAAJ,3046.0,29.0
+302,Florent Berthaut,CRIStAL,https://www.cristal.univ-lille.fr/profil/fberthau,,,
+303,Jean-Marc Geib,CRIStAL,https://www.cristal.univ-lille.fr/profil/geib,,,
+304,Jean-Claude Tarby,CRIStAL,http://cristal.univ-lille.fr/~jctarby,FcMxq-0AAAAJ,799.0,14.0
+305,Fabio Vitale,CRIStAL,http://researchers.lille.inria.fr/vitale,,,
+306,Hassen Drira,CRIStAL,https://www.cristal.univ-lille.fr/profil/drirah,o1DTs2sAAAAJ,1018.0,16.0
+307,Hélène Touzet,CRIStAL,http://cristal.univ-lille.fr/~htouzet,Guh2y-gAAAAJ,3050.0,22.0
+308,Frédéric Hoogstoel,CRIStAL,https://www.cristal.univ-lille.fr/profil/hoogstoe,oYuyBlYAAAAJ,239.0,7.0
+309,Gilles Grimaud,CRIStAL,http://cristal.univ-lille.fr/~grimaud,,,
+310,Laurent Noé,CRIStAL,https://www.cristal.univ-lille.fr/profil/noe,PtgUoRIAAAAJ,3671.0,29.0
+311,Eric Leprêtre,CRIStAL,https://www.cristal.univ-lille.fr/profil/elepretr,,,
+312,José Rouillard,CRIStAL,http://www.cristal.univ-lille.fr/~rouillar,G7AtV2oAAAAJ,1039.0,17.0
+313,Sylvain Salvati,CRIStAL,https://www.cristal.univ-lille.fr/profil/ssalvati,,,
+314,Jean-Philippe Vandeborre,CRIStAL,https://www.cristal.univ-lille.fr/profil/vandebor,myhkjkwAAAAJ,1850.0,22.0
+315,Patricia Everaere,CRIStAL,https://www.cristal.univ-lille.fr/profil/everaerp,BiHJskUAAAAJ,420.0,13.0
+316,Louis Bigo,CRIStAL,http://louisbigo.com/louis_bigo,YWgcCiAAAAAJ,283.0,11.0
+317,Marie-Eléonore Kessaci,CRIStAL,https://www.cristal.univ-lille.fr/profil/kessaci,AV0dx5oAAAAJ,426.0,11.0
+318,Marie-Emilie Voge,CRIStAL,https://www.cristal.univ-lille.fr/profil/voge,,,
+319,Boulbaba Ben Amor,CRIStAL,https://sites.google.com/site/bbenamorshomepage1,8kGJcCIAAAAJ,2278.0,23.0
+320,Gilles Vanwormhoudt,CRIStAL,https://www.cristal.univ-lille.fr/profil/vanwormh,1vKkyqcAAAAJ,447.0,12.0
+321,Maxime Morge,CRIStAL,http://cristal.univ-lille.fr/~morge,aHV6JhwAAAAJ,571.0,12.0
+322,Iovka Boneva,CRIStAL,https://pro.univ-lille.fr/iovka-boneva,ZxXztaAAAAAJ,646.0,16.0
+323,Thomas Pietrzak,CRIStAL,http://www.thomaspietrzak.com,cxgDLYkAAAAJ,594.0,14.0
+324,Mirabelle Nebut,CRIStAL,http://cristal.univ-lille.fr/~nebut,,,
+325,Sylvain Malacria,CRIStAL,http://www.malacria.com,Me1oJeYAAAAJ,951.0,17.0
+326,Yvan Peter,CRIStAL,http://cristal.univ-lille.fr/~peter,LM3OsaIAAAAJ,343.0,9.0
+327,Emmanuel Renaux,CRIStAL,https://www.cristal.univ-lille.fr/profil/renaux,,,
+328,Anne Etien,CRIStAL,http://cristal.univ-lille.fr/~etien,KsqwRvwAAAAJ,1514.0,21.0
+329,Hayfa Zgaya,CRIStAL,https://www.cristal.univ-lille.fr/profil/hzgaya,,,
+330,Emilie Kaufmann,CRIStAL,http://chercheurs.lille.inria.fr/ekaufman,9GE1vx4AAAAJ,3089.0,24.0
+331,Julie Jacques,CRIStAL,https://www.cristal.univ-lille.fr/profil/jacques,,,
+332,Julien Cartigny,CRIStAL,https://pro.univ-lille.fr/julien-iguchi-cartigny,,,
+333,Vlad Rusu,CRIStAL,https://www.cristal.univ-lille.fr/profil/rusu,uDBCQR8AAAAJ,1870.0,23.0
+334,Laurence Duchien,CRIStAL,http://chercheurs.lille.inria.fr/~duchien,wwofzdYAAAAJ,4656.0,35.0
+335,Fabien Torre,CRIStAL,https://fabien-torre.fr,IAx6N4EAAAAJ,288.0,9.0
+336,Antoine Limasset,CRIStAL,https://www.cristal.univ-lille.fr/profil/alimasse,EW4USK4AAAAJ,597.0,11.0
+337,Hazem Wannous,CRIStAL,https://www.cristal.univ-lille.fr/profil/wannous,WsdQ9Z0AAAAJ,1608.0,19.0
+338,Maude Klaerr-Blanchard,CRIStAL,http://cristal.univ-lille.fr/~pupin,2MNQbZUAAAAJ,5728.0,17.0
+339,Stéphane Ducasse,CRIStAL,http://stephane.ducasse.free.fr,7fHNqtoAAAAJ,15944.0,60.0
+340,Steven Costiou,CRIStAL,https://www.cristal.univ-lille.fr/profil/scostiou,KLPmm0gAAAAJ,56.0,5.0
+341,Jean-Christophe Routier,CRIStAL,http://cristal.univ-lille.fr/~routier,,,
+342,Pierre Boulet,CRIStAL,https://www.cristal.univ-lille.fr/profil/boulet,gzy0ay0AAAAJ,1900.0,23.0
+343,Philippe Devienne,CRIStAL,https://www.cristal.univ-lille.fr/profil/devienne,,,
+344,Mathieu Giraud,CRIStAL,http://cristal.univ-lille.fr/~giraud,xNgheEoAAAAJ,1158.0,15.0
+345,Samuel Hym,CRIStAL,https://www.cristal.univ-lille.fr/profil/hym,,,
+346,Lionel Seinturier,CRIStAL,http://chercheurs.lille.inria.fr/~seinturi,XmiDIkYAAAAJ,4879.0,35.0
+347,Fabrice Aubert,CRIStAL,https://www.cristal.univ-lille.fr/profil/aubert,,,
+348,Michaël Hauspie,CRIStAL,https://pro.univ-lille.fr/michael-hauspie,05gAqPUAAAAJ,490.0,11.0
+349,Jérémie Dequidt,CRIStAL,https://www.cristal.univ-lille.fr/profil/jdequidt,ySTwAskAAAAJ,1164.0,19.0
+350,Pierre Fortin,CRIStAL,https://pro.univ-lille.fr/pierre-fortin,,,
+351,Arnaud Liefooghe,CRIStAL,https://sites.google.com/site/arnaudliefooghe,Y2kuG1sAAAAJ,1667.0,23.0
+352,Nordine Melab,CRIStAL,http://cristal.univ-lille.fr/~melab,,,
+353,Vincent Aranega,CRIStAL,https://pro.univ-lille.fr/vincent-aranega,c_Lv5PEAAAAJ,195.0,7.0
+354,Clément Quinton,CRIStAL,https://www.cristal.univ-lille.fr/profil/quinton,1nx4T-cAAAAJ,597.0,13.0
+355,Sophie Tison,CRIStAL,http://cristal.univ-lille.fr/~tison,TlhLBFYAAAAJ,3639.0,21.0
+356,Alexandre Sedoglavic,CRIStAL,https://www.cristal.univ-lille.fr/profil/sedoglav,,,
+357,Clément Ballabriga,CRIStAL,https://www.cristal.univ-lille.fr/profil/ballabri,,,
+358,Mikaël Salson,CRIStAL,http://cristal.univ-lille.fr/~salson,,,
+359,Damien Pollet,CRIStAL,https://www.cristal.univ-lille.fr/profil/pollet,UpBOx-YAAAAJ,1964.0,16.0
+360,Luce Brotcorne,CRIStAL,https://www.cristal.univ-lille.fr/profil/brotcorn,FbDXUDEAAAAJ,2054.0,17.0
+361,Adrien Poteaux,CRIStAL,https://www.cristal.univ-lille.fr/profil/poteaux,,,
+362,Nadarajen Veerapen,CRIStAL,https://www.cristal.univ-lille.fr/profil/veerapen,N-1KB5sAAAAJ,453.0,12.0
+363,Céline Kuttler,CRIStAL,https://www.cristal.univ-lille.fr/profil/kuttler,,,
+364,Bruno Beaufils,CRIStAL,https://ext.boulgour.com/lifl/beaufils,LgU7J9YAAAAJ,308.0,9.0
+365,Jean-Stéphane Varré,CRIStAL,http://cristal.univ-lille.fr/~varre,,,
+366,Stéphane Janot,CRIStAL,https://www.cristal.univ-lille.fr/profil/janot,,,
+367,Yves Roos,CRIStAL,https://www.cristal.univ-lille.fr/profil/yroos,Bnsty4EAAAAJ,360.0,9.0
+368,Mathieu Nancel,CRIStAL,http://mathieu.nancel.net,-Lm0OKsAAAAJ,1102.0,14.0
+369,Thomas Vantroys,CRIStAL,https://www.cristal.univ-lille.fr/profil/vantroys,cBzELssAAAAJ,364.0,10.0
+370,Walter Andrew Rudametkin Ivey,CRIStAL,https://www.cristal.univ-lille.fr/profil/wrudamet,vJQGm9kAAAAJ,961.0,14.0
+371,Simon Bliudze,CRIStAL,https://www.cristal.univ-lille.fr/profil/sbliudze,P_D0LkkAAAAJ,1139.0,16.0
+372,El-Ghazali Talbi,CRIStAL,https://www.cristal.univ-lille.fr/profil/talbi,hoQmzocAAAAJ,18517.0,59.0
+373,Christian Duriez,CRIStAL,https://team.inria.fr/defrost/team-members/christian-duriez,sAA2koIAAAAJ,4852.0,33.0
+374,Joachim Niehren,CRIStAL,http://researchers.lille.inria.fr/niehren,sG4pk9cAAAAJ,3071.0,32.0
+375,Philippe Mathieu,CRIStAL,http://cristal.univ-lille.fr/~mathieu,QCLMl_YAAAAJ,2204.0,22.0
+376,Slawek Staworko,CRIStAL,https://www.cristal.univ-lille.fr/profil/staworko,YERhuN8AAAAJ,1134.0,19.0
+377,Aurélien Bellet,CRIStAL,http://researchers.lille.inria.fr/abellet,j8svx3IAAAAJ,4095.0,20.0
+378,Marc Tommasi,CRIStAL,http://researchers.lille.inria.fr/tommasi,IRyM3b8AAAAJ,3777.0,21.0
+379,Xiangdong Li,CUNY,http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Xiangdong-Li,hK4H4z4AAAAJ,32751.0,89.0
+380,Susan D. Epstein,CUNY,http://www.cs.hunter.cuny.edu/~epstein,t7wcF4UAAAAJ,1709.0,23.0
+381,Saptarshi Debroy,CUNY,http://www.cs.hunter.cuny.edu/~S.Debroy99,z1Lr_cUAAAAJ,404.0,11.0
+382,Raffi Khatchadourian,CUNY,http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99,gr8cON0AAAAJ,343.0,10.0
+383,Saad Mneimneh,CUNY,http://www.cs.hunter.cuny.edu/~saad,8dRxlUsAAAAJ,278.0,8.0
+384,Sergei N. Artëmov,CUNY,http://sartemov.ws.gc.cuny.edu,MdiynQcAAAAJ,3606.0,29.0
+385,Ioannis Stamos,CUNY,http://www.cs.hunter.cuny.edu/~ioannis,ENLTjooAAAAJ,2620.0,23.0
+386,T. Yung Kong,CUNY,http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/T-Yung-Kong,Hbb5UBgAAAAJ,3977.0,23.0
+387,Saul Aaron Kripke,CUNY,http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Faculty-Bios/Saul-Kripke,MRCc_ugAAAAJ,40592.0,25.0
+388,Michael E. Kress,CUNY,http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Michael-E-Kress,VB2V-fAAAAAJ,287.0,10.0
+389,William G. Sakas,CUNY,http://www.cs.hunter.cuny.edu/~sakas,swe6S54AAAAJ,553.0,9.0
+390,Yedidyah Langsam,CUNY,http://eilat.sci.brooklyn.cuny.edu,ahb9YKgAAAAJ,498.0,9.0
+391,Gabor T. Herman,CUNY,http://www.dig.cs.gc.cuny.edu/~gabor,B153thgAAAAJ,33638.0,72.0
+392,Jie Wei,CUNY,https://www.ccny.cuny.edu/profiles/jie-wei,VOuKF7sAAAAJ,1386.0,9.0
+393,Izidor Gertner,CUNY,https://www.ccny.cuny.edu/profiles/izidor-gertner,-3lkqowAAAAJ,1232.0,18.0
+394,Akira Kawaguchi,CUNY,https://www.ccny.cuny.edu/profiles/akira-kawaguchi,7cF0q3YAAAAJ,1612.0,15.0
+395,Felisa J. Vázquez-Abad,CUNY,http://www.hunter.cuny.edu/csci/people/faculty,KbF8FhwAAAAJ,1160.0,18.0
+396,Abbe Mowshowitz,CUNY,https://www.ccny.cuny.edu/profiles/abbe-mowshowitz,KwmExSIAAAAJ,5554.0,30.0
+397,Zhigang Xiang,CUNY,http://www.cs.qc.cuny.edu/xiang.html,OFOR6ekAAAAJ,630.0,10.0
+398,Michael D. Grossberg,CUNY,https://www.ccny.cuny.edu/profiles/michael-grossberg,O3lqKpcAAAAJ,5833.0,32.0
+399,Scott Dexter,CUNY,http://www.sci.brooklyn.cuny.edu/~sdexter,3G3DI9QAAAAJ,1319.0,13.0

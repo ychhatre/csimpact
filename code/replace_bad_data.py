@@ -38,7 +38,7 @@ def findMaxCitations(web_elements: list):
 professors = []
 professorExists = True
 
-for i in range(400, 801):
+for i in range(8000, 12000):
     
     # initialize values
     scholar_id = data.iat[i, 3]

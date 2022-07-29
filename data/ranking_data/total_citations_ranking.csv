@@ -1,597 +1,597 @@
-,total_h_index
-0,Univ. of California - Berkeley
-1,Carnegie Mellon University
-2,Massachusetts Institute of Technology
-3,Univ. of California - San Diego
-4,Stanford University
-5,Univ. of Illinois at Urbana-Champaign
-6,University of Edinburgh
-7,Max Planck Society
-8,Cornell University
-9,Columbia University
-10,University of Maryland - College Park
-11,EPFL
-12,Northeastern University
-13,University of Toronto
-14,Georgia Institute of Technology
-15,Univ. of California - Los Angeles
-16,University of Montreal
-17,University of Washington
-18,University College London
-19,KAIST
-20,University of Pennsylvania
-21,Nanyang Technological University
-22,University of Michigan
-23,ETH Zurich
-24,Princeton University
-25,New York University
-26,Univ. of California - Irvine
-27,University of Texas at Austin
-28,Tsinghua University
-29,University of Oxford
-30,Pennsylvania State University
-31,HKUST
-32,University of Southern California
-33,Purdue University
-34,Technion
-35,Indiana University
-36,University of Minnesota
-37,University of Waterloo
-38,Shanghai Jiao Tong University
-39,University of Kansas
-40,University of Wisconsin - Madison
-41,Universidade de Lisboa
-42,Imperial College London
-43,Duke University
-44,University of Waikato
-45,University of Melbourne
-46,Harvard University
-47,National University of Singapore
-48,TU Munich
-49,Weizmann Institute of Science
-50,Johns Hopkins University
-51,University of Chicago
-52,University of Utah
-53,Stony Brook University
-54,CUNY
-55,University of Alberta
-56,Western University
-57,University of Massachusetts Amherst
-58,University of British Columbia
-59,Hebrew University of Jerusalem
-60,Peking University
-61,TU Berlin
-62,Chinese Academy of Sciences
-63,Michigan State University
-64,Monash University
-65,Chinese University of Hong Kong
-66,University of Cambridge
-67,Simon Fraser University
-68,University of Illinois at Chicago
-69,University of Sydney
-70,Rutgers University
-71,Univ. of California - Davis
-72,Università della Svizzera italiana
-73,California Institute of Technology
-74,University of Colorado Boulder
-75,University of North Carolina
-76,Politecnico di Milano
-77,Graz University of Technology
-78,Zhejiang University
-79,University of Tennessee
-80,University of Central Florida
-81,University of Southampton
-82,Univ. of California - Santa Barbara
-83,University of Freiburg
-84,University of Rochester
-85,University at Buffalo
-86,Tel Aviv University
-87,VU Amsterdam
-88,University of Kent
-89,Rochester Institute of Technology
-90,Victoria University of Wellington
-91,Univ. of California - Santa Cruz
-92,Brown University
-93,University of Notre Dame
-94,Ecole Normale Superieure
-95,Univ. of California - Riverside
-96,University of Tübingen
-97,Boston University
-98,University of Texas at Arlington
-99,Rice University
-100,LMU Munich
-101,Yale University
-102,Texas A&M University
-103,Washington University in St. Louis
-104,TU Delft
-105,University of Tokyo
-106,Sapienza University of Rome
-107,Arizona State University
-108,Australian National University
-109,University of Queensland
-110,KU Leuven
-111,York University
-112,Seoul National University
-113,Oregon State University
-114,Vanderbilt University
-115,RWTH Aachen
-116,George Mason University
-117,UNSW
-118,University of Virginia
-119,KTH Royal Institute of Technology
-120,North Carolina State University
-121,Queen’s University
-122,Karlsruhe Institute of Technology
-123,KAUST
-124,University of Amsterdam
-125,Ohio State University
-126,University of Trento
-127,University of Adelaide
-128,Northwestern University
-129,Georgetown University
-130,University of Copenhagen
-131,University of Pittsburgh
-132,CWI
-133,Radboud University
-134,University of Manchester
-135,Nanjing University
-136,The Hong Kong Polytechnic University
-137,Virginia Tech
-138,University of Stuttgart
-139,University of Manitoba
-140,University of Texas at Dallas
-141,University of Liverpool
-142,SUSTech
-143,Harbin Institute of Technology
-144,National Taiwan University
-145,TU Wien
-146,University of Warwick
-147,University of York
-148,Aalto University
-149,City University of Hong Kong
-150,JKU Linz
-151,Queen Mary University of London
-152,Xidian University
-153,Singapore Management University
-154,UFMG
-155,Czech Technical University
-156,UESTC
-157,University of Surrey
-158,University of Arizona
-159,University of Hong Kong
-160,IT University of Copenhagen
-161,University of Ottawa
-162,Saarland University
-163,Bar-Ilan University
-164,Uppsala University
-165,University of Helsinki
-166,MBZUAI
-167,University of Auckland
-168,USTC
-169,University of Technology Sydney
-170,Univ. of Maryland - Baltimore County
-171,Lancaster University
-172,TU Darmstadt
-173,NJIT
-174,Tampere University
-175,Univ. of California - Merced
-176,University of Nottingham
-177,IST Austria
-178,University of South Florida
-179,TTI Chicago
-180,IIT Guwahati
-181,McGill University
-182,University of Connecticut
-183,University of Sheffield
-184,University of Florida
-185,University of Bremen
-186,Temple University
-187,Washington State University
-188,University of Birmingham
-189,University of Essex
-190,University of Bristol
-191,CRIStAL
-192,Worcester Polytechnic Institute
-193,Rensselaer Polytechnic Institute
-194,Chalmers/GU
-195,Brunel University London
-196,University of Glasgow
-197,University of Salerno
-198,TU Eindhoven
-199,Polytechnic University of Catalonia
-200,EURECOM
-201,University of Houston
-202,University of Calgary
-203,Carleton University
-204,Utrecht University
-205,University of Massachusetts Lowell
-206,Cardiff University
-207,NWPU
-208,University College Dublin
-209,Hasso Plattner Institute
-210,University of Nebraska
-211,Aalborg University
-212,Dartmouth College
-213,HSE University
-214,University of Pisa
-215,Ecole Normale Superieure de Cachan
-216,Emory University
-217,University of Vienna
-218,University of Leipzig
-219,National Chiao Tung University
-220,Kyoto University
-221,Clemson University
-222,Ecole Normale Superieure de Lyon
-223,King's College London
-224,IIIT Hyderabad
-225,NTUA
-226,Fudan University
-227,BUPT
-228,University of Athens
-229,University of Klagenfurt
-230,POSTECH
-231,Osaka University
-232,Aarhus University
-233,RMIT University
-234,CISPA Helmholtz Center
-235,Florida State University
-236,Bilkent University
-237,City University of London
-238,University of Delaware
-239,University of Bath
-240,IIT Kharagpur
-241,University of Crete
-242,University of Tsukuba
-243,University of Piraeus
-244,University of South Carolina
-245,Ruhr-University Bochum
-246,IISc Bangalore
-247,Heidelberg University
-248,AUEB
-249,Iowa State University
-250,SUTD
-251,Drexel University
-252,University of Warsaw
-253,IIT Bombay
-254,University of Leeds
-255,University of Luxembourg
-256,Queen's University Belfast
-257,Macquarie University
-258,Northern Arizona University
-259,University of Zurich
-260,University of Oregon
-261,University of Erlangen–Nuremberg
-262,TU Dresden
-263,Dalhousie University
-264,Brigham Young University
-265,University of Victoria
-266,Royal Holloway University of London
-267,Tokyo Institute of Technology
-268,University of Konstanz
-269,IIT Kanpur
-270,University of Hannover
-271,University of Tartu
-272,Colorado State University
-273,Sun Yat-sen University
-274,University of Saskatchewan
-275,USP-ICMC
-276,UFRGS
-277,University of Bonn
-278,University of Hamburg
-279,Open University UK
-280,University of Texas at San Antonio
-281,Binghamton University
-282,Xi'an Jiaotong University
-283,Concordia University
-284,University of Otago
-285,Shenzhen University
-286,TU Kaiserslautern
-287,University of Innsbruck
-288,Illinois Institute of Technology
-289,University of A Coruña
-290,University of Mannheim
-291,University of Massachusetts Boston
-292,Lund University
-293,Hong Kong Baptist University
-294,NTNU
-295,University of Georgia
-296,Wayne State University
-297,Heriot-Watt University
-298,Florida International University
-299,University of Hawaii at Manoa
-300,University of New Brunswick
-301,University of Lübeck
-302,HUST
-303,University of Würzburg
-304,Texas A&M at Qatar
-305,UCCS
-306,Université libre de Bruxelles
-307,Ben-Gurion University of the Negev
-308,Queensland University of Technology
-309,Humboldt University of Berlin
-310,University of Ioannina
-311,Lehigh University
-312,Paderborn University
-313,Renmin University of China
-314,University of Guelph
-315,University of Ulm
-316,University of Western Australia
-317,Qatar Computing Research Institute
-318,Tufts University
-319,Georgia State University
-320,Wuhan University
-321,Colorado School of Mines
-322,TU Braunschweig
-323,Birkbeck University of London
-324,Masaryk University
-325,Florida Atlantic University
-326,University of Iowa
-327,College of William and Mary
-328,Hunan University
-329,Goethe University Frankfurt
-330,IMDEA Networks Institute
-331,UNICAMP
-332,Case Western Reserve University
-333,University of Magdeburg
-334,ETS Montreal
-335,Yonsei University
-336,IIIT Delhi
-337,National Tsing Hua University
-338,DePaul University
-339,University of Münster
-340,Westlake University
-341,University of North Texas
-342,Maastricht University
-343,PUC-RIO
-344,Syracuse University
-345,University of Düsseldorf
-346,Virginia Commonwealth University
-347,University of Sannio
-348,IIT Delhi
-349,Bielefeld University
-350,Beihang University
-351,University of Passau
-352,PUC-RS
-353,UFRJ
-354,University of Kiel
-355,TU Dortmund
-356,University of Sussex
-357,University of Duisburg-Essen
-358,University of Vermont
-359,NYU Shanghai
-360,University of Wroclaw
-361,UFPE
-362,Missouri University of Technology
-363,UFF
-364,Qatar University
-365,University of Kentucky
-366,University of New Mexico
-367,Durham University
-368,University of Murcia
-369,IIT Patna
-370,USP
-371,University of Exeter
-372,University of Augsburg
-373,IUPUI
-374,University of Groningen
-375,Auburn University
-376,Universidade NOVA de Lisboa
-377,University of Missouri
-378,Brandeis University
-379,University of Regina
-380,IPI PAN
-381,ShanghaiTech University
-382,Hacettepe University
-383,Boise State University
-384,University of Rostock
-385,Stevens Institute of Technology
-386,Keio University
-387,Massey University
-388,West Virginia University
-389,University of Nevada
-390,University of Louisiana - Lafayette
-391,Tata Inst. of Fundamental Research
-392,UNC - Charlotte
-393,Charles University
-394,Ontario Tech University
-395,University of Göttingen
-396,IIT Madras
-397,University of St Andrews
-398,Universidad Rey Juan Carlos
-399,National Cheng Kung University
-400,Aberystwyth University
-401,Université de Sherbrooke
-402,University of Potsdam
-403,Brno University of Technology
-404,University of Malaya
-405,George Washington University
-406,Kansas State University
-407,DAIICT
-408,University of Marburg
-409,University of Memphis
-410,Louisiana State University
-411,IIT (BHU) Varanasi
-412,Universidad de Chile
-413,Boğaziçi University
-414,Cleveland State University
-415,Korea University
-416,Özyeğin University
-417,Middle East Technical University
-418,American University of Beirut
-419,University of Buenos Aires
-420,Université Laval
-421,TU Ilmenau
-422,University of Michigan-Dearborn
-423,IIIT Bangalore
-424,IIT Hyderabad
-425,UNIST
-426,University of Canterbury
-427,New Mexico State University
-428,UFPR
-429,IMDEA Software Institute
-430,University of Haifa
-431,Université Jean Monnet
-432,University of Koblenz-Landau
-433,University of Aberdeen
-434,Soochow University
-435,Shandong University
-436,University of Bern
-437,Sharif University of Technology
-438,University of Kassel
-439,University of Dundee
-440,University of L'Aquila
-441,Bundeswehr University Munich
-442,University of Szeged
-443,McMaster University
-444,University of Miami
-445,Scuola Superiore Sant'Anna
-446,Old Dominion University
-447,University of Bamberg
-448,University of Oklahoma
-449,University of Louisville
-450,Cyprus University of Technology
-451,Tilburg University
-452,Texas State University
-453,University of New Hampshire
-454,Hanyang University
-455,Kyungpook National University
-456,Waseda University
-457,University of Texas - El Paso
-458,IIT Gandhinagar
-459,University of Siegen
-460,Istanbul Technical University
-461,Lebanese American University
-462,Ryerson University
-463,BITS Pilani
-464,University of Missouri - Kansas City
-465,Naval Postgraduate School
-466,Goldsmiths University of London
-467,Middlesex University
-468,Koç University
-469,Tulane University
-470,University of Newcastle
-471,Bocconi University
-472,Portland State University
-473,University of Wuppertal
-474,University of Bayreuth
-475,Kent State University
-476,University of Mainz
-477,TOBB ETÜ
-478,University of Oldenburg
-479,University of Hildesheim
-480,Loughborough University
-481,Florida Institute of Technology
-482,Polytechnique Montreal
-483,Augusta University
-484,Freie Universitaet Berlin
-485,Kyung Hee University
-486,Friedrich Schiller University Jena
-487,Universidade de Brasília
-488,IUST
-489,University of Osnabrück
-490,IIT Mandi
-491,Masdar Institute
-492,University of Wyoming
-493,University of Salzburg
-494,University of Cincinnati
-495,JUST
-496,University of Tulsa
-497,University of Molise
-498,CMI
-499,Jacobs University Bremen
-500,University of Bergen
-501,Sabancı University
-502,BUET
-503,IIT Roorkee
-504,University of Trier
-505,Texas Tech University
-506,Tongji University
-507,Memorial University of Newfoundland
-508,TU Clausthal
-509,Universidad de los Andes
-510,University of Alabama - Birmingham
-511,IIT Ropar
-512,Universidad Nacional de Córdoba
-513,Hamburg University of Technology
-514,Federal University of Rio Grande
-515,Ariel University
-516,Nova Southeastern University
-517,University of Jordan
-518,Stellenbosch University
-519,Yıldız Technical University
-520,UFU
-521,Brandenburg University of Technology
-522,King Abdulaziz University
-523,The University of Alabama
-524,IIT Jodhpur
-525,Oakland University
-526,University of Cape Town
-527,University of Nicosia
-528,University of Arkansas
-529,Southern Methodist University
-530,University of Halle-Wittenberg
-531,Boston College
-532,University at Albany - SUNY
-533,BITS Pilani-Goa
-534,Michigan Technological University
-535,Wichita State University
-536,LUMS
-537,Claremont Graduate University
-538,Utah State University
-539,Western Michigan University
-540,University of Nevada Las Vegas
-541,TU Chemnitz
-542,Bauhaus University Weimar
-543,OHSU
-544,University of Windsor
-545,University of Idaho
-546,University of Maine
-547,Universidad de Zaragoza
-548,University of Malta
-549,University of Wisconsin - Milwaukee
-550,IIT Indore
-551,Izmir Institute of Technology
-552,Galatasaray University
-553,University of New Orleans
-554,Towson University
-555,Ohio University
-556,University of Alabama - Huntsville
-557,Mississippi State University
-558,American University in Cairo
-559,University of Southern Mississippi
-560,South Asian University
-561,IPM
-562,UFMS
-563,University of Denver
-564,Ecole Normale Superieure de Rennes
-565,Montana State University
-566,SUFE
-567,De La Salle University
-568,National Institute of Technology Silchar
-569,IMSc
-570,KMUTNB
-571,Universidade Federal de Viçosa
-572,Simula UiB
-573,University of Nebraska - Omaha
-574,Oklahoma State University
-575,Babeș-Bolyai University
-576,Missouri S&T
-577,IIT Bhubaneswar
-578,Royal Military College of Canada
-579,New Mexico Tech
-580,Simmons University
-581,University of Twente
-582,North Dakota State University
-583,DTU
-584,Air Force Institute of Technology
-585,IIT Goa
-586,Indiana State University
-587,Chulalongkorn University
-588,Ruhr-Universty Bochum
-589,University of Arkansas - Little Rock
-590,TU Freiberg
-591,University of Colorado - Denver
-592,Wichita State Unitveristy
-593,University of Mississippi
-594,LIU Post
-595,Louisiana Tech University
+college
+Univ. of California - Berkeley
+Carnegie Mellon University
+Massachusetts Institute of Technology
+Univ. of California - San Diego
+Stanford University
+Univ. of Illinois at Urbana-Champaign
+University of Edinburgh
+Max Planck Society
+Cornell University
+Columbia University
+University of Maryland - College Park
+EPFL
+Northeastern University
+University of Toronto
+Georgia Institute of Technology
+Univ. of California - Los Angeles
+University of Montreal
+University of Washington
+University College London
+KAIST
+University of Pennsylvania
+Nanyang Technological University
+University of Michigan
+ETH Zurich
+Princeton University
+New York University
+Univ. of California - Irvine
+University of Texas at Austin
+Tsinghua University
+University of Oxford
+Pennsylvania State University
+HKUST
+University of Southern California
+Purdue University
+Technion
+Indiana University
+University of Minnesota
+University of Waterloo
+Shanghai Jiao Tong University
+University of Kansas
+University of Wisconsin - Madison
+Universidade de Lisboa
+Imperial College London
+Duke University
+University of Waikato
+University of Melbourne
+Harvard University
+National University of Singapore
+TU Munich
+Weizmann Institute of Science
+Johns Hopkins University
+University of Chicago
+University of Utah
+Stony Brook University
+CUNY
+University of Alberta
+Western University
+University of Massachusetts Amherst
+University of British Columbia
+Hebrew University of Jerusalem
+Peking University
+TU Berlin
+Chinese Academy of Sciences
+Michigan State University
+Monash University
+Chinese University of Hong Kong
+University of Cambridge
+Simon Fraser University
+University of Illinois at Chicago
+University of Sydney
+Rutgers University
+Univ. of California - Davis
+Università della Svizzera italiana
+California Institute of Technology
+University of Colorado Boulder
+University of North Carolina
+Politecnico di Milano
+Graz University of Technology
+Zhejiang University
+University of Tennessee
+University of Central Florida
+University of Southampton
+Univ. of California - Santa Barbara
+University of Freiburg
+University of Rochester
+University at Buffalo
+Tel Aviv University
+VU Amsterdam
+University of Kent
+Rochester Institute of Technology
+Victoria University of Wellington
+Univ. of California - Santa Cruz
+Brown University
+University of Notre Dame
+Ecole Normale Superieure
+Univ. of California - Riverside
+University of Tübingen
+Boston University
+University of Texas at Arlington
+Rice University
+LMU Munich
+Yale University
+Texas A&M University
+Washington University in St. Louis
+TU Delft
+University of Tokyo
+Sapienza University of Rome
+Arizona State University
+Australian National University
+University of Queensland
+KU Leuven
+York University
+Seoul National University
+Oregon State University
+Vanderbilt University
+RWTH Aachen
+George Mason University
+UNSW
+University of Virginia
+KTH Royal Institute of Technology
+North Carolina State University
+Queen’s University
+Karlsruhe Institute of Technology
+KAUST
+University of Amsterdam
+Ohio State University
+University of Trento
+University of Adelaide
+Northwestern University
+Georgetown University
+University of Copenhagen
+University of Pittsburgh
+CWI
+Radboud University
+University of Manchester
+Nanjing University
+The Hong Kong Polytechnic University
+Virginia Tech
+University of Stuttgart
+University of Manitoba
+University of Texas at Dallas
+University of Liverpool
+SUSTech
+Harbin Institute of Technology
+National Taiwan University
+TU Wien
+University of Warwick
+University of York
+Aalto University
+City University of Hong Kong
+JKU Linz
+Queen Mary University of London
+Xidian University
+Singapore Management University
+UFMG
+Czech Technical University
+UESTC
+University of Surrey
+University of Arizona
+University of Hong Kong
+IT University of Copenhagen
+University of Ottawa
+Saarland University
+Bar-Ilan University
+Uppsala University
+University of Helsinki
+MBZUAI
+University of Auckland
+USTC
+University of Technology Sydney
+Univ. of Maryland - Baltimore County
+Lancaster University
+TU Darmstadt
+NJIT
+Tampere University
+Univ. of California - Merced
+University of Nottingham
+IST Austria
+University of South Florida
+TTI Chicago
+IIT Guwahati
+McGill University
+University of Connecticut
+University of Sheffield
+University of Florida
+University of Bremen
+Temple University
+Washington State University
+University of Birmingham
+University of Essex
+University of Bristol
+CRIStAL
+Worcester Polytechnic Institute
+Rensselaer Polytechnic Institute
+Chalmers/GU
+Brunel University London
+University of Glasgow
+University of Salerno
+TU Eindhoven
+Polytechnic University of Catalonia
+EURECOM
+University of Houston
+University of Calgary
+Carleton University
+Utrecht University
+University of Massachusetts Lowell
+Cardiff University
+NWPU
+University College Dublin
+Hasso Plattner Institute
+University of Nebraska
+Aalborg University
+Dartmouth College
+HSE University
+University of Pisa
+Ecole Normale Superieure de Cachan
+Emory University
+University of Vienna
+University of Leipzig
+National Chiao Tung University
+Kyoto University
+Clemson University
+Ecole Normale Superieure de Lyon
+King's College London
+IIIT Hyderabad
+NTUA
+Fudan University
+BUPT
+University of Athens
+University of Klagenfurt
+POSTECH
+Osaka University
+Aarhus University
+RMIT University
+CISPA Helmholtz Center
+Florida State University
+Bilkent University
+City University of London
+University of Delaware
+University of Bath
+IIT Kharagpur
+University of Crete
+University of Tsukuba
+University of Piraeus
+University of South Carolina
+Ruhr-University Bochum
+IISc Bangalore
+Heidelberg University
+AUEB
+Iowa State University
+SUTD
+Drexel University
+University of Warsaw
+IIT Bombay
+University of Leeds
+University of Luxembourg
+Queen's University Belfast
+Macquarie University
+Northern Arizona University
+University of Zurich
+University of Oregon
+University of Erlangen–Nuremberg
+TU Dresden
+Dalhousie University
+Brigham Young University
+University of Victoria
+Royal Holloway University of London
+Tokyo Institute of Technology
+University of Konstanz
+IIT Kanpur
+University of Hannover
+University of Tartu
+Colorado State University
+Sun Yat-sen University
+University of Saskatchewan
+USP-ICMC
+UFRGS
+University of Bonn
+University of Hamburg
+Open University UK
+University of Texas at San Antonio
+Binghamton University
+Xi'an Jiaotong University
+Concordia University
+University of Otago
+Shenzhen University
+TU Kaiserslautern
+University of Innsbruck
+Illinois Institute of Technology
+University of A Coruña
+University of Mannheim
+University of Massachusetts Boston
+Lund University
+Hong Kong Baptist University
+NTNU
+University of Georgia
+Wayne State University
+Heriot-Watt University
+Florida International University
+University of Hawaii at Manoa
+University of New Brunswick
+University of Lübeck
+HUST
+University of Würzburg
+Texas A&M at Qatar
+UCCS
+Université libre de Bruxelles
+Ben-Gurion University of the Negev
+Queensland University of Technology
+Humboldt University of Berlin
+University of Ioannina
+Lehigh University
+Paderborn University
+Renmin University of China
+University of Guelph
+University of Ulm
+University of Western Australia
+Qatar Computing Research Institute
+Tufts University
+Georgia State University
+Wuhan University
+Colorado School of Mines
+TU Braunschweig
+Birkbeck University of London
+Masaryk University
+Florida Atlantic University
+University of Iowa
+College of William and Mary
+Hunan University
+Goethe University Frankfurt
+IMDEA Networks Institute
+UNICAMP
+Case Western Reserve University
+University of Magdeburg
+ETS Montreal
+Yonsei University
+IIIT Delhi
+National Tsing Hua University
+DePaul University
+University of Münster
+Westlake University
+University of North Texas
+Maastricht University
+PUC-RIO
+Syracuse University
+University of Düsseldorf
+Virginia Commonwealth University
+University of Sannio
+IIT Delhi
+Bielefeld University
+Beihang University
+University of Passau
+PUC-RS
+UFRJ
+University of Kiel
+TU Dortmund
+University of Sussex
+University of Duisburg-Essen
+University of Vermont
+NYU Shanghai
+University of Wroclaw
+UFPE
+Missouri University of Technology
+UFF
+Qatar University
+University of Kentucky
+University of New Mexico
+Durham University
+University of Murcia
+IIT Patna
+USP
+University of Exeter
+University of Augsburg
+IUPUI
+University of Groningen
+Auburn University
+Universidade NOVA de Lisboa
+University of Missouri
+Brandeis University
+University of Regina
+IPI PAN
+ShanghaiTech University
+Hacettepe University
+Boise State University
+University of Rostock
+Stevens Institute of Technology
+Keio University
+Massey University
+West Virginia University
+University of Nevada
+University of Louisiana - Lafayette
+Tata Inst. of Fundamental Research
+UNC - Charlotte
+Charles University
+Ontario Tech University
+University of Göttingen
+IIT Madras
+University of St Andrews
+Universidad Rey Juan Carlos
+National Cheng Kung University
+Aberystwyth University
+Université de Sherbrooke
+University of Potsdam
+Brno University of Technology
+University of Malaya
+George Washington University
+Kansas State University
+DAIICT
+University of Marburg
+University of Memphis
+Louisiana State University
+IIT (BHU) Varanasi
+Universidad de Chile
+Boğaziçi University
+Cleveland State University
+Korea University
+Özyeğin University
+Middle East Technical University
+American University of Beirut
+University of Buenos Aires
+Université Laval
+TU Ilmenau
+University of Michigan-Dearborn
+IIIT Bangalore
+IIT Hyderabad
+UNIST
+University of Canterbury
+New Mexico State University
+UFPR
+IMDEA Software Institute
+University of Haifa
+Université Jean Monnet
+University of Koblenz-Landau
+University of Aberdeen
+Soochow University
+Shandong University
+University of Bern
+Sharif University of Technology
+University of Kassel
+University of Dundee
+University of L'Aquila
+Bundeswehr University Munich
+University of Szeged
+McMaster University
+University of Miami
+Scuola Superiore Sant'Anna
+Old Dominion University
+University of Bamberg
+University of Oklahoma
+University of Louisville
+Cyprus University of Technology
+Tilburg University
+Texas State University
+University of New Hampshire
+Hanyang University
+Kyungpook National University
+Waseda University
+University of Texas - El Paso
+IIT Gandhinagar
+University of Siegen
+Istanbul Technical University
+Lebanese American University
+Ryerson University
+BITS Pilani
+University of Missouri - Kansas City
+Naval Postgraduate School
+Goldsmiths University of London
+Middlesex University
+Koç University
+Tulane University
+University of Newcastle
+Bocconi University
+Portland State University
+University of Wuppertal
+University of Bayreuth
+Kent State University
+University of Mainz
+TOBB ETÜ
+University of Oldenburg
+University of Hildesheim
+Loughborough University
+Florida Institute of Technology
+Polytechnique Montreal
+Augusta University
+Freie Universitaet Berlin
+Kyung Hee University
+Friedrich Schiller University Jena
+Universidade de Brasília
+IUST
+University of Osnabrück
+IIT Mandi
+Masdar Institute
+University of Wyoming
+University of Salzburg
+University of Cincinnati
+JUST
+University of Tulsa
+University of Molise
+CMI
+Jacobs University Bremen
+University of Bergen
+Sabancı University
+BUET
+IIT Roorkee
+University of Trier
+Texas Tech University
+Tongji University
+Memorial University of Newfoundland
+TU Clausthal
+Universidad de los Andes
+University of Alabama - Birmingham
+IIT Ropar
+Universidad Nacional de Córdoba
+Hamburg University of Technology
+Federal University of Rio Grande
+Ariel University
+Nova Southeastern University
+University of Jordan
+Stellenbosch University
+Yıldız Technical University
+UFU
+Brandenburg University of Technology
+King Abdulaziz University
+The University of Alabama
+IIT Jodhpur
+Oakland University
+University of Cape Town
+University of Nicosia
+University of Arkansas
+Southern Methodist University
+University of Halle-Wittenberg
+Boston College
+University at Albany - SUNY
+BITS Pilani-Goa
+Michigan Technological University
+Wichita State University
+LUMS
+Claremont Graduate University
+Utah State University
+Western Michigan University
+University of Nevada Las Vegas
+TU Chemnitz
+Bauhaus University Weimar
+OHSU
+University of Windsor
+University of Idaho
+University of Maine
+Universidad de Zaragoza
+University of Malta
+University of Wisconsin - Milwaukee
+IIT Indore
+Izmir Institute of Technology
+Galatasaray University
+University of New Orleans
+Towson University
+Ohio University
+University of Alabama - Huntsville
+Mississippi State University
+American University in Cairo
+University of Southern Mississippi
+South Asian University
+IPM
+UFMS
+University of Denver
+Ecole Normale Superieure de Rennes
+Montana State University
+SUFE
+De La Salle University
+National Institute of Technology Silchar
+IMSc
+KMUTNB
+Universidade Federal de Viçosa
+Simula UiB
+University of Nebraska - Omaha
+Oklahoma State University
+Babeș-Bolyai University
+Missouri S&T
+IIT Bhubaneswar
+Royal Military College of Canada
+New Mexico Tech
+Simmons University
+University of Twente
+North Dakota State University
+DTU
+Air Force Institute of Technology
+IIT Goa
+Indiana State University
+Chulalongkorn University
+Ruhr-Universty Bochum
+University of Arkansas - Little Rock
+TU Freiberg
+University of Colorado - Denver
+Wichita State Unitveristy
+University of Mississippi
+LIU Post
+Louisiana Tech University

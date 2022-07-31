@@ -10,6 +10,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from csv import writer
+from bs4 import BeautifulSoup
+
 
 # read the data from a file
 data = pd.read_csv(os.getcwd() + "/data/cleaned_prof_data_v4.csv")
@@ -53,7 +55,7 @@ for i in range(1201, 2001):
         box = driver.find_element(By.NAME, "q")
 
         # enter search text
-        box.send_keys(data.iat[i, 0] + " " + data.iat[i, 1])
+        box.send_keys(data.iat[i, 0])
 
         # make search
         box.send_keys(Keys.ENTER)

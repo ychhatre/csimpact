@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 
+
 colleges = pd.read_csv(os.getcwd().replace('code', '') + '/data/colleges.csv')
 
 avg_citations = pd.read_csv(os.getcwd().replace('code', '') + '/data/ranking_data/avg_citations_ranking.csv')

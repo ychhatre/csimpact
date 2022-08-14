@@ -1,12 +1,12 @@
 name,homepage,scholar_id,citations,h-index
 Fei Fang,https://www.andrew.cmu.edu/user/feif,VdZQ1EgAAAAJ,16635.0,44.0
 Alonzo Kelly,http://www.frc.ri.cmu.edu/users/alonzo,W7yeGUoAAAAJ,8811.0,44.0
-Kiron K. Skinner,https://www.cmu.edu/ir/cirp-people/faculty-affiliates/kiron-k-skinner.html,NOSCHOLARPAGE,,
+Kiron K. Skinner,https://www.cmu.edu/ir/cirp-people/faculty-affiliates/kiron-k-skinner.html,,,
 Ken Koedinger,http://pact.cs.cmu.edu/koedinger.html,_8DDVkAAAAAJ,35512.0,88.0
-Farnam Jahanian,https://www.cmu.edu/leadership/the-provost,NOSCHOLARPAGE,,
+Farnam Jahanian,https://www.cmu.edu/leadership/the-provost,,,
 Gary K. Fedder,https://users.ece.cmu.edu/~fedder,JOMYt6gAAAAJ,12232.0,59.0
 Kemal Oflazer,https://www.andrew.cmu.edu/user/ko,JLk0hs8AAAAJ,5782.0,38.0
-James D. Herbsleb,http://herbsleb.org,NOSCHOLARPAGE,,
+James D. Herbsleb,http://herbsleb.org,Q3xxVngAAAAJ,25120.0,65.0
 Christian Kästner,https://www.cs.cmu.edu/~ckaestne,PR-ZnJUAAAAJ,14762.0,65.0
 Justine Sherry,http://www.justinesherry.com,InPotdgAAAAJ,2981.0,17.0
 Graham Neubig,http://www.phontron.com,wlosgkoAAAAJ,14496.0,64.0
@@ -22,15 +22,15 @@ Heather Miller,http://heather.miller.am,dpghk3cAAAAJ,457.0,10.0
 André Platzer,http://symbolaris.com,Y80iWtgAAAAJ,7297.0,45.0
 Lorrie Faith Cranor,http://lorrie.cranor.org,kIUqgbcAAAAJ,39597.0,103.0
 Robert E. Kraut,http://kraut.hciresearch.org,HKGYvu4AAAAJ,60565.0,116.0
-Subra Suresh,http://www.cmu.edu/leadership/president-suresh/bio,NOSCHOLARPAGE,,
+Subra Suresh,http://www.cmu.edu/leadership/president-suresh/bio,,,
 Lujo Bauer,http://www.ece.cmu.edu/~lbauer,5cJzDZEAAAAJ,10859.0,54.0
 Bruce H. Krogh,https://www.ece.cmu.edu/directory/details/89,s4yZTp4AAAAJ,17480.0,65.0
 Umut A. Acar,http://www.umut-acar.org,wJ4NywgAAAAJ,3751.0,32.0
-Greg Ganger,https://www.ece.cmu.edu/~ganger,NOSCHOLARPAGE,,
+Greg Ganger,https://www.ece.cmu.edu/~ganger,,,
 Alessandro Acquisti,http://www.heinz.cmu.edu/~acquisti,2XCryp4AAAAJ,32180.0,68.0
 Bruno Sinopoli,https://users.ece.cmu.edu/~brunos,zZO9qG4AAAAJ,17580.0,54.0
 Eunsuk Kang,https://eskang.github.io,Pz0Nzr8AAAAJ,1194.0,19.0
-Michael Ian Shamos,http://euro.ecom.cmu.edu/shamos.html,NOSCHOLARPAGE,,
+Michael Ian Shamos,http://euro.ecom.cmu.edu/shamos.html,PswI6pYAAAAJ,18034.0,23.0
 Vincent Conitzer,https://users.cs.duke.edu/~conitzer,juRk4lQAAAAJ,12904.0,61.0
 David Brumley,https://users.ece.cmu.edu/~dbrumley,O-29z5AAAAAJ,12414.0,42.0
 Chinmay Eishan Kulkarni,https://hcii.cmu.edu/people/chinmay-kulkarni,ZDatV6MAAAAJ,1883.0,19.0
@@ -45,10 +45,10 @@ Radu Marculescu,https://www.ece.cmu.edu/directory/department/faculty/M/Radu_Marc
 Diana Marculescu,https://users.ece.cmu.edu/~dianam,MRHzTAIAAAAJ,8998.0,52.0
 Deepak Pathak,https://people.eecs.berkeley.edu/~pathak,AEsPCAUAAAAJ,10010.0,22.0
 Louis-Philippe Morency,https://www.cs.cmu.edu/~morency,APgaFK0AAAAJ,22666.0,75.0
-Luis von Ahn,https://www.cs.cmu.edu/~biglou,NOSCHOLARPAGE,,
+Luis von Ahn,https://www.cs.cmu.edu/~biglou,,,
 Alan W. Black,https://www.cs.cmu.edu/~awb,Es-YRKMAAAAJ,25252.0,72.0
 Ameet S. Talwalkar,https://www.cs.cmu.edu/~atalwalk,TW7U1W0AAAAJ,18807.0,42.0
-Bhiksha Ramakrishnan,https://www.cs.cmu.edu/directory/bhikshar,NOSCHOLARPAGE,,
+Bhiksha Ramakrishnan,https://www.cs.cmu.edu/directory/bhikshar,,,
 David Held,http://davheld.github.io,0QtU-NsAAAAJ,5295.0,23.0
 Changliu Liu,https://www.ri.cmu.edu/ri-faculty/changliu-liu,vvzAfOwAAAAJ,1162.0,18.0
 Henny Admoni,https://www.ri.cmu.edu/ri-faculty/henny-admoni,XXiZaA4AAAAJ,2401.0,17.0
@@ -59,21 +59,21 @@ Chris Harrison,http://www.chrisharrison.net,36HRdqMAAAAJ,10873.0,54.0
 Maxim Likhachev,https://www.ri.cmu.edu/ri-faculty/maxim-likhachev,Ic8NqXwAAAAJ,13723.0,50.0
 Jodi Forlizzi,https://www.hcii.cmu.edu/people/jodi-forlizzi,Hyhp_zUAAAAJ,25232.0,77.0
 Vyas Sekar,https://users.ece.cmu.edu/~vsekar,5V852JcAAAAJ,17354.0,58.0
-Norman M. Sadeh,http://www.normsadeh.org,If_k6LgAAAAJ,,
+Norman M. Sadeh,http://www.normsadeh.org,X57uzqcAAAAJ,21645.0,78.0
 Yuvraj Agarwal,http://www.synergylabs.org/yuvraj,H4UeZ2MAAAAJ,7852.0,40.0
 Geoff F. Kaufman,https://www.hcii.cmu.edu/people/geoff-kaufman,acfjWDAAAAAJ,3054.0,18.0
 Jessica Hammer,https://www.hcii.cmu.edu/people/jessica-hammer,vSvRUAkAAAAJ,4387.0,21.0
 Daniel P. Siewiorek,https://www.cs.cmu.edu/~dps,B13SvmAAAAAJ,21134.0,69.0
-Virgil D. Gligor,https://users.ece.cmu.edu/~virgil,NOSCHOLARPAGE,,
+Virgil D. Gligor,https://users.ece.cmu.edu/~virgil,,,
 John C. Stamper,https://www.hcii.cmu.edu/people/john-stamper,VFGDcvoAAAAJ,2442.0,23.0
 Dabbala Rajagopal Reddy,http://www.rr.cs.cmu.edu,6n7rzokAAAAJ,13477.0,60.0
 George Amvrosiadis,http://www.ece.cmu.edu/~gamvrosi,ygiY7C8AAAAJ,702.0,11.0
 Katerina Fragkiadaki,https://www.cs.cmu.edu/~katef,FWp7728AAAAJ,3566.0,21.0
 Pravesh K. Kothari,https://www.cs.cmu.edu/~praveshk,07qshUgAAAAJ,2024.0,24.0
 Nicolas Christin,http://www.andrew.cmu.edu/user/nicolasc,X5buTmMAAAAJ,12992.0,53.0
-Benjamin Moseley,http://www.andrew.cmu.edu/user/moseleyb,qq-SXN8AAAAJ,,
+Benjamin Moseley,http://www.andrew.cmu.edu/user/moseleyb,,,
 Maria-Florina Balcan,https://www.cs.cmu.edu/~ninamf,LWlN_BUAAAAJ,7832.0,48.0
-David Garlan,https://www.cs.cmu.edu/~garlan,p6HgUFEAAAAJ,,
+David Garlan,https://www.cs.cmu.edu/~garlan,,,
 Kathleen M. Carley,http://www.casos.cs.cmu.edu/bios/carley/carley.html,KeJfN-IAAAAJ,44244.0,96.0
 Manuel Blum,https://www.cs.cmu.edu/~mblum,7S-LSKoAAAAJ,2198.0,9.0
 Sara B. Kiesler,https://www.cs.cmu.edu/~kiesler,8Qu_gAMAAAAJ,70526.0,103.0
@@ -93,7 +93,7 @@ Tianqi Chen,https://tqchen.com,7nlvOMQAAAAJ,30372.0,29.0
 Ragunathan Raj Rajkumar,https://users.ece.cmu.edu/~raj,6JU9KqgAAAAJ,26668.0,73.0
 Justine Cassell,https://www.hcii.cmu.edu/people/justine-cassell,wkC9xHMAAAAJ,20906.0,67.0
 Yiming Yang,http://www.cs.cmu.edu/~./yiming,MlZq4XwAAAAJ,47567.0,64.0
-Christopher J. Langmead,http://www.cs.cmu.edu/~cjl,NOSCHOLARPAGE,,
+Christopher J. Langmead,http://www.cs.cmu.edu/~cjl,Dj3gptkAAAAJ,2860.0,26.0
 Geoffrey J. Gordon,http://www.cs.cmu.edu/~ggordon,0OY5L3UAAAAJ,237097.0,179.0
 Frank Pfenning,http://www.cs.cmu.edu/~fp,ghWKWBUAAAAJ,16102.0,65.0
 Eric Nyberg,http://www.cs.cmu.edu/~ehn,G6XN5cRm0FIJ,7799.0,44.0
@@ -106,7 +106,7 @@ Carl Kingsford,http://www.cs.cmu.edu/~ckingsf,V_cvqKcAAAAJ,12210.0,33.0
 Ronald Rosenfeld,http://www.cs.cmu.edu/~roni,vrbjXlMAAAAJ,22090.0,53.0
 Laura A. Dabbish,http://www.lauradabbish.com,DdNAgNwAAAAJ,12102.0,39.0
 Steven Rudich,http://www.cs.cmu.edu/~rudich,qLuAbhMAAAAJ,6085.0,25.0
-Daniel Dominic Kaplan Sleator,http://www.cs.cmu.edu/~sleator,NOSCHOLARPAGE,,
+Daniel Dominic Kaplan Sleator,http://www.cs.cmu.edu/~sleator,,,
 Yonatan Bisk,https://yonatanbisk.com,bWoGh8UAAAAJ,3790.0,26.0
 Robert Harper,http://www.cs.cmu.edu/~rwh,hbpHGtQAAAAJ,18908.0,54.0
 Phillip B. Gibbons,http://www.cs.cmu.edu/~gibbons,F9kqUXkAAAAJ,29606.0,84.0
@@ -141,7 +141,7 @@ Srinivasan Seshan,http://www.cs.cmu.edu/~srini,0irVeiQAAAAJ,26637.0,69.0
 James C. Hoe,http://users.ece.cmu.edu/~jhoe,ZnRhcFUAAAAJ,7723.0,43.0
 Patrick Carrington,http://www.patrickcarrington.com,3ALpUOEAAAAJ,468.0,11.0
 Todd C. Mowry,http://www.cs.cmu.edu/~tcm,MYsIXF4AAAAJ,12091.0,57.0
-Yuanzhi Li,https://web.stanford.edu/~yuanzhil,NOSCHOLARPAGE,,
+Yuanzhi Li,https://web.stanford.edu/~yuanzhil,,,
 Venkatesan Guruswami,http://www.cs.cmu.edu/~venkatg,Es6jE1kAAAAJ,12072.0,57.0
 Jun-Yan Zhu,https://people.csail.mit.edu/junyanz,UdpacsMAAAAJ,41542.0,38.0
 Ziv Bar-Joseph,http://www.cs.cmu.edu/~zivbj,9DCRnPkAAAAJ,19092.0,56.0
@@ -151,11 +151,11 @@ Brad A. Myers,http://www.cs.cmu.edu/~bam,E1cp_aYAAAAJ,33668.0,91.0
 Srinivasa G. Narasimhan,http://www.cs.cmu.edu/~srinivas,MhYrLJAAAAAJ,13976.0,47.0
 Seth Copen Goldstein,http://www.cs.cmu.edu/~seth,NoNHPb4AAAAJ,12065.0,45.0
 Elaine Runting Shi,http://elaineshi.com,rejzeocAAAAJ,28871.0,71.0
-Christopher G. Atkeson,http://www.cs.cmu.edu/~cga,NOSCHOLARPAGE,,
+Christopher G. Atkeson,http://www.cs.cmu.edu/~cga,NB4pgZYAAAAJ,29178.0,78.0
 James P. Callan,http://www.cs.cmu.edu/~callan,Un5KXJ4AAAAJ,14786.0,68.0
 Randal E. Bryant,http://www.cs.cmu.edu/~bryant,AFgYa68AAAAJ,31088.0,57.0
 Stephen D. Brookes,http://www.cs.cmu.edu/~brookes,yBq9ovYAAAAJ,553.0,13.0
-Stephen Brookes,http://www.cs.cmu.edu/~brookes,NOSCHOLARPAGE,,
+Stephen Brookes,http://www.cs.cmu.edu/~brookes,,,
 Bhiksha Raj,http://www.cs.cmu.edu/~bhiksha,IWcGY98AAAAJ,17468.0,58.0
 Nathan Beckmann,http://www.cs.cmu.edu/~beckmann,zkdjit0AAAAJ,2309.0,22.0
 Bill Scherlis,http://www.cs.cmu.edu/~wls,F6LzqwMAAAAJ,10932.0,25.0
@@ -175,12 +175,12 @@ Roy Maxion,http://www.cs.cmu.edu/~maxion,2buw6_IAAAAJ,4551.0,30.0
 Michael A. Erdmann,http://www.cs.cmu.edu/~me,YnHzhAwAAAAJ,6526.0,26.0
 Matthew T. Mason,http://www.cs.cmu.edu/~mason,D_JpQnAAAAAJ,15882.0,50.0
 Matt Fredrikson,http://www.cs.cmu.edu/~mfredrik,tMYCvLAAAAAJ,8129.0,28.0
-Lenore Blum,http://www.cs.cmu.edu/~lblum,NOSCHOLARPAGE,,
+Lenore Blum,http://www.cs.cmu.edu/~lblum,,,
 Drew Bagnell,http://www.ri.cmu.edu/person.html?person_id=689,7t4jbPQAAAAJ,26156.0,66.0
 Takeo Kanade,http://www.ri.cmu.edu/people/kanade_takeo.html,LQ87h3sAAAAJ,139212.0,166.0
 Nihar B. Shah,http://www.cs.cmu.edu/~nihars,BF39lMQAAAAJ,5393.0,34.0
-James McCann,http://www.cs.cmu.edu/~jmccann,NOSCHOLARPAGE,,
-Keenan Crane,http://www.cs.cmu.edu/~kmcrane,Qs9FzFUAAAAJ,,
-Abhinav Gupta,http://www.cs.cmu.edu/~abhinavg,NOSCHOLARPAGE,,
-Jessica K. Hodgins,http://www.cs.cmu.edu/~jkh,NOSCHOLARPAGE,,
+James McCann,http://www.cs.cmu.edu/~jmccann,,,
+Keenan Crane,http://www.cs.cmu.edu/~kmcrane,,,
+Abhinav Gupta,http://www.cs.cmu.edu/~abhinavg,,,
+Jessica K. Hodgins,http://www.cs.cmu.edu/~jkh,vswo4rQAAAAJ,24359.0,79.0
 Red Whittaker,http://www.ri.cmu.edu/person.html?person_id=339,ouKJUyEAAAAJ,4935.0,28.0

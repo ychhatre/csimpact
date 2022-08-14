@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-data = pd.read_csv(os.getcwd().replace('code/','')+'/data/cleaned_prof_data_v4.csv')
+data = pd.read_csv(os.getcwd().replace('code/','')+'/data/cleaned_prof_data_v5.csv')
 
 colleges = sorted(list(set(list(data['affiliation']))))
 

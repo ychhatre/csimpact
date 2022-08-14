@@ -12,6 +12,11 @@ average_citations = []
 for i in range(colleges.shape[0]):
     college_data = pd.read_csv(os.getcwd().replace('code', '') + '/data/college_data/college'+str(i)+'.csv')
     valid_h_index = list(college_data.loc[~pd.isna(college_data['h-index'])]['h-index'])
+    for item in valid_h_index:
+        if item != 'None':
+            item = int(float(item))
+        else:
+            item = 0
     total_h_index = sum(valid_h_index)
     h_index_sum.append(total_h_index)
     
@@ -19,6 +24,12 @@ for i in range(colleges.shape[0]):
     
     
     valid_citations = list(college_data.loc[~pd.isna(college_data['citations'])]['citations'])
+    for item in valid_citations:
+        if item != 'None':
+            temp = int(float(item))
+            item = temp
+        else:
+            item = 0
     total_citations = sum(valid_citations)
     citations_sum.append(total_citations)
     
@@ -26,8 +37,8 @@ for i in range(colleges.shape[0]):
     
     number_valid_professors.append(num_profs)
     if num_profs != 0:
-        average_h_index.append(total_h_index/num_profs)
-        average_citations.append(total_citations/num_profs)
+        average_h_index.append(float(total_h_index)/num_profs)
+        average_citations.append(float(total_citations)/num_profs)
     else:
         average_h_index.append(0)
         average_citations.append(0)

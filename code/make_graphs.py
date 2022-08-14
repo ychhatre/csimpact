@@ -3,32 +3,36 @@ import os
 import plotly.express as px
 import plotly.graph_objects as go
 
-colleges = pd.read_csv(os.getcwd().replace('code/','')+'/data/colleges.csv')
-data = pd.read_csv(os.getcwd().replace('code/','')+'/data/cleaned_prof_data_v4.csv')
+colleges = pd.read_csv(os.getcwd()+'/data/colleges.csv')
+data = pd.read_csv(os.getcwd()+'/data/cleaned_prof_data_v5.csv')
 
 
 college_data = pd.DataFrame()
 
-os.mkdir(os.getcwd().replace('code/','')+'/data/college_graphs')
+#os.mkdir(os.getcwd().replace('code/','')+'/data/college_graphs')
 #create folders
-for i in range(colleges.shape[0]):
-    college_no_spaces = pd.read_csv(os.getcwd().replace('code/','')+f'/data/colleges.csv').iloc[i,0].replace(' ','_').replace('/', '_')
-    os.mkdir(os.getcwd().replace('code/','')+f'/data/college_graphs/{college_no_spaces}')
+# for i in range(colleges.shape[0]):
+#     college_no_spaces = pd.read_csv(os.getcwd().replace('code/','')+f'/data/colleges.csv').iloc[i,0].replace(' ','_').replace('/', '_')
+#     os.mkdir(os.getcwd().replace('code/','')+f'/data/college_graphs/{college_no_spaces}')
 
 
-def plot_college(college):
+def plot_college(index):
+    college = colleges.iloc[index,0]
     #remove spaces from college names
+
     college_no_spaces = college.replace(' ','_').replace('/', '_')
+    os.mkdir(os.getcwd()+f'/data/college_graphs/{college_no_spaces}')
+
     
     #Get the index of the college
     i = colleges.index[colleges['college'] == f'{college}'].tolist()[0]
     
     #get corresponding csv file
-    college_data = pd.read_csv('/Users/kevins/Documents/CSImpact/data/college_data/college'+str(i)+'.csv')
+    college_data = pd.read_csv(os.getcwd()+'/data/college_data/college'+str(i)+'.csv')
     
     #get rows with missing data
     missing_id_rows = college_data.loc[(pd.isna(college_data['h-index'])) & (pd.isna(college_data['citations']))]
-    missing_profs = missing_id_rows['name']
+    missing_profs = list(missing_id_rows['name'])
     #get rows with good data
     rows_to_plot = college_data.loc[(~(pd.isna(college_data['h-index'])) & ~(pd.isna(college_data['citations'])))]
     
@@ -126,7 +130,7 @@ def plot_college(college):
     fig.update_layout(showlegend=False)
     
     #fig.show()
-    fig.write_image(f'/Users/kevins/Documents/CSImpact/data/college_graphs/{college_no_spaces}/{college_no_spaces}_h_index.png')
+    fig.write_html(os.getcwd()+f'/data/college_graphs/{college_no_spaces}/{college_no_spaces}_h_index.html')
 
     
     # PLOTTING CITATIONS
@@ -185,8 +189,10 @@ def plot_college(college):
     fig.update_layout(showlegend=False)
     
     #fig.show()
-    fig.write_image(f'/Users/kevins/Documents/CSImpact/data/college_graphs/{college_no_spaces}/{college_no_spaces}_citations.png')
+    fig.write_html(os.getcwd()+f'/data/college_graphs/{college_no_spaces}/{college_no_spaces}_citations.html')
 
 #plot all colleges
-for i in range(colleges.shape[0]):
-    plot_college(f'{colleges.iloc[i,0]}')
+for i in range(208,colleges.shape[0]):
+    print("starting " + str(i) + ": "+str(colleges.iloc[i,0]))
+    plot_college(i)
+    print(str(i) + ": "+str(colleges.iloc[i,0]) + " done")

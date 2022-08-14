@@ -1,15 +1,15 @@
 name,homepage,scholar_id,citations,h-index
 Vasant G. Honavar,https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=vuh11/vuh14,pD_y458AAAAJ,17321.0,60.0
-Nan Zhang,https://faculty.ist.psu.edu/nan,NOSCHOLARPAGE,,
+Nan Zhang,https://faculty.ist.psu.edu/nan,TnytfhkAAAAJ,32903.0,84.0
 Rebecca J. Passonneau,https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=rjp49,jb9VOp0AAAAJ,8223.0,40.0
-Xiang Zhang,https://faculty.ist.psu.edu/xzz89,NOSCHOLARPAGE,,
+Xiang Zhang,https://faculty.ist.psu.edu/xzz89,,,
 Huijuan Xu,https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=hkx5063,eml8HfQAAAAJ,3238.0,15.0
 Chita R. Das,http://www.cse.psu.edu/hpcl/people.html,2kXsgI4AAAAJ,13701.0,59.0
 Xiaolei Huang,https://faculty.ist.psu.edu/suh972,iTtzc1UAAAAJ,14461.0,41.0
 Webb C. Miller,http://bio.psu.edu/directory/wcm2,k9T3V7EAAAAJ,246442.0,100.0
 Shomir Wilson,https://shomir.net,0GHjBSUAAAAJ,1751.0,20.0
 Swaroop Ghosh,http://personal.psu.edu/~szg212,RJ1JOgMAAAAJ,2873.0,27.0
-Piotr Berman,https://profiles.psu.edu/profiles/display/112545,NOSCHOLARPAGE,,
+Piotr Berman,https://profiles.psu.edu/profiles/display/112545,,,
 Abutalib Aghayev,https://agayev.github.io,Kfb6IZ4AAAAJ,377.0,8.0
 Rui Zhang,https://ryanzhumich.github.io,8GCLiUwAAAAJ,1721.0,15.0
 Aasheesh Kolli,https://aasheeshkolli.com,UcfzOQYAAAAJ,1435.0,17.0
@@ -20,7 +20,7 @@ Dan Kifer,http://www.cse.psu.edu/~duk17,7PQN6r4AAAAJ,2735.0,24.0
 Zhenhui Li,https://faculty.ist.psu.edu/jessieli,r0nnyGYAAAAJ,7587.0,41.0
 Hadi Hosseini,https://faculty.ist.psu.edu/hadi,bnvEtsMAAAAJ,340.0,10.0
 Zihan Zhou,https://faculty.ist.psu.edu/zzhou/Home.html,vEcgp3AAAAAJ,3720.0,23.0
-Debarati Das,https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=dxd5606,NOSCHOLARPAGE ,,
+Debarati Das,https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=dxd5606,TLmblv0AAAAJ,92.0,3.0
 Arzoo Katiyar,https://sites.google.com/site/arzook99/home,a20VZPQAAAAJ,627.0,7.0
 Paul Medvedev,http://bmb.psu.edu/directory/pzm11,Gwd6p_8AAAAJ,4235.0,27.0
 Thomas F. La Porta,http://www.cse.psu.edu/~tfl12,t-FPWNgAAAAJ,17841.0,65.0
@@ -43,18 +43,18 @@ Patrick D. McDaniel,http://www.patrickmcdaniel.org,AMGqrI0AAAAJ,42306.0,79.0
 Guohong Cao,http://www.cse.psu.edu/~gxc27,zD5ZfacAAAAJ,25033.0,82.0
 George Kesidis,http://www.cse.psu.edu/~gik2,g-WedwYAAAAJ,8005.0,44.0
 John Hannan,http://www.eecs.psu.edu/departments/faculty-staff-list.aspx,HAfOGdsAAAAJ,13807.0,46.0
-Lee D. Coraor,http://www.eecs.psu.edu/departments/faculty-staff-list.aspx,NOSCHOLARPAGE,,
+Lee D. Coraor,http://www.eecs.psu.edu/departments/faculty-staff-list.aspx,,,
 Linhai Song,https://ist.psu.edu/directory/faculty/lus401,RVQMz2sAAAAJ,1399.0,14.0
-John J. Metzner,https://ed.psu.edu/directory,NOSCHOLARPAGE,,
+John J. Metzner,https://ed.psu.edu/directory,,,
 Peng Liu,https://s2.ist.psu.edu/pliu,qVOHi9cAAAAJ,12221.0,54.0
-Xinyu Xing,https://ist.psu.edu/directory/faculty/uxx16,WBN9c6kAAAAJ,,
+Xinyu Xing,https://ist.psu.edu/directory/faculty/uxx16,,,
 Mary Jane Irwin,http://www.cse.psu.edu/~mji,4Mj-BjwAAAAJ,18526.0,69.0
 Ting Wang,https://ist.psu.edu/directory/tbw5359,cwcBTegAAAAJ,3327.0,27.0
 Gang Tan,http://www.cse.psu.edu/~gxt29,JP0dqTEAAAAJ,3907.0,33.0
-Trent Jaeger,http://www.cse.psu.edu/~trj1,JS8aznIAAAAJ,,
+Trent Jaeger,http://www.cse.psu.edu/~trj1,,,
 Bhuvan Urgaonkar,http://www.cse.psu.edu/~buu1,ZoI6hPwAAAAJ,8613.0,39.0
 Mehrdad Mahdavi,http://www.cse.psu.edu/~mzm616,HzxnwocAAAAJ,6698.0,31.0
-Sean Hallgren,http://www.cse.psu.edu/~sjh26,NOSCHOLARPAGE,,
+Sean Hallgren,http://www.cse.psu.edu/~sjh26,,,
 Chunhao Wang,https://www.chunhaowang.com,SvSSCbkAAAAJ,246.0,7.0
 Robert T. Collins,http://www.cse.psu.edu/~rtc12,2Bc3UN4AAAAJ,17199.0,52.0
 Narayanan Vijaykrishnan,http://www.cse.psu.edu/~vxn9,UyeTBeoAAAAJ,26507.0,83.0
@@ -62,5 +62,5 @@ Wang-Chien Lee,http://www.cse.psu.edu/~wul2,9OdHL5wAAAAJ,17658.0,71.0
 Dongwon Lee,http://pike.psu.edu/dongwon,MzL-WnEAAAAJ,9445.0,51.0
 Mahanth Gowda,http://www.cse.psu.edu/~mkg31,R-fOpm4AAAAJ,581.0,11.0
 Yanxi Liu,http://www.cse.psu.edu/~yul11,qYcG-q0AAAAJ,8727.0,47.0
-Jesse L. Barlow,http://www.cse.psu.edu/~b58,NOSCHOLARPAGE,,
+Jesse L. Barlow,http://www.cse.psu.edu/~b58,,,
 Sencun Zhu,http://www.cse.psu.edu/~sxz16,5qwfn20AAAAJ,14233.0,54.0

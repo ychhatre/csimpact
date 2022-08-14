@@ -1,11 +1,11 @@
 name,homepage,scholar_id,citations,h-index
 James F. O'Brien,http://obrien.berkeley.edu,UWZA0v4AAAAJ,13833.0,57.0
-Joseph E. Gonzalez,http://www.cs.berkeley.edu/~jegonzal,gM2WW9UAAAAJ,,
+Joseph E. Gonzalez,http://www.cs.berkeley.edu/~jegonzal,gM2WW9UAAAAJ,18885.0,52.0
 Constance J. Chang-Hasnain,https://www.eecs.berkeley.edu/Faculty/Homepages/chang-hasnain.html,O2HSABIAAAAJ,22350.0,70.0
-Ronald S. Fearing,https://robotics.eecs.berkeley.edu/~ronf,mx9gMZ4AAAAJ,,
-Armando Fox,https://www.eecs.berkeley.edu/Faculty/Homepages/fox.html,NOSCHOLARPAGE,,
+Ronald S. Fearing,https://robotics.eecs.berkeley.edu/~ronf,uA0kNBUAAAAJ,25254.0,75.0
+Armando Fox,https://www.eecs.berkeley.edu/Faculty/Homepages/fox.html,GXJqtYUAAAAJ,44883.0,74.0
 Niloufar Salehi,http://niloufar.org,E0Zbuu8AAAAJ,1137.0,15.0
-Richard M. Karp,https://www.eecs.berkeley.edu/Faculty/Homepages/karp.html,NOSCHOLARPAGE,,
+Richard M. Karp,https://www.eecs.berkeley.edu/Faculty/Homepages/karp.html,,,
 Chun-Lei Liu,https://people.eecs.berkeley.edu/~chunlei.liu,HhKyc4EAAAAJ,1037.0,17.0
 Ali Javey,http://nano.eecs.berkeley.edu,1gqyKqcAAAAJ,60820.0,116.0
 Vern Paxson,http://www.icir.org/vern,HvwPRJ0AAAAJ,68783.0,108.0
@@ -14,52 +14,52 @@ Sanjam Garg,http://www.cs.berkeley.edu/~sanjamg,mb8mQH8AAAAJ,6552.0,39.0
 John D. Kubiatowicz,http://www.cs.berkeley.edu/~kubitron,00M1AqQAAAAJ,28078.0,61.0
 Scott Shenker,https://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html,GUAoEcAAAAAJ,164644.0,158.0
 George C. Necula,http://www.cs.berkeley.edu/~necula,_fiHvDAAAAAJ,13330.0,39.0
-Sarah Chasins,https://schasins.com,NOSCHOLARPAGE,,
+Sarah Chasins,https://schasins.com,,,
 David A. Wagner,http://www.cs.berkeley.edu/~daw,67kghxAAAAAJ,67117.0,97.0
-Ruzena Bajcsy,https://www.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html,NOSCHOLARPAGE,,
-Brian A. Barsky,http://www.cs.berkeley.edu/~barsky,NOSCHOLARPAGE,,
+Ruzena Bajcsy,https://www.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html,,,
+Brian A. Barsky,http://www.cs.berkeley.edu/~barsky,,,
 Bernd Sturmfels,https://math.berkeley.edu/~bernd,5zTUNsQAAAAJ,31654.0,84.0
-Jonathan Richard Shewchuk,http://www.cs.berkeley.edu/~jrs,R9ZW47sAAAAJ,,
+Jonathan Richard Shewchuk,http://www.cs.berkeley.edu/~jrs,,,
 Michael I. Jordan,http://www.cs.berkeley.edu/~jordan,yxUduqMAAAAJ,233590.0,190.0
 Stuart J. Russell,http://www.cs.berkeley.edu/~russell,KJGrjCAAAAAJ,232.0,8.0
 Tsu-Jae King Liu,https://www.eecs.berkeley.edu/~tking,lMUmE_UAAAAJ,36675.0,97.0
-James Demmel,https://www.cs.berkeley.edu/~demmel,NOSCHOLARPAGE,,
-John Wawrzynek,http://www.cs.berkeley.edu/~johnw,NOSCHOLARPAGE,,
-Alistair Sinclair,http://www.cs.berkeley.edu/~sinclair,NOSCHOLARPAGE,,
+James Demmel,https://www.cs.berkeley.edu/~demmel,By1xdxEAAAAJ,56996.0,91.0
+John Wawrzynek,http://www.cs.berkeley.edu/~johnw,hdnpRKsAAAAJ,10757.0,43.0
+Alistair Sinclair,http://www.cs.berkeley.edu/~sinclair,,,
 Murat Arcak,https://www2.eecs.berkeley.edu/Faculty/Homepages/arcak.html,rtmW640AAAAJ,10809.0,51.0
 Joseph M. Hellerstein,http://citris-uc.org/person/professor-joseph-hellerstein,uFJi3IUAAAAJ,50287.0,98.0
 Martin J. Wainwright,https://www.eecs.berkeley.edu/~wainwrig,J5Rvh6gAAAAJ,46924.0,97.0
 Angjoo Kanazawa,http://people.eecs.berkeley.edu/~kanazawa,Ci-_QYIAAAAJ,5559.0,25.0
 Jelani Nelson,http://people.eecs.berkeley.edu/~minilek,W6gQqWcAAAAJ,3016.0,27.0
 Luke J. Lee,http://biopoets.berkeley.edu,xADN4DUAAAAJ,48460.0,103.0
-Hany Farid,https://www.ischool.berkeley.edu/people/hany-farid,VEdybxgAAAAJ,,
-Nir Yosef,https://niryosef.wordpress.com,eQ8KEHoAAAAJ,,
-Peter Bartlett,http://www.stat.berkeley.edu/~bartlett,UPVvV6kAAAAJ,,
-Umesh V. Vazirani,http://www.cs.berkeley.edu/~vazirani,NOSCHOLARPAGE,,
-Marti A. Hearst,http://people.ischool.berkeley.edu/~hearst,Yy6xbCYAAAAJ,,
+Hany Farid,https://www.ischool.berkeley.edu/people/hany-farid,,,
+Nir Yosef,https://niryosef.wordpress.com,gSLAdnEAAAAJ,17986.0,50.0
+Peter Bartlett,http://www.stat.berkeley.edu/~bartlett,yQNhFGUAAAAJ,41813.0,78.0
+Umesh V. Vazirani,http://www.cs.berkeley.edu/~vazirani,8eB7Q1kAAAAJ,26799.0,54.0
+Marti A. Hearst,http://people.ischool.berkeley.edu/~hearst,664NOb0AAAAJ,37371.0,73.0
 Randy H. Katz,http://bnrg.eecs.berkeley.edu/~randy,PkfChMgAAAAJ,90153.0,124.0
 Katherine A. Yelick,https://www.cs.berkeley.edu/~yelick,93yNuV0AAAAJ,23911.0,63.0
 Jacob Steinhardt,https://www.stat.berkeley.edu/~jsteinhardt,LKv32bgAAAAJ,6303.0,29.0
 Satish Rao,http://www.cs.berkeley.edu/~satishr,x_cgL6gAAAAJ,4231.0,31.0
 Bin Yu,https://www.stat.berkeley.edu/~binyu/Site/Welcome.html,xT19Jc0AAAAJ,33834.0,74.0
 Jeffrey Bokor,http://people.eecs.berkeley.edu/~jbokor,ylSEuoIAAAAJ,29116.0,83.0
-Laurent El Ghaoui,http://people.eecs.berkeley.edu/~elghaoui,3XLQbL8AAAAJ,,
+Laurent El Ghaoui,http://people.eecs.berkeley.edu/~elghaoui,GDe65XEAAAAJ,58324.0,60.0
 David Bamman,http://people.ischool.berkeley.edu/~dbamman,RkA1y54AAAAJ,3637.0,29.0
 Eric A. Brewer,https://www.cs.berkeley.edu/~brewer,BbzYzsgAAAAJ,32508.0,76.0
 Ali M. Niknejad,http://rfic.eecs.berkeley.edu/~niknejad,urhvgT0AAAAJ,18858.0,71.0
 Koushik Sen,http://www.eecs.berkeley.edu/Faculty/Homepages/ksen.html,Vn3L_ioAAAAJ,20965.0,65.0
 John F. Canny,https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html,LAv0HTEAAAAJ,67427.0,81.0
 Bernhard E. Boser,https://people.eecs.berkeley.edu/~boser,NHIpV98AAAAJ,45562.0,62.0
-Venkat Anantharam,https://www2.eecs.berkeley.edu/Faculty/Homepages/anantharam.html,NOSCHOLARPAGE,,
+Venkat Anantharam,https://www2.eecs.berkeley.edu/Faculty/Homepages/anantharam.html,,,
 Ana C. Arias,https://www2.eecs.berkeley.edu/Faculty/Homepages/acarias.html,LbYsy_QAAAAJ,14560.0,54.0
 Bjoern Hartmann,https://people.eecs.berkeley.edu/~bjoern,aZMY6_UAAAAJ,10506.0,52.0
 Ion Stoica,http://www.cs.berkeley.edu/~istoica,vN-is70AAAAJ,130604.0,142.0
 Jennifer T. Chayes,http://jenniferchayes.com,YAHWbtkAAAAJ,14451.0,66.0
 Vivek Subramanian,https://people.eecs.berkeley.edu/~viveks,j-KcbbAAAAAJ,21376.0,71.0
 Kannan Ramchandran,https://www.eecs.berkeley.edu/~kannanr,DcV-5RAAAAAJ,40020.0,95.0
-Shafi Goldwasser,https://www2.eecs.berkeley.edu/Faculty/Homepages/goldwasser.html,NOSCHOLARPAGE,,
+Shafi Goldwasser,https://www2.eecs.berkeley.edu/Faculty/Homepages/goldwasser.html,,,
 Somayeh Sojoudi,https://people.eecs.berkeley.edu/~sojoudi,kNH8zcgAAAAJ,2063.0,25.0
-Kurt Keutzer,https://people.eecs.berkeley.edu/~keutzer,IzaagZkAAAAJ,,
+Kurt Keutzer,https://people.eecs.berkeley.edu/~keutzer,,,
 Avishay Tal,http://www.avishaytal.org,4pytJD8AAAAJ,970.0,19.0
 Jitendra Malik,https://people.eecs.berkeley.edu/~malik,oY9R5YQAAAAJ,180290.0,148.0
 Yi Ma,https://people.eecs.berkeley.edu/~yima,XqLiBQMAAAAJ,63666.0,78.0
@@ -71,13 +71,13 @@ Sergey Levine,https://people.eecs.berkeley.edu/~svlevine,8R35rCwAAAAJ,68781.0,12
 Thomas Courtade,https://people.eecs.berkeley.edu/~courtade,xRmmtzIAAAAJ,2231.0,27.0
 Alexandre M. Bayen,http://www.ce.berkeley.edu/people/faculty/bayen,a5nY-pYAAAAJ,18331.0,60.0
 Anant Sahai,https://people.eecs.berkeley.edu/~sahai,4gWt4fgAAAAJ,14556.0,42.0
-Yun S. Song,http://www.eecs.berkeley.edu/~yss,NOSCHOLARPAGE,,
+Yun S. Song,http://www.eecs.berkeley.edu/~yss,,,
 Aditya G. Parameswaran,https://cs.illinois.edu/directory/profile/adityagp,VeB3UbcAAAAJ,5093.0,42.0
 Ren Ng,http://www.eecs.berkeley.edu/Faculty/Homepages/yirenng.html,6H0mhLUAAAAJ,11309.0,31.0
 Sylvia Ratnasamy,http://www.eecs.berkeley.edu/~sylvia,sAdDcvQAAAAJ,34304.0,66.0
 Elad Alon,https://www2.eecs.berkeley.edu/Faculty/Homepages/elad.html,ktlHDnQAAAAJ,10544.0,52.0
 Trevor Darrell,https://people.eecs.berkeley.edu/~trevor,bh-uRFMAAAAJ,179084.0,144.0
-Alvin Cheung,https://homes.cs.washington.edu/~akcheung,NOSCHOLARPAGE,,
+Alvin Cheung,https://homes.cs.washington.edu/~akcheung,,,
 Pieter Abbeel,https://people.eecs.berkeley.edu/~pabbeel,vtwH6GkAAAAJ,84502.0,130.0
 Prabal Dutta,https://people.eecs.berkeley.edu/~prabal,H790-zwAAAAJ,12390.0,51.0
 Robert J. Full,https://ib.berkeley.edu/people/faculty/fullr,82eHqZYAAAAJ,5181.0,25.0
@@ -85,8 +85,8 @@ Raluca A. Popa,http://www.eecs.berkeley.edu/~raluca,NvKHgzkAAAAJ,8684.0,37.0
 Ken Goldberg,http://goldberg.berkeley.edu,8fztli4AAAAJ,27873.0,81.0
 Jose M. Carmena,https://www2.eecs.berkeley.edu/Faculty/Homepages/carmena.html,yTIIzd0AAAAJ,99.0,6.0
 Ben Recht,http://www.eecs.berkeley.edu/~brecht,a_dbdxAAAAAJ,43006.0,76.0
-Claire J. Tomlin,https://people.eecs.berkeley.edu/~tomlin,NOSCHOLARPAGE,,
-Avideh Zakhor,https://www2.eecs.berkeley.edu/Faculty/Homepages/zakhor.html,XV8QLVQAAAAJ,,
+Claire J. Tomlin,https://people.eecs.berkeley.edu/~tomlin,-5_ksIkAAAAJ,27942.0,77.0
+Avideh Zakhor,https://www2.eecs.berkeley.edu/Faculty/Homepages/zakhor.html,NDHbbuAAAAAJ,16202.0,67.0
 Vladimir Marko Stojanovic,https://www2.eecs.berkeley.edu/Faculty/Homepages/vlada.html,rsGmH38AAAAJ,12876.0,52.0
 Chang Ming Wu,https://www2.eecs.berkeley.edu/Faculty/Homepages/wu.html,R1UPxsMAAAAJ,2735.0,31.0
 Jean C. Walrand,https://www2.eecs.berkeley.edu/Faculty/Homepages/walrand.html,rPU7fz0AAAAJ,22277.0,67.0
@@ -95,20 +95,20 @@ Laura Waller,https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html,aPxDp7
 Costas J. Spanos,https://www2.eecs.berkeley.edu/Faculty/Homepages/spanos.html,90TaOdoAAAAJ,10226.0,56.0
 Steven M. Conolly,https://www2.eecs.berkeley.edu/Faculty/Homepages/sconolly.html,DVnrB-4AAAAJ,10051.0,53.0
 Alberto L. Sangiovanni-Vincentelli,https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html,AhgjQ2QAAAAJ,70049.0,124.0
-Clark T.-C. Nguyen,https://www2.eecs.berkeley.edu/Faculty/Homepages/ctnguyen.html,NOSCHOLARPAGE,,
+Clark T.-C. Nguyen,https://www2.eecs.berkeley.edu/Faculty/Homepages/ctnguyen.html,,,
 Seth R. Sanders,https://www2.eecs.berkeley.edu/Faculty/Homepages/sanders.html,Qb7xQQ0AAAAJ,13912.0,53.0
 Rikky Muller,https://www2.eecs.berkeley.edu/Faculty/Homepages/rikky.html,4bgii4oAAAAJ,1682.0,15.0
 Natacha Crooks,https://nacrooks.github.io,Qajl4Z8AAAAJ,507.0,9.0
 Jennifer Listgarten,http://www.jennifer.listgarten.com,jhPhgf4AAAAJ,7873.0,33.0
 Eli Yablonovitch,https://www2.eecs.berkeley.edu/Faculty/Homepages/yablonovitch.html,4wqIUjMAAAAJ,68814.0,96.0
-Jaijeet Roychowdhury,https://www2.eecs.berkeley.edu/Faculty/Homepages/jr.html,NOSCHOLARPAGE,,
+Jaijeet Roychowdhury,https://www2.eecs.berkeley.edu/Faculty/Homepages/jr.html,XQE7DTgAAAAJ,6082.0,36.0
 Jiantao Jiao,https://people.eecs.berkeley.edu/~jiantao,aO8KpGcAAAAJ,2547.0,21.0
 Borivoje Nikolic,https://www2.eecs.berkeley.edu/Faculty/Homepages/nikolic.html,QEqPllIAAAAJ,22077.0,57.0
 Jan M. Rabaey,https://www2.eecs.berkeley.edu/Faculty/Homepages/rabaey.html,GP64q_kAAAAJ,53709.0,96.0
 Alexei A. Efros,http://www.eecs.berkeley.edu/~efros,d97bGd8AAAAJ,86460.0,91.0
-Kris Pister,https://www2.eecs.berkeley.edu/Faculty/Homepages/pister.html,NOSCHOLARPAGE,,
+Kris Pister,https://www2.eecs.berkeley.edu/Faculty/Homepages/pister.html,mnAk4HIAAAAJ,34837.0,76.0
 Bala Kameshwar Poolla,https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html,_Bjrr5AAAAAJ,538.0,9.0
-Nilah Ioannidis,https://www2.eecs.berkeley.edu/Faculty/Homepages/nilah.html,uNNLZxYAAAAJ,,
+Nilah Ioannidis,https://www2.eecs.berkeley.edu/Faculty/Homepages/nilah.html,,,
 Michael Lustig,https://www2.eecs.berkeley.edu/Faculty/Homepages/mlustig.html,EWY1qlkAAAAJ,21920.0,49.0
 Sayeef S. Salahuddin,https://www2.eecs.berkeley.edu/Faculty/Homepages/salahuddin.html,Ay4FZFUAAAAJ,22103.0,63.0
 Michel M. Maharbiz,https://www2.eecs.berkeley.edu/Faculty/Homepages/maharbiz.html,DJEiH1IAAAAJ,5646.0,40.0

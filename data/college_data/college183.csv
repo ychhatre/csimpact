@@ -1,23 +1,23 @@
-name,homepage,scholar_id,citations,h-index
-Muhammad Haris Khan,https://mbzuai.ac.ae/pages/muhammad-haris,ZgERfFwAAAAJ,2904.0,11.0
-Salman H. Khan,https://salman-h-khan.github.io,M59O9lkAAAAJ,6172.0,42.0
-Tim Baldwin,https://mbzuai.ac.ae/study/faculty/professor-timothy-baldwin,wjBD1dkAAAAJ,18724.0,65.0
-Mohsen Guizani,https://mbzuai.ac.ae/study/faculty/professor-mohsen-guizani,RigrYkcAAAAJ,45345.0,92.0
-Abdulmotaleb El-Saddik,http://www.site.uottawa.ca/~elsaddik,VcOjgngAAAAJ,16775.0,58.0
-Qirong Ho,https://mbzuai.ac.ae/study/faculty/dr-qirong-ho,tR3AZbwAAAAJ,3586.0,24.0
-Kun Zhang,https://mbzuai.ac.ae/study/faculty/dr-kun-zhang,RGoypN4AAAAJ,8948.0,40.0
-Rao Muhammad Anwer,https://mbzuai.ac.ae/pages/rao-anwer,_KlvMVoAAAAJ,1702.0,19.0
-Zhiqiang Xu,https://mbzuai.ac.ae/pages/zhiqiang-xu,,,
-Bin Gu,https://mbzuai.ac.ae/study/faculty/bin-gu,Vo8OgCgAAAAJ,3131.0,24.0
-Le Song,http://www.cc.gatech.edu/~lsong,Xl4E0CsAAAAJ,21756.0,75.0
-Fahad Shahbaz Khan,https://sites.google.com/view/fahadkhans/home,,,
-Shangsong Liang,https://sites.google.com/site/shangsongliang/home,4uggVcIAAAAJ,1632.0,23.0
-Hisham Cholakkal,https://mbzuai.ac.ae/pages/hisham-cholakkal,bZ3YBRcAAAAJ,839.0,15.0
-Martin Takác,http://mtakac.com,qKQD-2cAAAAJ,5601.0,32.0
-Karthik Nandakumar,https://mbzuai.ac.ae/biomedia/dr-karthik-nandakumar,2qx0RnEAAAAJ,14193.0,36.0
-Mohammad Yaqub,https://mbzuai.ac.ae/biomedia/mohammad,9dfn5GkAAAAJ,962.0,17.0
-Eric P. Xing,http://www.cs.cmu.edu/~epxing,5pKTRxEAAAAJ,43663.0,104.0
-Fakhreddine Karray,https://uwaterloo.ca/scholar/karray,9_Hpd5kAAAAJ,16054.0,55.0
-Huan Xiong,https://mbzuai.ac.ae/pages/huan-xiong,l4hm14MAAAAJ,241.0,9.0
-Hang Dai,https://sites.google.com/view/3d-vision-lab/home,6yvjpQQAAAAJ,453.0,9.0
-Hao Li,https://mbzuai.ac.ae/study/faculty/hao-li,NFeigSoAAAAJ,9578.0,47.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Muhammad Haris Khan,https://mbzuai.ac.ae/pages/muhammad-haris,ZgERfFwAAAAJ,2904.0,11.0,1979.0
+Salman H. Khan,https://salman-h-khan.github.io,M59O9lkAAAAJ,6172.0,42.0,2009.0
+Tim Baldwin,https://mbzuai.ac.ae/study/faculty/professor-timothy-baldwin,wjBD1dkAAAAJ,18724.0,65.0,1997.0
+Mohsen Guizani,https://mbzuai.ac.ae/study/faculty/professor-mohsen-guizani,RigrYkcAAAAJ,45345.0,92.0,1989.0
+Abdulmotaleb El-Saddik,http://www.site.uottawa.ca/~elsaddik,VcOjgngAAAAJ,16775.0,58.0,1998.0
+Qirong Ho,https://mbzuai.ac.ae/study/faculty/dr-qirong-ho,tR3AZbwAAAAJ,3586.0,24.0,2009.0
+Kun Zhang,https://mbzuai.ac.ae/study/faculty/dr-kun-zhang,RGoypN4AAAAJ,8948.0,40.0,2003.0
+Rao Muhammad Anwer,https://mbzuai.ac.ae/pages/rao-anwer,_KlvMVoAAAAJ,1702.0,19.0,2008.0
+Zhiqiang Xu,https://mbzuai.ac.ae/pages/zhiqiang-xu,,,,
+Bin Gu,https://mbzuai.ac.ae/study/faculty/bin-gu,Vo8OgCgAAAAJ,3131.0,24.0,2008.0
+Le Song,http://www.cc.gatech.edu/~lsong,Xl4E0CsAAAAJ,21756.0,75.0,2004.0
+Fahad Shahbaz Khan,https://sites.google.com/view/fahadkhans/home,,,,
+Shangsong Liang,https://sites.google.com/site/shangsongliang/home,4uggVcIAAAAJ,1632.0,23.0,2009.0
+Hisham Cholakkal,https://mbzuai.ac.ae/pages/hisham-cholakkal,bZ3YBRcAAAAJ,839.0,15.0,2009.0
+Martin Takác,http://mtakac.com,qKQD-2cAAAAJ,5601.0,32.0,2003.0
+Karthik Nandakumar,https://mbzuai.ac.ae/biomedia/dr-karthik-nandakumar,2qx0RnEAAAAJ,14193.0,36.0,2002.0
+Mohammad Yaqub,https://mbzuai.ac.ae/biomedia/mohammad,9dfn5GkAAAAJ,962.0,17.0,2006.0
+Eric P. Xing,http://www.cs.cmu.edu/~epxing,5pKTRxEAAAAJ,43663.0,104.0,1993.0
+Fakhreddine Karray,https://uwaterloo.ca/scholar/karray,9_Hpd5kAAAAJ,16054.0,55.0,1988.0
+Huan Xiong,https://mbzuai.ac.ae/pages/huan-xiong,l4hm14MAAAAJ,241.0,9.0,2013.0
+Hang Dai,https://sites.google.com/view/3d-vision-lab/home,6yvjpQQAAAAJ,453.0,9.0,2014.0
+Hao Li,https://mbzuai.ac.ae/study/faculty/hao-li,NFeigSoAAAAJ,9578.0,47.0,2004.0

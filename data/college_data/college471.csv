@@ -1,17 +1,17 @@
-name,homepage,scholar_id,citations,h-index
-Prasad Calyam,https://engineering.missouri.edu/faculty/prasad-calyam,Plnnv18AAAAJ,2446.0,29.0
-Yunxin Zhao,https://engineering.missouri.edu/faculty/yunxin-zhao,,,
-Chi-Ren Shyu,https://engineering.missouri.edu/faculty/chi-ren-shyu,SVfTWwMAAAAJ,4386.0,32.0
-Dong Xu,https://engineering.missouri.edu/faculty/dong-xu,xJeTtCoAAAAJ,21274.0,74.0
-Jeffrey K. Uhlmann,https://engineering.missouri.edu/faculty/jeffrey-uhlmann,,,
-Michael Jurczyk,https://engineering.missouri.edu/faculty/michael-jurczyk,,,
-Youssef Saab,https://engineering.missouri.edu/faculty/youssef-saab,,,
-Rohit Chadha,https://engineering.missouri.edu/faculty/rohit-chadha,NC5SnUcAAAAJ,1173.0,17.0
-Jianlin Cheng,https://engineering.missouri.edu/faculty/jianlin-cheng,t9MY6lwAAAAJ,15997.0,56.0
-Yi Shang,https://engineering.missouri.edu/faculty/yi-shang,o-xM3oMAAAAJ,9278.0,40.0
-Kannappan Palaniappan,https://engineering.missouri.edu/faculty/kannappan-palaniappan,k9IKW4UAAAAJ,14316.0,49.0
-Zhihai He,https://engineering.missouri.edu/faculty/zhihai-henry-he,wtr6OgkAAAAJ,7169.0,40.0
-Toni Kazic,https://engineering.missouri.edu/faculty/toni-kazic,cGB4-3QAAAAJ,487.0,12.0
-Ye Duan,http://engineers.missouri.edu/duanye,lJvwEx8AAAAJ,3445.0,24.0
-William Harrison,https://engineering.missouri.edu/faculty/william-harrison,5WGzcwMAAAAJ,2945.0,21.0
-Xinhua Zhuang,https://engineering.missouri.edu/tag/xinhua-zhuang,,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Prasad Calyam,https://engineering.missouri.edu/faculty/prasad-calyam,Plnnv18AAAAJ,2446.0,29.0,2003.0
+Yunxin Zhao,https://engineering.missouri.edu/faculty/yunxin-zhao,,,,
+Chi-Ren Shyu,https://engineering.missouri.edu/faculty/chi-ren-shyu,SVfTWwMAAAAJ,4386.0,32.0,1998.0
+Dong Xu,https://engineering.missouri.edu/faculty/dong-xu,xJeTtCoAAAAJ,21274.0,74.0,1992.0
+Jeffrey K. Uhlmann,https://engineering.missouri.edu/faculty/jeffrey-uhlmann,,,,
+Michael Jurczyk,https://engineering.missouri.edu/faculty/michael-jurczyk,,,,
+Youssef Saab,https://engineering.missouri.edu/faculty/youssef-saab,,,,
+Rohit Chadha,https://engineering.missouri.edu/faculty/rohit-chadha,NC5SnUcAAAAJ,1173.0,17.0,2001.0
+Jianlin Cheng,https://engineering.missouri.edu/faculty/jianlin-cheng,t9MY6lwAAAAJ,15997.0,56.0,2005.0
+Yi Shang,https://engineering.missouri.edu/faculty/yi-shang,o-xM3oMAAAAJ,9278.0,40.0,1982.0
+Kannappan Palaniappan,https://engineering.missouri.edu/faculty/kannappan-palaniappan,k9IKW4UAAAAJ,14316.0,49.0,1984.0
+Zhihai He,https://engineering.missouri.edu/faculty/zhihai-henry-he,wtr6OgkAAAAJ,7169.0,40.0,2000.0
+Toni Kazic,https://engineering.missouri.edu/faculty/toni-kazic,cGB4-3QAAAAJ,487.0,12.0,1984.0
+Ye Duan,http://engineers.missouri.edu/duanye,lJvwEx8AAAAJ,3445.0,24.0,1997.0
+William Harrison,https://engineering.missouri.edu/faculty/william-harrison,5WGzcwMAAAAJ,2945.0,21.0,1972.0
+Xinhua Zhuang,https://engineering.missouri.edu/tag/xinhua-zhuang,,,,

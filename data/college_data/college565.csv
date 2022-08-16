@@ -1,19 +1,19 @@
-name,homepage,scholar_id,citations,h-index
-Sylvain Giroux,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/sylvain-giroux,_D2FWhQAAAAJ,2789.0,27.0
-Froduald Kabanza,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/froduald-kabanza,h7z0lEoAAAAJ,3029.0,25.0
-Hélène Pigot,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/helene-pigot,,,
-Aïda Ouangraoua,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/aida-ouangraoua,,,
-Djemel Ziou,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/djemel-ziou,hCOyA_sAAAAJ,11845.0,52.0
-Richard Egli,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/richard-egli,,,
-Dave Touchette,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/dave-touchette,,,
-Jean-Pierre Dussault,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/jean-pierre-dussault,,,
-Bessam Abdulrazak,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/bessam-abdulrazak,moRsZ2kAAAAJ,1590.0,21.0
-Gabriel Girard,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/gabriel-girard,-Zoh5mIAAAAJ,3580.0,25.0
-Marie Flavie Auclair-Fortier,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/marie-flavie-auclair-fortier,,,
-Maxime Descoteaux,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/maxime-descoteaux,ohzG9ScAAAAJ,11482.0,51.0
-Michael Blondin,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/michael-blondin,aM8Fe9wAAAAJ,331.0,11.0
-Pierre-Marc Jodoin,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/pierre-marc-jodoin,JM9-OOsAAAAJ,10516.0,39.0
-Shengrui Wang,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/shengrui-wang,LrUajaoAAAAJ,4440.0,36.0
-Luc Lavoie,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/luc-lavoie,,,
-Manuel Lafond,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/manuel-lafond,O2xit3MAAAAJ,569.0,13.0
-Marc Frappier,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/marc-frappier,Lka1FFcAAAAJ,1764.0,24.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Sylvain Giroux,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/sylvain-giroux,_D2FWhQAAAAJ,2789.0,27.0,1991.0
+Froduald Kabanza,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/froduald-kabanza,h7z0lEoAAAAJ,3029.0,25.0,1990.0
+Hélène Pigot,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/helene-pigot,,,,
+Aïda Ouangraoua,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/aida-ouangraoua,,,,
+Djemel Ziou,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/djemel-ziou,hCOyA_sAAAAJ,11845.0,52.0,1989.0
+Richard Egli,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/richard-egli,,,,
+Dave Touchette,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/dave-touchette,,,,
+Jean-Pierre Dussault,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/jean-pierre-dussault,,,,
+Bessam Abdulrazak,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/bessam-abdulrazak,moRsZ2kAAAAJ,1590.0,21.0,2001.0
+Gabriel Girard,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/gabriel-girard,-Zoh5mIAAAAJ,3580.0,25.0,2010.0
+Marie Flavie Auclair-Fortier,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/marie-flavie-auclair-fortier,,,,
+Maxime Descoteaux,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/maxime-descoteaux,ohzG9ScAAAAJ,11482.0,51.0,1999.0
+Michael Blondin,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/michael-blondin,aM8Fe9wAAAAJ,331.0,11.0,2012.0
+Pierre-Marc Jodoin,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/pierre-marc-jodoin,JM9-OOsAAAAJ,10516.0,39.0,2001.0
+Shengrui Wang,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/shengrui-wang,LrUajaoAAAAJ,4440.0,36.0,1983.0
+Luc Lavoie,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/luc-lavoie,,,,
+Manuel Lafond,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/manuel-lafond,O2xit3MAAAAJ,569.0,13.0,2012.0
+Marc Frappier,https://www.usherbrooke.ca/informatique/personnel/corps-professoral/professeurs/marc-frappier,Lka1FFcAAAAJ,1764.0,24.0,1991.0

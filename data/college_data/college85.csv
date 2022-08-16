@@ -1,29 +1,29 @@
-name,homepage,scholar_id,citations,h-index
-Elias Bou-Harb,http://faculty.eng.fau.edu/ebouharb,nxEcAJUAAAAJ,2442.0,25.0
-Hari Kalva,http://www.eng.fau.edu/directory/faculty/kalva,FO1NbXUAAAAJ,3586.0,35.0
-Mohammad Ilyas,http://www.eng.fau.edu/directory/faculty/ilyas,ks65XMQAAAAJ,5137.0,29.0
-Jason O. Hallstrom,http://www.eng.fau.edu/directory/faculty/hallstrom,,,
-Behnaz Ghoraani,http://www.eng.fau.edu/directory/faculty/ghoraani,ssLvFH8AAAAJ,914.0,13.0
-Ionut Cardei,http://www.cse.fau.edu/~icardei/index.html,6MZuZB4AAAAJ,1235.0,16.0
-Taghi M. Khoshgoftaar,http://www.cse.fau.edu/~taghi,,,
-Reza Azarderakhsh,http://www.eng.fau.edu/directory/faculty/azarderakhsh/index.php,zsnXFgwAAAAJ,2728.0,29.0
-Eduardo Fernández,http://faculty.eng.fau.edu/fernande,OAfHG7QAAAAJ,9811.0,43.0
-Bassem Alhalabi,http://www.eng.fau.edu/directory/faculty/alhalabi,O72412cAAAAJ,617.0,15.0
-Xingquan Zhu,http://www.cse.fau.edu/~xqzhu,YhKZXtcAAAAJ,18705.0,57.0
-Mihaela Cardei,http://www.cse.fau.edu/~mihaela,TJ_YumoAAAAJ,8588.0,33.0
-Dolores DeGroff,http://www.eng.fau.edu/directory/faculty/degroff,,,
-Ankur Agarwal,http://www.eng.fau.edu/directory/faculty/agarwal,lHvOG4EAAAAJ,5633.0,33.0
-William Rhodes,http://www.fau.edu/ufsgov/standing-committees.php,,,
-Shihong Huang,http://faculty.eng.fau.edu/shihong,c2XTHWgAAAAJ,1410.0,20.0
-Abhijit S. Pandya,http://pire.fiu.edu/faculty/Dr_Pandya.php,,,
-Daniel Raviv,http://www.eng.fau.edu/directory/faculty/raviv,,,
-Ravi Shankar,http://www.eng.fau.edu/directory/faculty/shankar,4nMakAEAAAAJ,2050.0,20.0
-Hanqi Zhuang,http://www.eng.fau.edu/directory/faculty/zhuang,GaLP1jkAAAAJ,5275.0,37.0
-Imadeldin Mahgoub,http://www.eng.fau.edu/directory/faculty/mahgoub,,,
-Borko Furht,http://www.cse.fau.edu/~borko,z1BEGM8AAAAJ,9647.0,46.0
-Feng-Hao Liu,http://www.eng.fau.edu/directory/faculty/liu/index.php,vvWcl-wAAAAJ,1320.0,18.0
-Oge Marques,http://faculty.eng.fau.edu/omarques,ZgWULzYAAAAJ,3794.0,31.0
-KwangSoo Yang,http://faculty.eng.fau.edu/yangk/home/index.html,ou-o00sAAAAJ,507.0,10.0
-Ali Zilouchian,http://www.eng.fau.edu/directory/faculty/zilouchian,,,
-Mehrdad Nojoumian,http://faculty.eng.fau.edu/nojoumian,,,
-Yufei Tang,http://faculty.eng.fau.edu/tangy,tkzHKDoAAAAJ,2768.0,26.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Elias Bou-Harb,http://faculty.eng.fau.edu/ebouharb,nxEcAJUAAAAJ,2442.0,25.0,2011.0
+Hari Kalva,http://www.eng.fau.edu/directory/faculty/kalva,FO1NbXUAAAAJ,3586.0,35.0,
+Mohammad Ilyas,http://www.eng.fau.edu/directory/faculty/ilyas,ks65XMQAAAAJ,5137.0,29.0,1981.0
+Jason O. Hallstrom,http://www.eng.fau.edu/directory/faculty/hallstrom,,,,
+Behnaz Ghoraani,http://www.eng.fau.edu/directory/faculty/ghoraani,ssLvFH8AAAAJ,914.0,13.0,2006.0
+Ionut Cardei,http://www.cse.fau.edu/~icardei/index.html,6MZuZB4AAAAJ,1235.0,16.0,2000.0
+Taghi M. Khoshgoftaar,http://www.cse.fau.edu/~taghi,,,,
+Reza Azarderakhsh,http://www.eng.fau.edu/directory/faculty/azarderakhsh/index.php,zsnXFgwAAAAJ,2728.0,29.0,2006.0
+Eduardo Fernández,http://faculty.eng.fau.edu/fernande,OAfHG7QAAAAJ,9811.0,43.0,1962.0
+Bassem Alhalabi,http://www.eng.fau.edu/directory/faculty/alhalabi,O72412cAAAAJ,617.0,15.0,1992.0
+Xingquan Zhu,http://www.cse.fau.edu/~xqzhu,YhKZXtcAAAAJ,18705.0,57.0,1983.0
+Mihaela Cardei,http://www.cse.fau.edu/~mihaela,TJ_YumoAAAAJ,8588.0,33.0,2000.0
+Dolores DeGroff,http://www.eng.fau.edu/directory/faculty/degroff,,,,
+Ankur Agarwal,http://www.eng.fau.edu/directory/faculty/agarwal,lHvOG4EAAAAJ,5633.0,33.0,
+William Rhodes,http://www.fau.edu/ufsgov/standing-committees.php,,,,
+Shihong Huang,http://faculty.eng.fau.edu/shihong,c2XTHWgAAAAJ,1410.0,20.0,1999.0
+Abhijit S. Pandya,http://pire.fiu.edu/faculty/Dr_Pandya.php,,,,
+Daniel Raviv,http://www.eng.fau.edu/directory/faculty/raviv,,,,
+Ravi Shankar,http://www.eng.fau.edu/directory/faculty/shankar,4nMakAEAAAAJ,2050.0,20.0,
+Hanqi Zhuang,http://www.eng.fau.edu/directory/faculty/zhuang,GaLP1jkAAAAJ,5275.0,37.0,1986.0
+Imadeldin Mahgoub,http://www.eng.fau.edu/directory/faculty/mahgoub,,,,
+Borko Furht,http://www.cse.fau.edu/~borko,z1BEGM8AAAAJ,9647.0,46.0,
+Feng-Hao Liu,http://www.eng.fau.edu/directory/faculty/liu/index.php,vvWcl-wAAAAJ,1320.0,18.0,2008.0
+Oge Marques,http://faculty.eng.fau.edu/omarques,ZgWULzYAAAAJ,3794.0,31.0,1998.0
+KwangSoo Yang,http://faculty.eng.fau.edu/yangk/home/index.html,ou-o00sAAAAJ,507.0,10.0,2010.0
+Ali Zilouchian,http://www.eng.fau.edu/directory/faculty/zilouchian,,,,
+Mehrdad Nojoumian,http://faculty.eng.fau.edu/nojoumian,,,,
+Yufei Tang,http://faculty.eng.fau.edu/tangy,tkzHKDoAAAAJ,2768.0,26.0,1985.0

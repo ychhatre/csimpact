@@ -1,42 +1,42 @@
-name,homepage,scholar_id,citations,h-index
-Esam El-Araby,http://www.ittc.ku.edu/~esam,Ajlx9soAAAAJ,1465.0,17.0
-David O. Johnson,https://eecs.ku.edu/david-johnson,LyEq7qEAAAAJ,193745.0,107.0
-Prasad Kulkarni,http://www.ittc.ku.edu/~kulkarni,ETTvwdQAAAAJ,1035.0,18.0
-Heechul Yun,http://www.ittc.ku.edu/~heechul,eTISRJ0AAAAJ,2246.0,24.0
-Bo Luo,http://www.ittc.ku.edu/~bluo,roY9L1oAAAAJ,3194.0,27.0
-Fengjun Li,http://www.ittc.ku.edu/~fli,uoiTHjgAAAAJ,11645.0,12.0
-Glenn Prescott,http://www.eecs.ku.edu/people/faculty/prescott,,,
-Rongqing Hui,http://www.ittc.ku.edu/~hui,c273BNoAAAAJ,4802.0,36.0
-Kenneth Demarest,https://people.eecs.ku.edu/~demarest,0hm7u-IAAAAJ,2317.0,22.0
-Shannon D. Blunt,http://www.eecs.ku.edu/people/faculty/sdblunt,M6isOVUAAAAJ,6180.0,41.0
-Victor Frost,http://www.ittc.ku.edu/~frost,0E00iT0AAAAJ,6146.0,28.0
-Rassul Saeedipour,https://people.eecs.ku.edu/~rassul,,,
-Suzanne M. Shontz,http://people.eecs.ku.edu/~shontz,cIQOH7QAAAAJ,1162.0,18.0
-Joseph B. Evans,https://www.ittc.ku.edu/~evans,wASXJvIAAAAJ,8942.0,28.0
-Jonathan Brumberg,https://sanlab.ku.edu/jon-brumberg,k3QunHYAAAAJ,2065.0,18.0
-Mohammad Alian,https://alian-eecs.ku.edu,wzQ8-gsAAAAJ,410.0,10.0
-Drew Davidson,https://ittc.ku.edu/~drew,Om5BiCIAAAAJ,558.0,9.0
-David W. Petr,http://www.ittc.ku.edu/~dwp,K4xD9GAAAAAJ,28778.0,87.0
-Erik Perrins,https://people.eecs.ku.edu/~esp/doku,JdQ8BYwAAAAJ,1946.0,24.0
-Reza Ahmadi,http://www.eecs.ku.edu/people/faculty,2ayGjNQAAAAJ,1608.0,24.0
-Aveek Dutta,http://www.ittc.ku.edu/~aveekd,Ci-whb8AAAAJ,464.0,11.0
-Perry Alexander,http://perry.alexander.name,X-WzDOYAAAAJ,1086.0,17.0
-Cuncong Zhong,http://www.eecs.ku.edu/people/faculty,p19oGdoAAAAJ,553.0,13.0
-Jun Huan,https://www.ittc.ku.edu/~jhuan,j2PH0Y0AAAAJ,25316.0,85.0
-James Rowland,http://www.eecs.ku.edu/people/faculty/jrowland,,,
-Tyrone E. Duncan,https://www.math.ku.edu/people/faculty/duncan.html,,,
-Gary J. Minden,http://www.eecs.ku.edu/people/faculty/gminden,,,
-Nicole Beckage,http://www.eecs.ku.edu/people/faculty,4uNXEYkAAAAJ,694.0,9.0
-Christopher Allen,http://www.eecs.ku.edu/people/faculty/callen,pFEURKIAAAAJ,50122.0,83.0
-Alessandro Salandrino,http://www.eecs.ku.edu/people/faculty,ZX0I5pcAAAAJ,5232.0,22.0
-Arvin Agah,http://people.ku.edu/~agah,8p7hVMgAAAAJ,2628.0,26.0
-Michael S. Branicky,https://engr.ku.edu/meet-the-dean,jkwHy3AAAAAJ,19583.0,44.0
-Hossein Saiedian,http://people.eecs.ku.edu/~saiedian,ABtH60kAAAAJ,3182.0,25.0
-James R. Miller,http://people.eecs.ku.edu/~miller,K5hmGHcAAAAJ,157589.0,81.0
-Carl Leuschen,http://www.eecs.ku.edu/people/faculty/leuschen,,,
-Lingjia Liu,http://people.eecs.ku.edu/~lingjialiu,_d2M0xMAAAAJ,5822.0,43.0
-Jerzy W. Grzymala-Busse,http://people.eecs.ku.edu/~jerzy,,,
-Alexandru G. Bardas,https://www.ittc.ku.edu/~alexbardas,ulpPgb0AAAAJ,509.0,10.0
-James M. Stiles,http://www.eecs.ku.edu/people/faculty/jstiles,GYMISJkAAAAJ,1802.0,22.0
-Man Kong,http://www.eecs.ku.edu/people/faculty/kong,XVbgceMAAAAJ,45101.0,102.0
-James P. G. Sterbenz,http://www.ittc.ku.edu/~jpgs,Xuh3zZ8AAAAJ,5896.0,37.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Esam El-Araby,http://www.ittc.ku.edu/~esam,Ajlx9soAAAAJ,1465.0,17.0,2002.0
+David O. Johnson,https://eecs.ku.edu/david-johnson,LyEq7qEAAAAJ,193745.0,107.0,
+Prasad Kulkarni,http://www.ittc.ku.edu/~kulkarni,ETTvwdQAAAAJ,1035.0,18.0,2003.0
+Heechul Yun,http://www.ittc.ku.edu/~heechul,eTISRJ0AAAAJ,2246.0,24.0,2001.0
+Bo Luo,http://www.ittc.ku.edu/~bluo,roY9L1oAAAAJ,3194.0,27.0,2002.0
+Fengjun Li,http://www.ittc.ku.edu/~fli,uoiTHjgAAAAJ,11645.0,12.0,2001.0
+Glenn Prescott,http://www.eecs.ku.edu/people/faculty/prescott,,,,
+Rongqing Hui,http://www.ittc.ku.edu/~hui,c273BNoAAAAJ,4802.0,36.0,1988.0
+Kenneth Demarest,https://people.eecs.ku.edu/~demarest,0hm7u-IAAAAJ,2317.0,22.0,1979.0
+Shannon D. Blunt,http://www.eecs.ku.edu/people/faculty/sdblunt,M6isOVUAAAAJ,6180.0,41.0,1999.0
+Victor Frost,http://www.ittc.ku.edu/~frost,0E00iT0AAAAJ,6146.0,28.0,1976.0
+Rassul Saeedipour,https://people.eecs.ku.edu/~rassul,,,,
+Suzanne M. Shontz,http://people.eecs.ku.edu/~shontz,cIQOH7QAAAAJ,1162.0,18.0,2002.0
+Joseph B. Evans,https://www.ittc.ku.edu/~evans,wASXJvIAAAAJ,8942.0,28.0,1982.0
+Jonathan Brumberg,https://sanlab.ku.edu/jon-brumberg,k3QunHYAAAAJ,2065.0,18.0,2003.0
+Mohammad Alian,https://alian-eecs.ku.edu,wzQ8-gsAAAAJ,410.0,10.0,2011.0
+Drew Davidson,https://ittc.ku.edu/~drew,Om5BiCIAAAAJ,558.0,9.0,2009.0
+David W. Petr,http://www.ittc.ku.edu/~dwp,K4xD9GAAAAAJ,28778.0,87.0,1988.0
+Erik Perrins,https://people.eecs.ku.edu/~esp/doku,JdQ8BYwAAAAJ,1946.0,24.0,1997.0
+Reza Ahmadi,http://www.eecs.ku.edu/people/faculty,2ayGjNQAAAAJ,1608.0,24.0,2005.0
+Aveek Dutta,http://www.ittc.ku.edu/~aveekd,Ci-whb8AAAAJ,464.0,11.0,2008.0
+Perry Alexander,http://perry.alexander.name,X-WzDOYAAAAJ,1086.0,17.0,1982.0
+Cuncong Zhong,http://www.eecs.ku.edu/people/faculty,p19oGdoAAAAJ,553.0,13.0,2010.0
+Jun Huan,https://www.ittc.ku.edu/~jhuan,j2PH0Y0AAAAJ,25316.0,85.0,2002.0
+James Rowland,http://www.eecs.ku.edu/people/faculty/jrowland,,,,
+Tyrone E. Duncan,https://www.math.ku.edu/people/faculty/duncan.html,,,,
+Gary J. Minden,http://www.eecs.ku.edu/people/faculty/gminden,,,,
+Nicole Beckage,http://www.eecs.ku.edu/people/faculty,4uNXEYkAAAAJ,694.0,9.0,2009.0
+Christopher Allen,http://www.eecs.ku.edu/people/faculty/callen,pFEURKIAAAAJ,50122.0,83.0,1995.0
+Alessandro Salandrino,http://www.eecs.ku.edu/people/faculty,ZX0I5pcAAAAJ,5232.0,22.0,2005.0
+Arvin Agah,http://people.ku.edu/~agah,8p7hVMgAAAAJ,2628.0,26.0,1990.0
+Michael S. Branicky,https://engr.ku.edu/meet-the-dean,jkwHy3AAAAAJ,19583.0,44.0,1990.0
+Hossein Saiedian,http://people.eecs.ku.edu/~saiedian,ABtH60kAAAAJ,3182.0,25.0,1968.0
+James R. Miller,http://people.eecs.ku.edu/~miller,K5hmGHcAAAAJ,157589.0,81.0,1968.0
+Carl Leuschen,http://www.eecs.ku.edu/people/faculty/leuschen,,,,
+Lingjia Liu,http://people.eecs.ku.edu/~lingjialiu,_d2M0xMAAAAJ,5822.0,43.0,2005.0
+Jerzy W. Grzymala-Busse,http://people.eecs.ku.edu/~jerzy,,,,
+Alexandru G. Bardas,https://www.ittc.ku.edu/~alexbardas,ulpPgb0AAAAJ,509.0,10.0,2012.0
+James M. Stiles,http://www.eecs.ku.edu/people/faculty/jstiles,GYMISJkAAAAJ,1802.0,22.0,1990.0
+Man Kong,http://www.eecs.ku.edu/people/faculty/kong,XVbgceMAAAAJ,45101.0,102.0,1982.0
+James P. G. Sterbenz,http://www.ittc.ku.edu/~jpgs,Xuh3zZ8AAAAJ,5896.0,37.0,1988.0

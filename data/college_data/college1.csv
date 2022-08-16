@@ -1,44 +1,44 @@
-name,homepage,scholar_id,citations,h-index
-Manfred Jaeger,http://people.cs.aau.dk/~jaeger,1E085gUAAAAJ,1923.0,23.0
-Henning Pohl,https://henningpohl.net,ftOTeNkAAAAJ,823.0,14.0
-René Rydhof Hansen,http://people.cs.aau.dk/~rrh,MGLEvwkAAAAJ,1942.0,21.0
-Peter Axel Nielsen,http://people.cs.aau.dk/~pan,l2VkFywAAAAJ,5287.0,25.0
-Kim G. Larsen,http://www.cs.aau.dk/~kgl,neDFD60AAAAJ,31128.0,84.0
-Peter Dolog,https://peterdolog.wordpress.com,gCafUI0AAAAJ,4113.0,32.0
-Bent Thomsen,http://people.cs.aau.dk/~bt,mhyMmZoAAAAJ,2448.0,23.0
-Jeni Paay,http://people.cs.aau.dk/~jeni/jeni_homepage/home.html,-4miticAAAAJ,1698.0,24.0
-Hans Hüttel,http://people.cs.aau.dk/~hans/index-eng.html,Wf7-agQAAAAJ,1491.0,19.0
-Radu Mardare,http://people.cs.aau.dk/~mardare,6svgjm8AAAAJ,829.0,15.0
-Arne Skou,http://people.cs.aau.dk/~ask,qIjjvXwAAAAJ,4004.0,22.0
-Ivan Aaen,http://people.cs.aau.dk/~ivan,-8-9oRgAAAAJ,967.0,13.0
-Torben Bach Pedersen,http://people.cs.aau.dk/~tbp,XGzPuKEAAAAJ,7780.0,49.0
-Jirí Srba,http://people.cs.aau.dk/~srba,PYmuJQoAAAAJ,2828.0,30.0
-Kurt Nørmark,http://people.cs.aau.dk/~normark,5L7St-cAAAAJ,489.0,12.0
-Nicolai Brodersen Hansen,https://vbn.aau.dk/da/persons/148582,7Uy9-ToAAAAJ,785.0,11.0
-Simonas Saltenis,http://people.cs.aau.dk/~simas,K0l79_wAAAAJ,3967.0,24.0
-Brian Nielsen,http://people.cs.aau.dk/~bnielsen,iAgWGgwAAAAJ,2117.0,24.0
-Jan Stage,http://people.cs.aau.dk/~jans,6fgR7XcAAAAJ,4026.0,30.0
-Florian Echtler,https://floe.butterbrot.org,sZssYagAAAAJ,2349.0,23.0
-Hua Lu,http://people.cs.aau.dk/~luhua,h1mExmcAAAAJ,4537.0,36.0
-Niels van Berkel,http://www.nielsvanberkel.com,0VfMvLsAAAAJ,1487.0,21.0
-Jesper Kjeldskov,http://people.cs.aau.dk/~jesper,pD3nfeAAAAAJ,5910.0,38.0
-Gabriela Montoya,https://vbn.aau.dk/en/persons/gabriela-valentina-montoya-castillo,qXfMXnYAAAAJ,360.0,10.0
-Kristian G. Olesen,http://people.cs.aau.dk/~kgo/cv.html,qrPdfAcAAAAJ,3518.0,20.0
-Thomas D. Nielsen,http://people.cs.aau.dk/~tdn,6fWF0CgAAAAJ,8874.0,24.0
-Katja Hose,http://people.cs.aau.dk/~khose,LbXvZUoAAAAJ,3584.0,24.0
-Johannes Bjerva,https://bjerva.github.io/index.html,F9zlUBcAAAAJ,1015.0,16.0
-John Stouby Persson,http://people.cs.aau.dk/~john,2uofkmkAAAAJ,895.0,15.0
-Lone Leth,http://people.cs.aau.dk/~lone,vyYcihcAAAAJ,649.0,15.0
-Uffe Kjærulff,http://personprofil.aau.dk/102267?lang=en,,,
-Giorgio Bacci,http://people.cs.aau.dk/~grbacci,y2Q3kK8AAAAJ,358.0,12.0
-Tim Merritt,http://www.ixd.net,RBhmAmkAAAAJ,1021.0,17.0
-Josva Kleist,http://personprofil.aau.dk/104832?lang=en,,,
-Bin Yang,http://people.cs.aau.dk/~byang,qjBQhoUAAAAJ,3673.0,39.0
-Daniel Russo,https://danielrusso.org,BQ6QbwkAAAAJ,558.0,15.0
-Mikael B. Skov,http://people.cs.aau.dk/~dubois,sivdLnwAAAAJ,3884.0,32.0
-Kristian Torp,http://people.cs.aau.dk/~torp,EusRZN0AAAAJ,963.0,15.0
-Anders Bruun,http://personprofil.aau.dk/120220,X32A-C4AAAAJ,664.0,14.0
-Chenjuan Guo,http://people.cs.aau.dk/~cguo,WMXNm88AAAAJ,1645.0,21.0
-Christian Thomsen,http://personprofil.aau.dk/111293?lang=en,Y7i1yN4AAAAJ,993.0,18.0
-Ulrik Larsen,http://ulrik.blog.aau.dk,Z3FXuI0AAAAJ,1447.0,18.0
-Christian S. Jensen,http://people.cs.aau.dk/~csj,wo20cPYAAAAJ,34272.0,92.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Manfred Jaeger,http://people.cs.aau.dk/~jaeger,1E085gUAAAAJ,1923.0,23.0,1993.0
+Henning Pohl,https://henningpohl.net,ftOTeNkAAAAJ,823.0,14.0,2007.0
+René Rydhof Hansen,http://people.cs.aau.dk/~rrh,MGLEvwkAAAAJ,1942.0,21.0,1999.0
+Peter Axel Nielsen,http://people.cs.aau.dk/~pan,l2VkFywAAAAJ,5287.0,25.0,1948.0
+Kim G. Larsen,http://www.cs.aau.dk/~kgl,neDFD60AAAAJ,31128.0,84.0,1984.0
+Peter Dolog,https://peterdolog.wordpress.com,gCafUI0AAAAJ,4113.0,32.0,2001.0
+Bent Thomsen,http://people.cs.aau.dk/~bt,mhyMmZoAAAAJ,2448.0,23.0,1987.0
+Jeni Paay,http://people.cs.aau.dk/~jeni/jeni_homepage/home.html,-4miticAAAAJ,1698.0,24.0,1998.0
+Hans Hüttel,http://people.cs.aau.dk/~hans/index-eng.html,Wf7-agQAAAAJ,1491.0,19.0,1988.0
+Radu Mardare,http://people.cs.aau.dk/~mardare,6svgjm8AAAAJ,829.0,15.0,1997.0
+Arne Skou,http://people.cs.aau.dk/~ask,qIjjvXwAAAAJ,4004.0,22.0,1981.0
+Ivan Aaen,http://people.cs.aau.dk/~ivan,-8-9oRgAAAAJ,967.0,13.0,1980.0
+Torben Bach Pedersen,http://people.cs.aau.dk/~tbp,XGzPuKEAAAAJ,7780.0,49.0,1995.0
+Jirí Srba,http://people.cs.aau.dk/~srba,PYmuJQoAAAAJ,2828.0,30.0,1998.0
+Kurt Nørmark,http://people.cs.aau.dk/~normark,5L7St-cAAAAJ,489.0,12.0,1987.0
+Nicolai Brodersen Hansen,https://vbn.aau.dk/da/persons/148582,7Uy9-ToAAAAJ,785.0,11.0,2012.0
+Simonas Saltenis,http://people.cs.aau.dk/~simas,K0l79_wAAAAJ,3967.0,24.0,1998.0
+Brian Nielsen,http://people.cs.aau.dk/~bnielsen,iAgWGgwAAAAJ,2117.0,24.0,
+Jan Stage,http://people.cs.aau.dk/~jans,6fgR7XcAAAAJ,4026.0,30.0,1986.0
+Florian Echtler,https://floe.butterbrot.org,sZssYagAAAAJ,2349.0,23.0,2004.0
+Hua Lu,http://people.cs.aau.dk/~luhua,h1mExmcAAAAJ,4537.0,36.0,2004.0
+Niels van Berkel,http://www.nielsvanberkel.com,0VfMvLsAAAAJ,1487.0,21.0,2013.0
+Jesper Kjeldskov,http://people.cs.aau.dk/~jesper,pD3nfeAAAAAJ,5910.0,38.0,1999.0
+Gabriela Montoya,https://vbn.aau.dk/en/persons/gabriela-valentina-montoya-castillo,qXfMXnYAAAAJ,360.0,10.0,2012.0
+Kristian G. Olesen,http://people.cs.aau.dk/~kgo/cv.html,qrPdfAcAAAAJ,3518.0,20.0,1987.0
+Thomas D. Nielsen,http://people.cs.aau.dk/~tdn,6fWF0CgAAAAJ,8874.0,24.0,1994.0
+Katja Hose,http://people.cs.aau.dk/~khose,LbXvZUoAAAAJ,3584.0,24.0,2004.0
+Johannes Bjerva,https://bjerva.github.io/index.html,F9zlUBcAAAAJ,1015.0,16.0,2011.0
+John Stouby Persson,http://people.cs.aau.dk/~john,2uofkmkAAAAJ,895.0,15.0,2008.0
+Lone Leth,http://people.cs.aau.dk/~lone,vyYcihcAAAAJ,649.0,15.0,1991.0
+Uffe Kjærulff,http://personprofil.aau.dk/102267?lang=en,,,,
+Giorgio Bacci,http://people.cs.aau.dk/~grbacci,y2Q3kK8AAAAJ,358.0,12.0,2006.0
+Tim Merritt,http://www.ixd.net,RBhmAmkAAAAJ,1021.0,17.0,2005.0
+Josva Kleist,http://personprofil.aau.dk/104832?lang=en,,,,
+Bin Yang,http://people.cs.aau.dk/~byang,qjBQhoUAAAAJ,3673.0,39.0,2006.0
+Daniel Russo,https://danielrusso.org,BQ6QbwkAAAAJ,558.0,15.0,1993.0
+Mikael B. Skov,http://people.cs.aau.dk/~dubois,sivdLnwAAAAJ,3884.0,32.0,1996.0
+Kristian Torp,http://people.cs.aau.dk/~torp,EusRZN0AAAAJ,963.0,15.0,1994.0
+Anders Bruun,http://personprofil.aau.dk/120220,X32A-C4AAAAJ,664.0,14.0,2006.0
+Chenjuan Guo,http://people.cs.aau.dk/~cguo,WMXNm88AAAAJ,1645.0,21.0,2006.0
+Christian Thomsen,http://personprofil.aau.dk/111293?lang=en,Y7i1yN4AAAAJ,993.0,18.0,2004.0
+Ulrik Larsen,http://ulrik.blog.aau.dk,Z3FXuI0AAAAJ,1447.0,18.0,
+Christian S. Jensen,http://people.cs.aau.dk/~csj,wo20cPYAAAAJ,34272.0,92.0,

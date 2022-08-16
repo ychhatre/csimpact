@@ -1,15 +1,15 @@
-name,homepage,scholar_id,citations,h-index
-Emily Prud'hommeaux,http://cs.bc.edu/~prudhome,9Lmv4joAAAAJ,698.0,15.0
-Joseph Tassarotti,https://people.csail.mit.edu/jtassaro,zNvgsXAAAAAJ,514.0,11.0
-José Bento,http://www.jbento.net,8K6Z0lEAAAAJ,7407.0,41.0
-Nam Wook Kim,https://www.namwkim.org,PgSzKsgAAAAJ,1154.0,17.0
-Jean-Baptiste Tristan,https://jtristan.github.io,iMs3HJoAAAAJ,902.0,13.0
-Lewis Tseng,https://sites.google.com/site/lewiscytseng/home,v80SHFMAAAAJ,812.0,13.0
-Howard Straubing,http://www.cs.bc.edu/~straubin,TulXsLEAAAAJ,3726.0,27.0
-Robert Signorile,http://www.cs.bc.edu/~signoril,,,
-Donglai Wei,https://donglaiw.github.io,xF2mhDoAAAAJ,1612.0,13.0
-Sergio Alvarez,http://www.cs.bc.edu/~alvarez,X8_J4FEAAAAJ,1660.0,22.0
-Robert Muller,http://www.cs.bc.edu/~muller,,,
-Edward Sciore,http://www.cs.bc.edu/~sciore,,,
-Ilya Volkovich,https://sites.google.com/site/ilyavv,Xd6_27cAAAAJ,528.0,12.0
-Hsin-Hao Su,https://sites.google.com/site/distributedhsinhao,SIJF2zcAAAAJ,706.0,14.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Emily Prud'hommeaux,http://cs.bc.edu/~prudhome,9Lmv4joAAAAJ,698.0,15.0,
+Joseph Tassarotti,https://people.csail.mit.edu/jtassaro,zNvgsXAAAAAJ,514.0,11.0,2012.0
+José Bento,http://www.jbento.net,8K6Z0lEAAAAJ,7407.0,41.0,1976.0
+Nam Wook Kim,https://www.namwkim.org,PgSzKsgAAAAJ,1154.0,17.0,2010.0
+Jean-Baptiste Tristan,https://jtristan.github.io,iMs3HJoAAAAJ,902.0,13.0,2006.0
+Lewis Tseng,https://sites.google.com/site/lewiscytseng/home,v80SHFMAAAAJ,812.0,13.0,2012.0
+Howard Straubing,http://www.cs.bc.edu/~straubin,TulXsLEAAAAJ,3726.0,27.0,1979.0
+Robert Signorile,http://www.cs.bc.edu/~signoril,,,,
+Donglai Wei,https://donglaiw.github.io,xF2mhDoAAAAJ,1612.0,13.0,2011.0
+Sergio Alvarez,http://www.cs.bc.edu/~alvarez,X8_J4FEAAAAJ,1660.0,22.0,2007.0
+Robert Muller,http://www.cs.bc.edu/~muller,,,,
+Edward Sciore,http://www.cs.bc.edu/~sciore,,,,
+Ilya Volkovich,https://sites.google.com/site/ilyavv,Xd6_27cAAAAJ,528.0,12.0,2009.0
+Hsin-Hao Su,https://sites.google.com/site/distributedhsinhao,SIJF2zcAAAAJ,706.0,14.0,2008.0

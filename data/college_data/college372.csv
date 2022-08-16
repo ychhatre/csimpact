@@ -1,14 +1,14 @@
-name,homepage,scholar_id,citations,h-index
-Harry S. Delugach,https://www.uah.edu/science/departments/computer-science/faculty-staff/harry-delugach,,,
-Ramazan Aygun,http://ua-huntsville.academia.edu/RamazanAygun,E19URRIAAAAJ,1361.0,16.0
-Letha H. Etzkorn,http://www.cs.uah.edu/~letzkorn,_k0dq8QAAAAJ,3494.0,28.0
-Rayford B. Vaughn,https://www.uah.edu/images/research/ovpr/cvs/vaughn.pdf,UK-AZvMAAAAJ,2907.0,27.0
-Peter Slater,https://www.uah.edu/science/departments/math/faculty-staff/peter-slater,,,
-Huaming Zhang,https://www.uah.edu/science/departments/computer-science/faculty-staff/huaming-zhang,,,
-Tim Newman,http://www.cs.uah.edu/~tnewman,KkN7DMIAAAAJ,2655.0,19.0
-Mikel D. Petty,https://www.uah.edu/images/research/cmsa/pdf/Pubs_Dr_Petty/CV_Mikel_D_Petty_v134.pdf,,,
-Haeyong Chung,https://www.uah.edu/science/departments/computer-science/faculty-staff/haeyong-chung,,,
-Heggere S. Ranganath,https://www.uah.edu/science/departments/computer-science/faculty-staff/heggere-ranganath,,,
-Daniel Rochowiak,https://www.uah.edu/science/departments/computer-science/faculty-staff/daniel-rochowiak,,,
-Sara J. Graves,https://www.uah.edu/science/departments/computer-science/faculty-staff/sara-graves,,,
-Feng W. Zhu,https://www.uah.edu/science/departments/computer-science/faculty-staff/feng-zhu,,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Harry S. Delugach,https://www.uah.edu/science/departments/computer-science/faculty-staff/harry-delugach,,,,
+Ramazan Aygun,http://ua-huntsville.academia.edu/RamazanAygun,E19URRIAAAAJ,1361.0,16.0,1998.0
+Letha H. Etzkorn,http://www.cs.uah.edu/~letzkorn,_k0dq8QAAAAJ,3494.0,28.0,1994.0
+Rayford B. Vaughn,https://www.uah.edu/images/research/ovpr/cvs/vaughn.pdf,UK-AZvMAAAAJ,2907.0,27.0,1988.0
+Peter Slater,https://www.uah.edu/science/departments/math/faculty-staff/peter-slater,,,,
+Huaming Zhang,https://www.uah.edu/science/departments/computer-science/faculty-staff/huaming-zhang,,,,
+Tim Newman,http://www.cs.uah.edu/~tnewman,KkN7DMIAAAAJ,2655.0,19.0,1991.0
+Mikel D. Petty,https://www.uah.edu/images/research/cmsa/pdf/Pubs_Dr_Petty/CV_Mikel_D_Petty_v134.pdf,,,,
+Haeyong Chung,https://www.uah.edu/science/departments/computer-science/faculty-staff/haeyong-chung,,,,
+Heggere S. Ranganath,https://www.uah.edu/science/departments/computer-science/faculty-staff/heggere-ranganath,,,,
+Daniel Rochowiak,https://www.uah.edu/science/departments/computer-science/faculty-staff/daniel-rochowiak,,,,
+Sara J. Graves,https://www.uah.edu/science/departments/computer-science/faculty-staff/sara-graves,,,,
+Feng W. Zhu,https://www.uah.edu/science/departments/computer-science/faculty-staff/feng-zhu,,,,

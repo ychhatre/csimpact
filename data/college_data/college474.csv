@@ -1,48 +1,48 @@
-name,homepage,scholar_id,citations,h-index
-Jean Meunier,http://www.iro.umontreal.ca/~meunier,El03_L8AAAAJ,3396.0,30.0
-Guy Lapalme,http://rali.iro.umontreal.ca/lapalme,0fRlG8oAAAAJ,9565.0,38.0
-Jean-Yves Potvin,http://www.iro.umontreal.ca/~potvin,CtGMLsMAAAAJ,20075.0,58.0
-Pierre-Luc Bacon,http://pierrelucbacon.com,9H77FYYAAAAJ,1494.0,13.0
-Aaron C. Courville,https://aaroncourville.wordpress.com,km6CP8cAAAAJ,155890.0,84.0
-Fabian Bastin,http://www.iro.umontreal.ca/~bastin,RRLx0jsAAAAJ,888.0,15.0
-Pierre-Louis Bellec,http://diro.umontreal.ca/repertoire-departement/vue/bellec-pierre-louis,,,
-Chris Pal,http://en.diro.umontreal.ca/department-directory/vue/pal-christopher,1ScWJOoAAAAJ,64193.0,54.0
-Irina Rish,https://sites.google.com/site/irinarish,Avse5gIAAAAJ,10369.0,38.0
-Aishwarya Agrawal,https://www.cc.gatech.edu/grads/a/aagrawal307,pLurJcoAAAAJ,4587.0,9.0
-Roland Memisevic,http://www.iro.umontreal.ca/~memisevr,8oJl5P0AAAAJ,7340.0,36.0
-Nadia El-Mabrouk,http://www.iro.umontreal.ca/~mabrouk,,,
-Pierre McKenzie,http://www.iro.umontreal.ca/~mckenzie,fA1ZOmMAAAAJ,4026.0,34.0
-Neil F. Stewart,http://www.iro.umontreal.ca/~stewart,G1phNfoAAAAJ,7263.0,41.0
-Bernard Gendron,https://www.iro.umontreal.ca/~gendron,jYfNlfAAAAAJ,5094.0,38.0
-Alain Tapp,http://diro.umontreal.ca/repertoire-departement/vue/tapp-alain,tAM57M8AAAAJ,6358.0,26.0
-Pierre Poulin,http://www.iro.umontreal.ca/~poulin,al5P0bAAAAAJ,4052.0,32.0
-Houari A. Sahraoui,http://www.iro.umontreal.ca/~sahraouh,xsUkTCEAAAAJ,6318.0,43.0
-Patrice Marcotte,http://www.iro.umontreal.ca/~marcotte,p_iffpcAAAAJ,9861.0,47.0
-Louis Salvail,http://www.iro.umontreal.ca/~salvail,,,
-Stefan Monnier,https://www.iro.umontreal.ca/~monnier,,,
-Sébastien Roy,http://www.iro.umontreal.ca/~roys/en_index.shtml,KfWhAlsAAAAJ,8117.0,35.0
-Jian Yun Nie,http://rali.iro.umontreal.ca/nie/jian-yun-nie-en,W7uYg0UAAAAJ,13057.0,51.0
-Ioannis Mitliagkas,http://mitliagkas.github.io,K757SxgAAAAJ,3078.0,27.0
-Abdelhakim Hafid,http://www.iro.umontreal.ca/~ahafid,jx_cUucAAAAJ,132.0,4.0
-Guillaume Lajoie,https://www.guillaumelajoie.com,ifu_7_0AAAAJ,423.0,12.0
-Glen Berseth,http://www.fracturedplane.com,-WZcuuwAAAAJ,1590.0,17.0
-Marc Feeley,http://www.iro.umontreal.ca/~feeley,,,
-Philippe Langlais,http://www.iro.umontreal.ca/~felipe,VHd-kDEAAAAJ,3109.0,30.0
-Miklós Csürös,http://www.iro.umontreal.ca/~csuros,xoojTgcAAAAJ,4588.0,22.0
-Claude Frasson,http://www.iro.umontreal.ca/~frasson,UHwqGG4AAAAJ,4329.0,35.0
-Gena Hahn,http://www.iro.umontreal.ca/~hahn,,,
-Simon Lacoste-Julien,http://www.di.ens.fr/~slacoste,oejm5IUAAAAJ,7951.0,39.0
-Yoshua Bengio,http://www.iro.umontreal.ca/~bengioy,kukA0LcAAAAJ,532373.0,205.0
-Guillaume Rabusseau,https://www.iro.umontreal.ca/~grabus,t2i4V4EAAAAJ,328.0,11.0
-Pierre L'Ecuyer,http://www.iro.umontreal.ca/~lecuyer,gDxovowAAAAJ,17148.0,68.0
-Max Mignotte,http://www.iro.umontreal.ca/~mignotte,,,
-Esma Aïmeur,http://www.iro.umontreal.ca/~aimeur,rBTFbxYAAAAJ,3194.0,29.0
-Gilles Brassard,https://en.wikipedia.org/wiki/Gilles_Brassard,Rh7_srgAAAAJ,59790.0,62.0
-Michel Boyer,http://www.iro.umontreal.ca/~boyer,mDhldqAAAAAJ,5033.0,13.0
-François Major,http://www.iro.umontreal.ca/~major,to7tpNwAAAAJ,6291.0,36.0
-Emma Frejinger,http://en.diro.umontreal.ca/department-directory/vue/frejinger-emma,PBOoXfwAAAAJ,2283.0,19.0
-Sylvie Hamel,http://www.iro.umontreal.ca/~hamelsyl,Xohi3bwAAAAJ,827.0,19.0
-Eugene Syriani,http://www-ens.iro.umontreal.ca/~syriani,iQlrBWkAAAAJ,1554.0,20.0
-Bernhard Thomaszewski,http://www-labs.iro.umontreal.ca/~bernhard,IDw2HJAAAAAJ,3515.0,35.0
-Mikhail Bessmeltsev,http://www-labs.iro.umontreal.ca/~bmpix,EUzwk5cAAAAJ,318.0,8.0
-Liam Paull,http://people.csail.mit.edu/lpaull,H9xADK0AAAAJ,3366.0,30.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Jean Meunier,http://www.iro.umontreal.ca/~meunier,El03_L8AAAAJ,3396.0,30.0,1969.0
+Guy Lapalme,http://rali.iro.umontreal.ca/lapalme,0fRlG8oAAAAJ,9565.0,38.0,1967.0
+Jean-Yves Potvin,http://www.iro.umontreal.ca/~potvin,CtGMLsMAAAAJ,20075.0,58.0,1983.0
+Pierre-Luc Bacon,http://pierrelucbacon.com,9H77FYYAAAAJ,1494.0,13.0,2013.0
+Aaron C. Courville,https://aaroncourville.wordpress.com,km6CP8cAAAAJ,155890.0,84.0,2001.0
+Fabian Bastin,http://www.iro.umontreal.ca/~bastin,RRLx0jsAAAAJ,888.0,15.0,2001.0
+Pierre-Louis Bellec,http://diro.umontreal.ca/repertoire-departement/vue/bellec-pierre-louis,,,,
+Chris Pal,http://en.diro.umontreal.ca/department-directory/vue/pal-christopher,1ScWJOoAAAAJ,64193.0,54.0,
+Irina Rish,https://sites.google.com/site/irinarish,Avse5gIAAAAJ,10369.0,38.0,1994.0
+Aishwarya Agrawal,https://www.cc.gatech.edu/grads/a/aagrawal307,pLurJcoAAAAJ,4587.0,9.0,2014.0
+Roland Memisevic,http://www.iro.umontreal.ca/~memisevr,8oJl5P0AAAAJ,7340.0,36.0,2003.0
+Nadia El-Mabrouk,http://www.iro.umontreal.ca/~mabrouk,,,,
+Pierre McKenzie,http://www.iro.umontreal.ca/~mckenzie,fA1ZOmMAAAAJ,4026.0,34.0,1966.0
+Neil F. Stewart,http://www.iro.umontreal.ca/~stewart,G1phNfoAAAAJ,7263.0,41.0,2000.0
+Bernard Gendron,https://www.iro.umontreal.ca/~gendron,jYfNlfAAAAAJ,5094.0,38.0,1991.0
+Alain Tapp,http://diro.umontreal.ca/repertoire-departement/vue/tapp-alain,tAM57M8AAAAJ,6358.0,26.0,1995.0
+Pierre Poulin,http://www.iro.umontreal.ca/~poulin,al5P0bAAAAAJ,4052.0,32.0,1990.0
+Houari A. Sahraoui,http://www.iro.umontreal.ca/~sahraouh,xsUkTCEAAAAJ,6318.0,43.0,1994.0
+Patrice Marcotte,http://www.iro.umontreal.ca/~marcotte,p_iffpcAAAAJ,9861.0,47.0,1981.0
+Louis Salvail,http://www.iro.umontreal.ca/~salvail,,,,
+Stefan Monnier,https://www.iro.umontreal.ca/~monnier,,,,
+Sébastien Roy,http://www.iro.umontreal.ca/~roys/en_index.shtml,KfWhAlsAAAAJ,8117.0,35.0,1957.0
+Jian Yun Nie,http://rali.iro.umontreal.ca/nie/jian-yun-nie-en,W7uYg0UAAAAJ,13057.0,51.0,1988.0
+Ioannis Mitliagkas,http://mitliagkas.github.io,K757SxgAAAAJ,3078.0,27.0,2008.0
+Abdelhakim Hafid,http://www.iro.umontreal.ca/~ahafid,jx_cUucAAAAJ,132.0,4.0,2019.0
+Guillaume Lajoie,https://www.guillaumelajoie.com,ifu_7_0AAAAJ,423.0,12.0,2006.0
+Glen Berseth,http://www.fracturedplane.com,-WZcuuwAAAAJ,1590.0,17.0,2013.0
+Marc Feeley,http://www.iro.umontreal.ca/~feeley,,,,
+Philippe Langlais,http://www.iro.umontreal.ca/~felipe,VHd-kDEAAAAJ,3109.0,30.0,1991.0
+Miklós Csürös,http://www.iro.umontreal.ca/~csuros,xoojTgcAAAAJ,4588.0,22.0,1997.0
+Claude Frasson,http://www.iro.umontreal.ca/~frasson,UHwqGG4AAAAJ,4329.0,35.0,1974.0
+Gena Hahn,http://www.iro.umontreal.ca/~hahn,,,,
+Simon Lacoste-Julien,http://www.di.ens.fr/~slacoste,oejm5IUAAAAJ,7951.0,39.0,2003.0
+Yoshua Bengio,http://www.iro.umontreal.ca/~bengioy,kukA0LcAAAAJ,532373.0,205.0,
+Guillaume Rabusseau,https://www.iro.umontreal.ca/~grabus,t2i4V4EAAAAJ,328.0,11.0,2005.0
+Pierre L'Ecuyer,http://www.iro.umontreal.ca/~lecuyer,gDxovowAAAAJ,17148.0,68.0,1980.0
+Max Mignotte,http://www.iro.umontreal.ca/~mignotte,,,,
+Esma Aïmeur,http://www.iro.umontreal.ca/~aimeur,rBTFbxYAAAAJ,3194.0,29.0,1993.0
+Gilles Brassard,https://en.wikipedia.org/wiki/Gilles_Brassard,Rh7_srgAAAAJ,59790.0,62.0,
+Michel Boyer,http://www.iro.umontreal.ca/~boyer,mDhldqAAAAAJ,5033.0,13.0,2004.0
+François Major,http://www.iro.umontreal.ca/~major,to7tpNwAAAAJ,6291.0,36.0,1988.0
+Emma Frejinger,http://en.diro.umontreal.ca/department-directory/vue/frejinger-emma,PBOoXfwAAAAJ,2283.0,19.0,2004.0
+Sylvie Hamel,http://www.iro.umontreal.ca/~hamelsyl,Xohi3bwAAAAJ,827.0,19.0,2000.0
+Eugene Syriani,http://www-ens.iro.umontreal.ca/~syriani,iQlrBWkAAAAJ,1554.0,20.0,2008.0
+Bernhard Thomaszewski,http://www-labs.iro.umontreal.ca/~bernhard,IDw2HJAAAAAJ,3515.0,35.0,2004.0
+Mikhail Bessmeltsev,http://www-labs.iro.umontreal.ca/~bmpix,EUzwk5cAAAAJ,318.0,8.0,2007.0
+Liam Paull,http://people.csail.mit.edu/lpaull,H9xADK0AAAAJ,3366.0,30.0,2008.0

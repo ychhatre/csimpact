@@ -1,38 +1,38 @@
-name,homepage,scholar_id,citations,h-index
-Mema Roussopoulos,http://cgi.di.uoa.gr/~mema,qLsQy6wAAAAJ,3470.0,25.0
-Stathes Hadjiefthymiades,http://cgi.di.uoa.gr/~shadj,,,
-Stavros G. Kolliopoulos,http://cgi.di.uoa.gr/~sgk,1jZJgWQAAAAJ,1814.0,22.0
-Maria Roussou,http://www.makebelieve.gr/mr,IaPXgqsAAAAJ,4298.0,35.0
-Lazaros F. Merakos,http://cnl.di.uoa.gr/merakos,H5xlwE4AAAAJ,4973.0,36.0
-Georgios Kouroupetroglou,http://speech.di.uoa.gr/koupe/koupe.html,,,
-Elias S. Manolakos,http://gain.di.uoa.gr/index.php/the-group-members/faculty-members/manolakos,,,
-Sergios Theodoridis,http://cgi.di.uoa.gr/~stheodor,,,
-Vassilis Zissimopoulos,http://cgi.di.uoa.gr/~vassilis,,,
-Athanassia Alonistioti,http://scan.di.uoa.gr/dr-spyridon-panagiotakis,jIQo9VwAAAAJ,3257.0,23.0
-Panagiotis Rondogiannis,http://cgi.di.uoa.gr/~prondo,a6x5amYAAAAJ,707.0,14.0
-Nikolaos M. Missirlis,http://cgi.di.uoa.gr/~nmis,QmmiV3sAAAAJ,581.0,13.0
-Dimitrios Gunopulos,http://kddlab.di.uoa.gr/dg.html,PHJokEQAAAAJ,25498.0,74.0
-Theoharis Theoharis,http://www.di.uoa.gr/eng/staff/1000,DajYvPUAAAAJ,41457.0,98.0
-Ioannis Stavrakakis,http://cgi.di.uoa.gr/~istavrak,,,
-Dimitris Syvridis,http://www.photonics.di.uoa.gr/index.php/prof-dimitris-syvridis,,,
-Panagiotis Stamatopoulos,http://cgi.di.uoa.gr/~takis/Welcome.html,SZ4kZr0AAAAJ,2287.0,15.0
-P. Takis Mathiopoulos,http://gain.di.uoa.gr/index.php/the-group-members/faculty-members/p-takis-mathiopoulos,,,
-Alexandros Eleftheriadis,http://itmb.di.uoa.gr/education/didaskontesEng/edu_didakt7.html,,,
-Dimitris Varoutas,http://cgi.di.uoa.gr/~arkas,mc8en0AAAAAJ,2184.0,24.0
-Nicholas Kalouptsidis,http://www.di.uoa.gr/eng/staff/1004,dTRfhpYAAAAJ,4021.0,31.0
-Nancy Alonistioti,http://cgi.di.uoa.gr/~nancy,jIQo9VwAAAAJ,3257.0,23.0
-John Yiannis Cotronis,http://www.di.uoa.gr/eng/staff/1022,9IbOFmMAAAAJ,601.0,13.0
-Thomas Sfikopoulos,http://www.di.uoa.gr/eng/staff/1158,,,
-Manolis Koubarakis,http://cgi.di.uoa.gr/~koubarak,FKy2868AAAAJ,7470.0,45.0
-Filippos Tzaferis,http://www.di.uoa.gr/eng/staff/1028,,,
-Yannis E. Ioannidis,http://www.madgik.di.uoa.gr/people/yannis,MIfpzUQAAAAJ,17803.0,64.0
-Aphrodite Tsalgatidou,http://cgi.di.uoa.gr/~afrodite,niAnft4AAAAJ,2518.0,23.0
-Serafeim Karampogias,None,None,None,None
-Dimitris Gizopoulos,http://cgi.di.uoa.gr/~dgizop,8V03GF4AAAAJ,4354.0,36.0
-Michael Hatzopoulos,http://cgi.di.uoa.gr/~mike,,,
-Yannis Smaragdakis,https://yanniss.github.io,XCJuXcgAAAAJ,8568.0,44.0
-Isambo Karali,http://cgi.di.uoa.gr/~izambo/ENG.html,SYqu73cAAAAJ,181.0,8.0
-Aggeliki Arapoyanni,http://www.di.uoa.gr/eng/staff/1012,,,
-Antonis M. Paschalis,http://www.di.uoa.gr/eng/staff/999,q8LRbY4AAAAJ,2756.0,29.0
-Ioannis Emiris,http://cgi.di.uoa.gr/~emiris/index-eng.html,ZK6y-cIAAAAJ,4606.0,40.0
-Alex Delis,http://cgi.di.uoa.gr/~ad,,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Mema Roussopoulos,http://cgi.di.uoa.gr/~mema,qLsQy6wAAAAJ,3470.0,25.0,1997.0
+Stathes Hadjiefthymiades,http://cgi.di.uoa.gr/~shadj,,,,
+Stavros G. Kolliopoulos,http://cgi.di.uoa.gr/~sgk,1jZJgWQAAAAJ,1814.0,22.0,1996.0
+Maria Roussou,http://www.makebelieve.gr/mr,IaPXgqsAAAAJ,4298.0,35.0,1996.0
+Lazaros F. Merakos,http://cnl.di.uoa.gr/merakos,H5xlwE4AAAAJ,4973.0,36.0,1982.0
+Georgios Kouroupetroglou,http://speech.di.uoa.gr/koupe/koupe.html,,,,
+Elias S. Manolakos,http://gain.di.uoa.gr/index.php/the-group-members/faculty-members/manolakos,,,,
+Sergios Theodoridis,http://cgi.di.uoa.gr/~stheodor,,,,
+Vassilis Zissimopoulos,http://cgi.di.uoa.gr/~vassilis,,,,
+Athanassia Alonistioti,http://scan.di.uoa.gr/dr-spyridon-panagiotakis,jIQo9VwAAAAJ,3257.0,23.0,1997.0
+Panagiotis Rondogiannis,http://cgi.di.uoa.gr/~prondo,a6x5amYAAAAJ,707.0,14.0,1991.0
+Nikolaos M. Missirlis,http://cgi.di.uoa.gr/~nmis,QmmiV3sAAAAJ,581.0,13.0,1978.0
+Dimitrios Gunopulos,http://kddlab.di.uoa.gr/dg.html,PHJokEQAAAAJ,25498.0,74.0,1994.0
+Theoharis Theoharis,http://www.di.uoa.gr/eng/staff/1000,DajYvPUAAAAJ,41457.0,98.0,1975.0
+Ioannis Stavrakakis,http://cgi.di.uoa.gr/~istavrak,,,,
+Dimitris Syvridis,http://www.photonics.di.uoa.gr/index.php/prof-dimitris-syvridis,,,,
+Panagiotis Stamatopoulos,http://cgi.di.uoa.gr/~takis/Welcome.html,SZ4kZr0AAAAJ,2287.0,15.0,1985.0
+P. Takis Mathiopoulos,http://gain.di.uoa.gr/index.php/the-group-members/faculty-members/p-takis-mathiopoulos,,,,
+Alexandros Eleftheriadis,http://itmb.di.uoa.gr/education/didaskontesEng/edu_didakt7.html,,,,
+Dimitris Varoutas,http://cgi.di.uoa.gr/~arkas,mc8en0AAAAAJ,2184.0,24.0,1999.0
+Nicholas Kalouptsidis,http://www.di.uoa.gr/eng/staff/1004,dTRfhpYAAAAJ,4021.0,31.0,1979.0
+Nancy Alonistioti,http://cgi.di.uoa.gr/~nancy,jIQo9VwAAAAJ,3257.0,23.0,1997.0
+John Yiannis Cotronis,http://www.di.uoa.gr/eng/staff/1022,9IbOFmMAAAAJ,601.0,13.0,1977.0
+Thomas Sfikopoulos,http://www.di.uoa.gr/eng/staff/1158,,,,
+Manolis Koubarakis,http://cgi.di.uoa.gr/~koubarak,FKy2868AAAAJ,7470.0,45.0,1988.0
+Filippos Tzaferis,http://www.di.uoa.gr/eng/staff/1028,,,,
+Yannis E. Ioannidis,http://www.madgik.di.uoa.gr/people/yannis,MIfpzUQAAAAJ,17803.0,64.0,1984.0
+Aphrodite Tsalgatidou,http://cgi.di.uoa.gr/~afrodite,niAnft4AAAAJ,2518.0,23.0,1988.0
+Serafeim Karampogias,,,,,
+Dimitris Gizopoulos,http://cgi.di.uoa.gr/~dgizop,8V03GF4AAAAJ,4354.0,36.0,1994.0
+Michael Hatzopoulos,http://cgi.di.uoa.gr/~mike,,,,
+Yannis Smaragdakis,https://yanniss.github.io,XCJuXcgAAAAJ,8568.0,44.0,1995.0
+Isambo Karali,http://cgi.di.uoa.gr/~izambo/ENG.html,SYqu73cAAAAJ,181.0,8.0,1991.0
+Aggeliki Arapoyanni,http://www.di.uoa.gr/eng/staff/1012,,,,
+Antonis M. Paschalis,http://www.di.uoa.gr/eng/staff/999,q8LRbY4AAAAJ,2756.0,29.0,1986.0
+Ioannis Emiris,http://cgi.di.uoa.gr/~emiris/index-eng.html,ZK6y-cIAAAAJ,4606.0,40.0,1991.0
+Alex Delis,http://cgi.di.uoa.gr/~ad,,,,

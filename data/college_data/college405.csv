@@ -1,8 +1,8 @@
-name,homepage,scholar_id,citations,h-index
-Mario Lopez,http://portfolio.du.edu/mlopez,,,
-Rinku Dewri,http://www.cs.du.edu/~rdewri,gJ7XMyoAAAAJ,1899.0,17.0
-Anneliese Amschler Andrews,http://www.cs.du.edu/~andrews,,,
-Scott T. Leutenegger,http://www.cs.du.edu/~leut,UDOTNC0AAAAJ,4518.0,22.0
-Matthew Rutherford,https://ritchieschool.du.edu/matthew-rutherford,,,
-Ramakrishna Thurimella,https://ritchieschool.du.edu/ramakrishna-thurimella,tamVEbAAAAAJ,1486.0,19.0
-Chris GauthierDickey,https://ritchieschool.du.edu/chris-gauthierdickey,,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Mario Lopez,http://portfolio.du.edu/mlopez,,,,
+Rinku Dewri,http://www.cs.du.edu/~rdewri,gJ7XMyoAAAAJ,1899.0,17.0,2003.0
+Anneliese Amschler Andrews,http://www.cs.du.edu/~andrews,,,,
+Scott T. Leutenegger,http://www.cs.du.edu/~leut,UDOTNC0AAAAJ,4518.0,22.0,1988.0
+Matthew Rutherford,https://ritchieschool.du.edu/matthew-rutherford,,,,
+Ramakrishna Thurimella,https://ritchieschool.du.edu/ramakrishna-thurimella,tamVEbAAAAAJ,1486.0,19.0,1987.0
+Chris GauthierDickey,https://ritchieschool.du.edu/chris-gauthierdickey,,,,

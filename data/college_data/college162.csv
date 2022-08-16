@@ -1,18 +1,18 @@
-name,homepage,scholar_id,citations,h-index
-Doina Caragea,http://people.cs.ksu.edu/~dcaragea,GuO4UhsAAAAJ,3687.0,34.0
-R. Rodrey Howell,http://people.cs.ksu.edu/~rhowell,,,
-Pavithra Prabhakar,http://people.cs.ksu.edu/~pprabhakar/home.html,og6bNK0qJtkC,851.0,16.0
-Torben Amtoft,http://cis.ksu.edu/~tamtoft,,,
-William H. Hsu,http://people.cis.ksu.edu/~bhsu,JQoJRcIAAAAJ,2097.0,22.0
-Arslan Munir,http://people.cs.ksu.edu/~amunir,,,
-Venkatesh Prasad Ranganath,http://people.cis.ksu.edu/~rvprasad,efsT3ykAAAAJ,1503.0,18.0
-Pascal Hitzler,http://www.pascal-hitzler.de,EkwfQcMAAAAJ,13695.0,56.0
-Robby,http://robby.santoslab.org,j5aiHcsAAAAJ,4386.0,28.0
-Scott A. DeLoach,http://cis.ksu.edu/~sdeloach,Zbbxb-gAAAAJ,5632.0,37.0
-Mitchell L. Neilsen,http://www.cis.ksu.edu/~neilsen,g6-anYwAAAAJ,2116.0,20.0
-John Hatcliff,http://cis.ksu.edu/~hatcliff,B56JLs0AAAAJ,7312.0,42.0
-Daniel Andresen,http://cis.ksu.edu/~dan,egs3G64AAAAJ,1829.0,24.0
-George T. Amariucai,http://people.cs.ksu.edu/~amariucai,u9DLVZAAAAAJ,319.0,10.0
-Masaaki Mizuno,https://www.cs.ksu.edu/user/301,SRFswxMAAAAJ,1180.0,18.0
-Lior Shamir,http://people.cs.ksu.edu/~lshamir,mP-0XmYAAAAJ,3313.0,26.0
-Eugene Vasserman,http://people.cs.ksu.edu/~eyv,cEBIS9oAAAAJ,1570.0,17.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Doina Caragea,http://people.cs.ksu.edu/~dcaragea,GuO4UhsAAAAJ,3687.0,34.0,2000.0
+R. Rodrey Howell,http://people.cs.ksu.edu/~rhowell,,,,
+Pavithra Prabhakar,http://people.cs.ksu.edu/~pprabhakar/home.html,og6bNK0qJtkC,851.0,16.0,2000.0
+Torben Amtoft,http://cis.ksu.edu/~tamtoft,,,,
+William H. Hsu,http://people.cis.ksu.edu/~bhsu,JQoJRcIAAAAJ,2097.0,22.0,2000.0
+Arslan Munir,http://people.cs.ksu.edu/~amunir,,,,
+Venkatesh Prasad Ranganath,http://people.cis.ksu.edu/~rvprasad,efsT3ykAAAAJ,1503.0,18.0,2000.0
+Pascal Hitzler,http://www.pascal-hitzler.de,EkwfQcMAAAAJ,13695.0,56.0,2000.0
+Robby,http://robby.santoslab.org,j5aiHcsAAAAJ,4386.0,28.0,2000.0
+Scott A. DeLoach,http://cis.ksu.edu/~sdeloach,Zbbxb-gAAAAJ,5632.0,37.0,2000.0
+Mitchell L. Neilsen,http://www.cis.ksu.edu/~neilsen,g6-anYwAAAAJ,2116.0,20.0,2000.0
+John Hatcliff,http://cis.ksu.edu/~hatcliff,B56JLs0AAAAJ,7312.0,42.0,2000.0
+Daniel Andresen,http://cis.ksu.edu/~dan,egs3G64AAAAJ,1829.0,24.0,2000.0
+George T. Amariucai,http://people.cs.ksu.edu/~amariucai,u9DLVZAAAAAJ,319.0,10.0,2000.0
+Masaaki Mizuno,https://www.cs.ksu.edu/user/301,SRFswxMAAAAJ,1180.0,18.0,2000.0
+Lior Shamir,http://people.cs.ksu.edu/~lshamir,mP-0XmYAAAAJ,3313.0,26.0,2000.0
+Eugene Vasserman,http://people.cs.ksu.edu/~eyv,cEBIS9oAAAAJ,1570.0,17.0,2000.0

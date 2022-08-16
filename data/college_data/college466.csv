@@ -1,12 +1,12 @@
-name,homepage,scholar_id,citations,h-index
-Dilip Sarkar,http://www.cs.miami.edu/~sarkar,RN4TE10AAAAJ,3869.0,34.0
-Odelia Schwartz,http://www.cs.miami.edu/~odelia,3prQpXgAAAAJ,4258.0,21.0
-Mitsunori Ogihara,http://www.cs.miami.edu/~ogihara,vdMVIH4AAAAJ,13501.0,54.0
-Hüseyin Koçak,http://www.math.miami.edu/~hk,zd9wUFYAAAAJ,44.0,4.0
-Mahsa Mirzargar,https://ccs.miami.edu/team_member/mahsa-mirzargar-phd,,,
-Burton Rosenberg,http://www.cs.miami.edu/~burt,,,
-Ubbo Visser,http://www.cs.miami.edu/~visser,qTIlMmYAAAAJ,4635.0,29.0
-Geoff Sutcliffe,http://www.cs.miami.edu/~geoff,lzMFBvQAAAAJ,5075.0,36.0
-Thomas LeBlanc,http://welcome.miami.edu/about-um/university-leadership/officers/thomas-leblanc/index.html,w9AzbYwAAAAJ,5778.0,37.0
-Victor J. Milenkovic,http://www.cs.miami.edu/~vjm,,,
-Stefan Wuchty,http://www.as.miami.edu/csc/people/faculty/dr-stefan-wuchty,,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Dilip Sarkar,http://www.cs.miami.edu/~sarkar,RN4TE10AAAAJ,3869.0,34.0,1973.0
+Odelia Schwartz,http://www.cs.miami.edu/~odelia,3prQpXgAAAAJ,4258.0,21.0,1996.0
+Mitsunori Ogihara,http://www.cs.miami.edu/~ogihara,vdMVIH4AAAAJ,13501.0,54.0,1963.0
+Hüseyin Koçak,http://www.math.miami.edu/~hk,zd9wUFYAAAAJ,44.0,4.0,1979.0
+Mahsa Mirzargar,https://ccs.miami.edu/team_member/mahsa-mirzargar-phd,,,,
+Burton Rosenberg,http://www.cs.miami.edu/~burt,,,,
+Ubbo Visser,http://www.cs.miami.edu/~visser,qTIlMmYAAAAJ,4635.0,29.0,1992.0
+Geoff Sutcliffe,http://www.cs.miami.edu/~geoff,lzMFBvQAAAAJ,5075.0,36.0,1964.0
+Thomas LeBlanc,http://welcome.miami.edu/about-um/university-leadership/officers/thomas-leblanc/index.html,w9AzbYwAAAAJ,5778.0,37.0,2001.0
+Victor J. Milenkovic,http://www.cs.miami.edu/~vjm,,,,
+Stefan Wuchty,http://www.as.miami.edu/csc/people/faculty/dr-stefan-wuchty,,,,

@@ -1,19 +1,19 @@
-name,homepage,scholar_id,citations,h-index
-Diana F. Adamatti,http://www.diana.c3.furg.br,anyT2ZkAAAAJ,719.0,14.0
-Paulo Drews Jr.,http://www.paulo.c3.furg.br,IeIst7QAAAAJ,1954.0,21.0
-Nelson Duarte Filho,http://www.nelson.c3.furg.br,ZUeriEwAAAAJ,277.0,8.0
-Vagner S. Rosa,http://www.vagner.c3.furg.br,OCHlv2EAAAAJ,368.0,10.0
-Danúbia Bueno Espíndola,http://www.danubia.c3.furg.br,,,
-Vinicius Menezes de Oliveira,http://vinicius.c3.furg.br,-XsG1EQAAAAJ,192.0,8.0
-Silvia Botelho,http://www.silviacb.c3.furg.br,XKt2OlEAAAAJ,3612.0,22.0
-Karina S. Machado,http://karina.c3.furg.br,3j-IYXoAAAAJ,480.0,13.0
-Adriano Velasque Werhli,http://www.werhli.c3.furg.br,,,
-Ricardo N. Rodrigues,http://ricardo.c3.furg.br,4pX-2jUAAAAJ,665.0,10.0
-Leonardo Emmendorfer,http://www.leonardo.c3.furg.br,EHpCyU0AAAAJ,230.0,9.0
-Emanuel da Silva Diaz Estrada,http://emanuel.c3.furg.br,nKZNnuYAAAAJ,344.0,9.0
-Paulo F. Butzen,http://www.butzen.c3.furg.br,2VeTdosAAAAJ,437.0,11.0
-Marcelo Pias,https://sites.google.com/site/piasmarcelo,X_zoltAAAAAJ,4086.0,14.0
-Eduardo N. Borges,http://www.eduardo.c3.furg.br,DF7aOYMAAAAJ,336.0,10.0
-Odorico M. Mendizabal,http://www.mendizabal.c3.furg.br,r34bzIYAAAAJ,180.0,9.0
-Rodrigo Zelir Azzolin,http://www.rodrigo.c3.furg.br,AaqPK4AAAAAJ,348.0,9.0
-Graçaliz Pereira Dimuro,http://gracaliz.c3.furg.br,bDx8DMEAAAAJ,4375.0,35.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Diana F. Adamatti,http://www.diana.c3.furg.br,anyT2ZkAAAAJ,719.0,14.0,2002.0
+Paulo Drews Jr.,http://www.paulo.c3.furg.br,IeIst7QAAAAJ,1954.0,21.0,2005.0
+Nelson Duarte Filho,http://www.nelson.c3.furg.br,ZUeriEwAAAAJ,277.0,8.0,2002.0
+Vagner S. Rosa,http://www.vagner.c3.furg.br,OCHlv2EAAAAJ,368.0,10.0,1994.0
+Danúbia Bueno Espíndola,http://www.danubia.c3.furg.br,,,,
+Vinicius Menezes de Oliveira,http://vinicius.c3.furg.br,-XsG1EQAAAAJ,192.0,8.0,2000.0
+Silvia Botelho,http://www.silviacb.c3.furg.br,XKt2OlEAAAAJ,3612.0,22.0,1961.0
+Karina S. Machado,http://karina.c3.furg.br,3j-IYXoAAAAJ,480.0,13.0,2004.0
+Adriano Velasque Werhli,http://www.werhli.c3.furg.br,,,,
+Ricardo N. Rodrigues,http://ricardo.c3.furg.br,4pX-2jUAAAAJ,665.0,10.0,2005.0
+Leonardo Emmendorfer,http://www.leonardo.c3.furg.br,EHpCyU0AAAAJ,230.0,9.0,2001.0
+Emanuel da Silva Diaz Estrada,http://emanuel.c3.furg.br,nKZNnuYAAAAJ,344.0,9.0,2008.0
+Paulo F. Butzen,http://www.butzen.c3.furg.br,2VeTdosAAAAJ,437.0,11.0,2001.0
+Marcelo Pias,https://sites.google.com/site/piasmarcelo,X_zoltAAAAAJ,4086.0,14.0,1998.0
+Eduardo N. Borges,http://www.eduardo.c3.furg.br,DF7aOYMAAAAJ,336.0,10.0,2005.0
+Odorico M. Mendizabal,http://www.mendizabal.c3.furg.br,r34bzIYAAAAJ,180.0,9.0,2003.0
+Rodrigo Zelir Azzolin,http://www.rodrigo.c3.furg.br,AaqPK4AAAAAJ,348.0,9.0,2006.0
+Graçaliz Pereira Dimuro,http://gracaliz.c3.furg.br,bDx8DMEAAAAJ,4375.0,35.0,1988.0

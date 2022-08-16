@@ -1,4 +1,4 @@
-name,homepage,scholar_id,citations,h-index
-Aasa Feragen,http://www2.compute.dtu.dk/~afhar,MNDVpoUAAAAJ,958.0,16.0
-Alberto Lluch Lafuente,https://www.compute.dtu.dk/english,df9bzkoAAAAJ,3433.0,28.0
-Jes Frellsen,https://frellsen.org,Yj2sBWkAAAAJ,971.0,16.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Aasa Feragen,http://www2.compute.dtu.dk/~afhar,MNDVpoUAAAAJ,958.0,16.0,2004.0
+Alberto Lluch Lafuente,https://www.compute.dtu.dk/english,df9bzkoAAAAJ,3433.0,28.0,1999.0
+Jes Frellsen,https://frellsen.org,Yj2sBWkAAAAJ,971.0,16.0,2008.0

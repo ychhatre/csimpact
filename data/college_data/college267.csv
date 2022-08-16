@@ -1,8 +1,8 @@
-name,homepage,scholar_id,citations,h-index
-Bundit Laekhanukit,http://cs.mcgill.ca/~blaekh,vmemchMAAAAJ,682.0,14.0
-Xiao Wang,https://xiiaowang.github.io,kAxcppcAAAAJ,82.0,4.0
-Pinyan Lu,http://itcs.shufe.edu.cn/pinyan,KFQERBwAAAAJ,2975.0,32.0
-Tsz Chiu Kwok,http://itcs.shufe.edu.cn/tckwok,579buxIAAAAJ,229.0,6.0
-Zhihao Gavin Tang,http://itcs.shufe.edu.cn/~zhtang,yWAQSaAAAAAJ,561.0,14.0
-Hu Fu,http://www.fuhuthu.com,fcqBMQgAAAAJ,982.0,17.0
-Nick Gravin,http://itcs.shufe.edu.cn/~gravin,g65nv5cAAAAJ,1330.0,20.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Bundit Laekhanukit,http://cs.mcgill.ca/~blaekh,vmemchMAAAAJ,682.0,14.0,2004.0
+Xiao Wang,https://xiiaowang.github.io,kAxcppcAAAAJ,82.0,4.0,2019.0
+Pinyan Lu,http://itcs.shufe.edu.cn/pinyan,KFQERBwAAAAJ,2975.0,32.0,2005.0
+Tsz Chiu Kwok,http://itcs.shufe.edu.cn/tckwok,579buxIAAAAJ,229.0,6.0,2006.0
+Zhihao Gavin Tang,http://itcs.shufe.edu.cn/~zhtang,yWAQSaAAAAAJ,561.0,14.0,2015.0
+Hu Fu,http://www.fuhuthu.com,fcqBMQgAAAAJ,982.0,17.0,2007.0
+Nick Gravin,http://itcs.shufe.edu.cn/~gravin,g65nv5cAAAAJ,1330.0,20.0,2009.0

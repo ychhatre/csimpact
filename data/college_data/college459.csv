@@ -1,10 +1,10 @@
-name,homepage,scholar_id,citations,h-index
-Bernd Freisleben,https://www.uni-marburg.de/fb12/arbeitsgruppen/verteilte_systeme/mitarbeiter/freisleb,C2B7s-EAAAAJ,12914.0,51.0
-Alfred Ultsch,https://www.uni-marburg.de/fb12/arbeitsgruppen/datenbionik/mitarbeiter,,,
-Christian Komusiewicz,https://www.uni-marburg.de/en/fb12/research-groups/algorith/christian-komusiewicz,FN8oDbkAAAAJ,2045.0,28.0
-Dominik Heider,http://heiderlab.de/?page_id=146,zPaHcoAAAAAJ,2602.0,29.0
-Thorsten Thormählen,https://www.uni-marburg.de/fb12/arbeitsgruppen/grafikmultimedia/team/thormae,,,
-Bernhard Seeger,https://www.uni-marburg.de/de/fb12/arbeitsgruppen/dbs/team/personenseiten/bernhard-seeger,Nc_AL5UAAAAJ,17159.0,43.0
-Elmar Tischhauser,https://www.uni-marburg.de/de/fb12/arbeitsgruppen/itsicherheit,PxYLCDQAAAAJ,1493.0,19.0
-Christoph Bockisch,https://www.uni-marburg.de/fb12/arbeitsgruppen/psw,,,
-Gabi Taentzer,https://www.uni-marburg.de/fb12/arbeitsgruppen/swt/gabi-taentzer,4Gu2XUEAAAAJ,10378.0,50.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Bernd Freisleben,https://www.uni-marburg.de/fb12/arbeitsgruppen/verteilte_systeme/mitarbeiter/freisleb,C2B7s-EAAAAJ,12914.0,51.0,1985.0
+Alfred Ultsch,https://www.uni-marburg.de/fb12/arbeitsgruppen/datenbionik/mitarbeiter,,,,
+Christian Komusiewicz,https://www.uni-marburg.de/en/fb12/research-groups/algorith/christian-komusiewicz,FN8oDbkAAAAJ,2045.0,28.0,2008.0
+Dominik Heider,http://heiderlab.de/?page_id=146,zPaHcoAAAAAJ,2602.0,29.0,2006.0
+Thorsten Thormählen,https://www.uni-marburg.de/fb12/arbeitsgruppen/grafikmultimedia/team/thormae,,,,
+Bernhard Seeger,https://www.uni-marburg.de/de/fb12/arbeitsgruppen/dbs/team/personenseiten/bernhard-seeger,Nc_AL5UAAAAJ,17159.0,43.0,1986.0
+Elmar Tischhauser,https://www.uni-marburg.de/de/fb12/arbeitsgruppen/itsicherheit,PxYLCDQAAAAJ,1493.0,19.0,2007.0
+Christoph Bockisch,https://www.uni-marburg.de/fb12/arbeitsgruppen/psw,,,,
+Gabi Taentzer,https://www.uni-marburg.de/fb12/arbeitsgruppen/swt/gabi-taentzer,4Gu2XUEAAAAJ,10378.0,50.0,1990.0

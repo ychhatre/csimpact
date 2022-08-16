@@ -1,10 +1,10 @@
-name,homepage,scholar_id,citations,h-index
-Panagiotis Bouros,https://datamanagement.cs.uni-mainz.de/panagiotis-bouros,TezsWQUAAAAJ,852.0,16.0
-Andreas Hildebrandt,https://www.bio.informatik.uni-mainz.de/andreas-hildebrandt,xlsRe_wAAAAJ,3479.0,27.0
-Michael Wand,https://www.staff.uni-mainz.de/wandm/bio.html,kA_rSy4AAAAJ,5975.0,31.0
-Sebastian Erdweg,https://www.informatik.uni-marburg.de/~seba/index.html,2jCQrk4AAAAJ,2241.0,23.0
-Elmar Schömer,https://www.staff.uni-mainz.de/schoemer,,,
-Ernst Althaus,https://www.algorithmics.informatik.uni-mainz.de/people/ernst-althaus,,,
-Stefan Kramer,https://www.datamining.informatik.uni-mainz.de/stefan-kramer,0QXx46sAAAAJ,6645.0,42.0
-Bertil Schmidt,https://www.staff.uni-mainz.de/schmi033,fUxQceoAAAAJ,7112.0,43.0
-André Brinkmann,https://research.zdv.uni-mainz.de/people/andre-brinkmann,mRHvUpYAAAAJ,3019.0,29.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Panagiotis Bouros,https://datamanagement.cs.uni-mainz.de/panagiotis-bouros,TezsWQUAAAAJ,852.0,16.0,2004.0
+Andreas Hildebrandt,https://www.bio.informatik.uni-mainz.de/andreas-hildebrandt,xlsRe_wAAAAJ,3479.0,27.0,2001.0
+Michael Wand,https://www.staff.uni-mainz.de/wandm/bio.html,kA_rSy4AAAAJ,5975.0,31.0,1978.0
+Sebastian Erdweg,https://www.informatik.uni-marburg.de/~seba/index.html,2jCQrk4AAAAJ,2241.0,23.0,2010.0
+Elmar Schömer,https://www.staff.uni-mainz.de/schoemer,,,,
+Ernst Althaus,https://www.algorithmics.informatik.uni-mainz.de/people/ernst-althaus,,,,
+Stefan Kramer,https://www.datamining.informatik.uni-mainz.de/stefan-kramer,0QXx46sAAAAJ,6645.0,42.0,1973.0
+Bertil Schmidt,https://www.staff.uni-mainz.de/schmi033,fUxQceoAAAAJ,7112.0,43.0,1973.0
+André Brinkmann,https://research.zdv.uni-mainz.de/people/andre-brinkmann,mRHvUpYAAAAJ,3019.0,29.0,1999.0

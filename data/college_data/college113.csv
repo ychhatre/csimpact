@@ -1,18 +1,18 @@
-name,homepage,scholar_id,citations,h-index
-Yike Guo,https://www.comp.hkbu.edu.hk/v1/?page=profile&id=yikeguo,-0q6cIYAAAAJ,13886.0,58.0
-Yiu-Wing Leung,http://www.comp.hkbu.edu.hk/~ywleung,,,
-Joseph Kee-Yin Ng,http://www.comp.hkbu.edu.hk/~jng,,,
-Jianliang Xu,http://www.comp.hkbu.edu.hk/~xujl,LJNsBeoAAAAJ,11353.0,53.0
-Jiming Liu,http://www.comp.hkbu.edu.hk/~jiming,Il6ArO0AAAAJ,18010.0,63.0
-Jing Ma,https://majingcuhk.github.io,78Jby0EAAAAJ,2366.0,11.0
-Liang Lan,https://www.comp.hkbu.edu.hk/~lanliang,1I9bfiYAAAAJ,1669.0,11.0
-Xin Huang,https://www.comp.hkbu.edu.hk/~xinhuang,PpcRwI0AAAAJ,1772.0,21.0
-Bo Han,https://bhanml.github.io,nTNjqHwAAAAJ,2639.0,21.0
-Li Chen,http://www.comp.hkbu.edu.hk/~lichen,1kIvpVQAAAAJ,7200.0,42.0
-Jie Chen,http://www.comp.hkbu.edu.hk/~chenjie,qrWi1RYAAAAJ,963.0,15.0
-Byron Choi,http://www.comp.hkbu.edu.hk/~bchoi,S6L1eOMAAAAJ,2497.0,28.0
-Pong C. Yuen,http://www.comp.hkbu.edu.hk/~pcyuen,CwhIcHkAAAAJ,10991.0,59.0
-Xiaowen Chu,http://www.comp.hkbu.edu.hk/~chxw,v4rX24EAAAAJ,7527.0,44.0
-Kwok-Wai Cheung,http://www.comp.hkbu.edu.hk/~william,e42JkYIAAAAJ,3817.0,29.0
-Yang Liu,http://www.comp.hkbu.edu.hk/~csygliu,Il6ArO0AAAAJ,18534.0,63.0
-Yiu-Ming Cheung,http://www.comp.hkbu.edu.hk/~ymc,VM7FCvUAAAAJ,6985.0,43.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Yike Guo,https://www.comp.hkbu.edu.hk/v1/?page=profile&id=yikeguo,-0q6cIYAAAAJ,13886.0,58.0,1989.0
+Yiu-Wing Leung,http://www.comp.hkbu.edu.hk/~ywleung,,,,
+Joseph Kee-Yin Ng,http://www.comp.hkbu.edu.hk/~jng,,,,
+Jianliang Xu,http://www.comp.hkbu.edu.hk/~xujl,LJNsBeoAAAAJ,11353.0,53.0,1980.0
+Jiming Liu,http://www.comp.hkbu.edu.hk/~jiming,Il6ArO0AAAAJ,18010.0,63.0,
+Jing Ma,https://majingcuhk.github.io,78Jby0EAAAAJ,2366.0,11.0,2015.0
+Liang Lan,https://www.comp.hkbu.edu.hk/~lanliang,1I9bfiYAAAAJ,1669.0,11.0,2009.0
+Xin Huang,https://www.comp.hkbu.edu.hk/~xinhuang,PpcRwI0AAAAJ,1772.0,21.0,2012.0
+Bo Han,https://bhanml.github.io,nTNjqHwAAAAJ,2639.0,21.0,2014.0
+Li Chen,http://www.comp.hkbu.edu.hk/~lichen,1kIvpVQAAAAJ,7200.0,42.0,2003.0
+Jie Chen,http://www.comp.hkbu.edu.hk/~chenjie,qrWi1RYAAAAJ,963.0,15.0,2013.0
+Byron Choi,http://www.comp.hkbu.edu.hk/~bchoi,S6L1eOMAAAAJ,2497.0,28.0,1990.0
+Pong C. Yuen,http://www.comp.hkbu.edu.hk/~pcyuen,CwhIcHkAAAAJ,10991.0,59.0,1989.0
+Xiaowen Chu,http://www.comp.hkbu.edu.hk/~chxw,v4rX24EAAAAJ,7527.0,44.0,2002.0
+Kwok-Wai Cheung,http://www.comp.hkbu.edu.hk/~william,e42JkYIAAAAJ,3817.0,29.0,1993.0
+Yang Liu,http://www.comp.hkbu.edu.hk/~csygliu,Il6ArO0AAAAJ,18534.0,63.0,
+Yiu-Ming Cheung,http://www.comp.hkbu.edu.hk/~ymc,VM7FCvUAAAAJ,6985.0,43.0,1995.0

@@ -1,35 +1,35 @@
-name,homepage,scholar_id,citations,h-index
-Naghmeh Karimi,http://www.csee.umbc.edu/people/faculty/naghmeh-karimi,M-Z7bAIAAAAJ,1102.0,15.0
-Ting Zhu,https://www.csee.umbc.edu/~zt/index.html,BXp6PIIAAAAJ,4687.0,37.0
-Richard Chang,http://umbc.edu/~chang,jBpRIe0AAAAJ,18515.0,46.0
-Tim Finin,http://umbc.edu/~finin,p5oWQ0AAAAAJ,48401.0,103.0
-Francis Ferraro,https://www.csee.umbc.edu/~ferraro,UB5EoOEAAAAJ,829.0,12.0
-Nilanjan Banerjee,http://www.csee.umbc.edu/~nilanb,mzSAFhQAAAAJ,2716.0,27.0
-Anthony Johnson,http://physics.umbc.edu/people/faculty/johnson,Bm9G4SIAAAAJ,2781.0,26.0
-Shimei Pan,https://nlp-lab.umbc.edu/home/shimei,HUpnUScAAAAJ,3777.0,28.0
-Deepinder Sidhu,http://www.csee.umbc.edu/people/faculty/deepinder-sidhu,,,
-Fow-Sen Choa,http://www.csee.umbc.edu/people/faculty/fow-sen-choa,,,
-Gary M. Carter,http://www.csee.umbc.edu/people/faculty/gary-m-carter,,,
-Gymama E. Slaughter,http://www.csee.umbc.edu/people/faculty/gymama-slaughter,,,
-Kostantinos Kalpakis,http://www.csee.umbc.edu/people/faculty/konstantinos-kalpakis,,,
-Chein-I Chang,http://www.csee.umbc.edu/people/faculty/chein-i-chang,03Bww5gAAAAJ,26781.0,68.0
-Tim Oates,http://www.csee.umbc.edu/people/faculty/tim-oates,,,
-Curtis R. Menyuk,http://www.csee.umbc.edu/people/faculty/curtis-r-menyuk,OAI6XwsAAAAJ,17891.0,63.0
-Dhananjay Phatak,http://www.csee.umbc.edu/~phatak,ohFkYAwAAAAJ,3182.0,23.0
-Seung-Jun Kim,http://www.csee.umbc.edu/people/faculty/seung-jun-kim,AsHKhcsAAAAJ,2786.0,29.0
-Chintan Patel,http://www.csee.umbc.edu/~cpatel2,rnkQi4gAAAAJ,1011.0,14.0
-Yaacov Yesha,http://www.csee.umbc.edu/people/faculty/yaacov-yesha,,,
-Adam Bargteil,http://www.csee.umbc.edu/~adamb,fArWdfAAAAAJ,2540.0,21.0
-Cynthia Matuszek,http://www.csee.umbc.edu/~cmat,C3NuO-AAAAAJ,3031.0,17.0
-Anupam Joshi,http://www.csee.umbc.edu/~joshi,sJ7wlksAAAAJ,29074.0,88.0
-Ting-Zhu Huang,http://www.csee.umbc.edu/~zt,H7El-ZkAAAAJ,8986.0,46.0
-Samuel J. Lomonaco,http://www.csee.umbc.edu/~lomonaco,0PMb9xcAAAAJ,1905.0,23.0
-Mohamed F. Younis,http://www.csee.umbc.edu/~younis,yiowNmAAAAAJ,23855.0,58.0
-Tülay Adali,http://www.csee.umbc.edu/~adali,KgjUnawAAAAJ,23398.0,72.0
-Penny Rheingans,http://www.csee.umbc.edu/~rheingan,1k0rojcAAAAJ,4394.0,33.0
-Alan T. Sherman,http://www.csee.umbc.edu/~sherman,ZzWjYkEAAAAJ,4658.0,30.0
-Tinoosh Mohsenin,http://www.csee.umbc.edu/~tinoosh,9grfK9gAAAAJ,3258.0,29.0
-Ryan Robucci,https://eclipse.umbc.edu/robucci.html,Kdw47AcAAAAJ,864.0,14.0
-Yelena Yesha,http://www.csee.umbc.edu/people/faculty/yelena-yesha,3aj4AM4AAAAJ,6384.0,37.0
-Charles K. Nicholas,http://www.csee.umbc.edu/~nicholas/charles_nicholas.html,i3uLKmkAAAAJ,15193.0,38.0
-Marc Olano,http://www.csee.umbc.edu/~olano,iEGYZT4AAAAJ,3561.0,24.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Naghmeh Karimi,http://www.csee.umbc.edu/people/faculty/naghmeh-karimi,M-Z7bAIAAAAJ,1102.0,15.0,2016.0
+Ting Zhu,https://www.csee.umbc.edu/~zt/index.html,BXp6PIIAAAAJ,4687.0,37.0,2016.0
+Richard Chang,http://umbc.edu/~chang,jBpRIe0AAAAJ,18515.0,46.0,2016.0
+Tim Finin,http://umbc.edu/~finin,p5oWQ0AAAAAJ,48401.0,103.0,2016.0
+Francis Ferraro,https://www.csee.umbc.edu/~ferraro,UB5EoOEAAAAJ,829.0,12.0,2016.0
+Nilanjan Banerjee,http://www.csee.umbc.edu/~nilanb,mzSAFhQAAAAJ,2716.0,27.0,2016.0
+Anthony Johnson,http://physics.umbc.edu/people/faculty/johnson,Bm9G4SIAAAAJ,2781.0,26.0,2016.0
+Shimei Pan,https://nlp-lab.umbc.edu/home/shimei,HUpnUScAAAAJ,3777.0,28.0,2016.0
+Deepinder Sidhu,http://www.csee.umbc.edu/people/faculty/deepinder-sidhu,,,,
+Fow-Sen Choa,http://www.csee.umbc.edu/people/faculty/fow-sen-choa,,,,
+Gary M. Carter,http://www.csee.umbc.edu/people/faculty/gary-m-carter,,,,
+Gymama E. Slaughter,http://www.csee.umbc.edu/people/faculty/gymama-slaughter,,,,
+Kostantinos Kalpakis,http://www.csee.umbc.edu/people/faculty/konstantinos-kalpakis,,,,
+Chein-I Chang,http://www.csee.umbc.edu/people/faculty/chein-i-chang,03Bww5gAAAAJ,26781.0,68.0,2016.0
+Tim Oates,http://www.csee.umbc.edu/people/faculty/tim-oates,,,,
+Curtis R. Menyuk,http://www.csee.umbc.edu/people/faculty/curtis-r-menyuk,OAI6XwsAAAAJ,17891.0,63.0,2016.0
+Dhananjay Phatak,http://www.csee.umbc.edu/~phatak,ohFkYAwAAAAJ,3182.0,23.0,2016.0
+Seung-Jun Kim,http://www.csee.umbc.edu/people/faculty/seung-jun-kim,AsHKhcsAAAAJ,2786.0,29.0,2016.0
+Chintan Patel,http://www.csee.umbc.edu/~cpatel2,rnkQi4gAAAAJ,1011.0,14.0,2016.0
+Yaacov Yesha,http://www.csee.umbc.edu/people/faculty/yaacov-yesha,,,,
+Adam Bargteil,http://www.csee.umbc.edu/~adamb,fArWdfAAAAAJ,2540.0,21.0,2016.0
+Cynthia Matuszek,http://www.csee.umbc.edu/~cmat,C3NuO-AAAAAJ,3031.0,17.0,2016.0
+Anupam Joshi,http://www.csee.umbc.edu/~joshi,sJ7wlksAAAAJ,29074.0,88.0,2016.0
+Ting-Zhu Huang,http://www.csee.umbc.edu/~zt,H7El-ZkAAAAJ,8986.0,46.0,2016.0
+Samuel J. Lomonaco,http://www.csee.umbc.edu/~lomonaco,0PMb9xcAAAAJ,1905.0,23.0,2016.0
+Mohamed F. Younis,http://www.csee.umbc.edu/~younis,yiowNmAAAAAJ,23855.0,58.0,2016.0
+Tülay Adali,http://www.csee.umbc.edu/~adali,KgjUnawAAAAJ,23398.0,72.0,1989.0
+Penny Rheingans,http://www.csee.umbc.edu/~rheingan,1k0rojcAAAAJ,4394.0,33.0,1990.0
+Alan T. Sherman,http://www.csee.umbc.edu/~sherman,ZzWjYkEAAAAJ,4658.0,30.0,1981.0
+Tinoosh Mohsenin,http://www.csee.umbc.edu/~tinoosh,9grfK9gAAAAJ,3258.0,29.0,
+Ryan Robucci,https://eclipse.umbc.edu/robucci.html,Kdw47AcAAAAJ,864.0,14.0,2004.0
+Yelena Yesha,http://www.csee.umbc.edu/people/faculty/yelena-yesha,3aj4AM4AAAAJ,6384.0,37.0,1987.0
+Charles K. Nicholas,http://www.csee.umbc.edu/~nicholas/charles_nicholas.html,i3uLKmkAAAAJ,15193.0,38.0,1984.0
+Marc Olano,http://www.csee.umbc.edu/~olano,iEGYZT4AAAAJ,3561.0,24.0,1992.0

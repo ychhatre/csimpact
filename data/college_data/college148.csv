@@ -1,5 +1,5 @@
-name,homepage,scholar_id,citations,h-index
-László Egri,http://cs.indstate.edu/~legri,,,
-Yongsheng Bai,http://isu.indstate.edu/ybai2,,,
-Arash Rafiey,http://cs.indstate.edu/info/people.php,eJEmXiQAAAAJ,1049.0,18.0
-Jeff Kinne,https://www.indstate.edu/faculty-staff/jeffrey-kinne,,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+László Egri,http://cs.indstate.edu/~legri,,,,
+Yongsheng Bai,http://isu.indstate.edu/ybai2,,,,
+Arash Rafiey,http://cs.indstate.edu/info/people.php,eJEmXiQAAAAJ,1049.0,18.0,2004.0
+Jeff Kinne,https://www.indstate.edu/faculty-staff/jeffrey-kinne,,,,

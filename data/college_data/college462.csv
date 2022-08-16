@@ -1,17 +1,17 @@
-name,homepage,scholar_id,citations,h-index
-Elizabeth O'Neil,http://www.cs.umb.edu/people/Elizabeth_O'Neil,,,
-Nurit Haspel,http://www.cs.umb.edu/~nurith,,,
-Dan Simovici,http://www.cs.umb.edu/~dsim,Pun4WO8AAAAJ,2354.0,25.0
-Marc Pomplun,http://www.cs.umb.edu/~marc,k7cIJjUAAAAJ,5217.0,34.0
-Xiaohui Liang,http://www.cs.umb.edu/people/Xiaohui_Liang,fzX2e3sAAAAJ,10708.0,51.0
-Ming Ouyang,http://www.cs.umb.edu/people/Ming_Ouyang,pSvbXKQAAAAJ,6194.0,29.0
-Kenneth Fletcher,http://www.cs.umb.edu/people/Kenneth_Fletcher,KbptTQEAAAAJ,395.0,10.0
-Peter Fejer,http://www.cs.umb.edu/~fejer,,,
-Gabriel Ghinita,http://www.cs.umb.edu/~gghinita,t_AzcmUAAAAJ,6410.0,35.0
-Wei Ding,http://www.cs.umb.edu/~ding,eFeqk8EAAAAJ,18969.0,53.0
-Duc A. Tran,http://www.cs.umb.edu/~duc/www,Wi02UQoAAAAJ,3781.0,22.0
-Daniel Haehn,https://danielhaehn.com,HGvsO6oAAAAJ,590.0,14.0
-Bill Campbell,https://www.umb.edu/academics/csm/faculty_staff/bill_campbell,ekic9BkAAAAJ,8668.0,41.0
-Junichi Suzuki,https://www.umb.edu/academics/csm/faculty_staff/jun_suzuki,4oVjDuoAAAAJ,5748.0,36.0
-Stephen Chang,https://www.cs.umb.edu/~stchang,RHPucBcAAAAJ,132.0,7.0
-Bo Sheng,http://www.cs.umb.edu/~shengbo,Dt5oPoMAAAAJ,23283.0,75.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Elizabeth O'Neil,http://www.cs.umb.edu/people/Elizabeth_O'Neil,,,,
+Nurit Haspel,http://www.cs.umb.edu/~nurith,,,,
+Dan Simovici,http://www.cs.umb.edu/~dsim,Pun4WO8AAAAJ,2354.0,25.0,1970.0
+Marc Pomplun,http://www.cs.umb.edu/~marc,k7cIJjUAAAAJ,5217.0,34.0,1994.0
+Xiaohui Liang,http://www.cs.umb.edu/people/Xiaohui_Liang,fzX2e3sAAAAJ,10708.0,51.0,2007.0
+Ming Ouyang,http://www.cs.umb.edu/people/Ming_Ouyang,pSvbXKQAAAAJ,6194.0,29.0,1995.0
+Kenneth Fletcher,http://www.cs.umb.edu/people/Kenneth_Fletcher,KbptTQEAAAAJ,395.0,10.0,2009.0
+Peter Fejer,http://www.cs.umb.edu/~fejer,,,,
+Gabriel Ghinita,http://www.cs.umb.edu/~gghinita,t_AzcmUAAAAJ,6410.0,35.0,2003.0
+Wei Ding,http://www.cs.umb.edu/~ding,eFeqk8EAAAAJ,18969.0,53.0,1985.0
+Duc A. Tran,http://www.cs.umb.edu/~duc/www,Wi02UQoAAAAJ,3781.0,22.0,1999.0
+Daniel Haehn,https://danielhaehn.com,HGvsO6oAAAAJ,590.0,14.0,2009.0
+Bill Campbell,https://www.umb.edu/academics/csm/faculty_staff/bill_campbell,ekic9BkAAAAJ,8668.0,41.0,1995.0
+Junichi Suzuki,https://www.umb.edu/academics/csm/faculty_staff/jun_suzuki,4oVjDuoAAAAJ,5748.0,36.0,1958.0
+Stephen Chang,https://www.cs.umb.edu/~stchang,RHPucBcAAAAJ,132.0,7.0,2010.0
+Bo Sheng,http://www.cs.umb.edu/~shengbo,Dt5oPoMAAAAJ,23283.0,75.0,1986.0

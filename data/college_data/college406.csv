@@ -1,18 +1,18 @@
-name,homepage,scholar_id,citations,h-index
-Stefan Stieglitz,https://www.uni-due.de/proco/stieglitz.php,hL-0lrIAAAAJ,8848.0,39.0
-Janis Voigtländer,https://www.uni-due.de/fmi/voigtlaender,YLsrQCYAAAAJ,882.0,17.0
-Daniel Bodemer,https://www.uni-due.de/psychologische-forschungsmethoden/bodemer.php,Lsyx1fkAAAAJ,2651.0,22.0
-Torsten Zesch,https://www.ltl.uni-due.de/team/torsten-zesch,vWeDs00AAAAJ,3688.0,31.0
-Maritta Heisel,https://www.uni-due.de/swe/marittaheisel.php,,,
-Maic Masuch,https://www.ecg.uni-due.de/team/maic-masuch.html,,,
-Gregor Alexander Schiele,https://www.uni-due.de/es/en/en_gregor_schiele.php,jhSvu1wAAAAJ,2147.0,21.0
-Mohamed Amine Chatti,https://www.uni-due.de/soco/people/mohamed-chatti.php,gyLI8FYAAAAJ,5524.0,31.0
-Jürgen Ziegler,https://interactivesystems.info/team/juergen-ziegler,UD-ha3YAAAAJ,3831.0,28.0
-Stefan Schneegass,http://www.stefan-schneegass.de,cALrMCIAAAAJ,2658.0,26.0
-Barbara König,http://www.ti.inf.uni-due.de/en/people/koenig,bcM7IuEAAAAJ,2773.0,28.0
-Norbert Fuhr,https://www.is.inf.uni-due.de/staff/fuhr.html,p53Ht7UAAAAJ,9916.0,48.0
-Heinz Ulrich Hoppe,https://www.collide.info/de/mitarbeiter,,,
-Nicole C. Krämer,https://www.uni-due.de/sozialpsychologie/kraemer.shtml,zWKViOMAAAAJ,12489.0,56.0
-Torben Weis,https://www.vs.uni-due.de/mitarbeiter_weis.shtml,f2gnBw0AAAAJ,1384.0,22.0
-Josef Pauli,http://www.is.uni-due.de/en/chair/mitarbeiter/prof_josef_pauli,,,
-Jens H. Krüger,http://hpc.uni-due.de/krueger.html,w87pmH4AAAAJ,7790.0,25.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Stefan Stieglitz,https://www.uni-due.de/proco/stieglitz.php,hL-0lrIAAAAJ,8848.0,39.0,2005.0
+Janis Voigtländer,https://www.uni-due.de/fmi/voigtlaender,YLsrQCYAAAAJ,882.0,17.0,1996.0
+Daniel Bodemer,https://www.uni-due.de/psychologische-forschungsmethoden/bodemer.php,Lsyx1fkAAAAJ,2651.0,22.0,1998.0
+Torsten Zesch,https://www.ltl.uni-due.de/team/torsten-zesch,vWeDs00AAAAJ,3688.0,31.0,2006.0
+Maritta Heisel,https://www.uni-due.de/swe/marittaheisel.php,,,,
+Maic Masuch,https://www.ecg.uni-due.de/team/maic-masuch.html,,,,
+Gregor Alexander Schiele,https://www.uni-due.de/es/en/en_gregor_schiele.php,jhSvu1wAAAAJ,2147.0,21.0,1999.0
+Mohamed Amine Chatti,https://www.uni-due.de/soco/people/mohamed-chatti.php,gyLI8FYAAAAJ,5524.0,31.0,2005.0
+Jürgen Ziegler,https://interactivesystems.info/team/juergen-ziegler,UD-ha3YAAAAJ,3831.0,28.0,1980.0
+Stefan Schneegass,http://www.stefan-schneegass.de,cALrMCIAAAAJ,2658.0,26.0,2008.0
+Barbara König,http://www.ti.inf.uni-due.de/en/people/koenig,bcM7IuEAAAAJ,2773.0,28.0,1995.0
+Norbert Fuhr,https://www.is.inf.uni-due.de/staff/fuhr.html,p53Ht7UAAAAJ,9916.0,48.0,1984.0
+Heinz Ulrich Hoppe,https://www.collide.info/de/mitarbeiter,,,,
+Nicole C. Krämer,https://www.uni-due.de/sozialpsychologie/kraemer.shtml,zWKViOMAAAAJ,12489.0,56.0,1997.0
+Torben Weis,https://www.vs.uni-due.de/mitarbeiter_weis.shtml,f2gnBw0AAAAJ,1384.0,22.0,1999.0
+Josef Pauli,http://www.is.uni-due.de/en/chair/mitarbeiter/prof_josef_pauli,,,,
+Jens H. Krüger,http://hpc.uni-due.de/krueger.html,w87pmH4AAAAJ,7790.0,25.0,2003.0

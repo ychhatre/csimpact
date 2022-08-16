@@ -3,32 +3,28 @@ import os
 import plotly.express as px
 import plotly.graph_objects as go
 
-colleges = pd.read_csv(os.getcwd()+'/data/colleges.csv')
-data = pd.read_csv(os.getcwd()+'/data/cleaned_prof_data_v5.csv')
+colleges = pd.read_csv(os.getcwd().replace('code','')+'data/colleges.csv')
+data = pd.read_csv(os.getcwd().replace('code','')+'data/cleaned_prof_data_v7.csv')
 
 
 college_data = pd.DataFrame()
 
-#os.mkdir(os.getcwd().replace('code/','')+'/data/college_graphs')
-#create folders
-# for i in range(colleges.shape[0]):
-#     college_no_spaces = pd.read_csv(os.getcwd().replace('code/','')+f'/data/colleges.csv').iloc[i,0].replace(' ','_').replace('/', '_')
-#     os.mkdir(os.getcwd().replace('code/','')+f'/data/college_graphs/{college_no_spaces}')
-
+#os.mkdir(os.getcwd().replace('code','')+'data/college_graphs')
 
 def plot_college(index):
     college = colleges.iloc[index,0]
+    print(college)
     #remove spaces from college names
 
     college_no_spaces = college.replace(' ','_').replace('/', '_')
-    os.mkdir(os.getcwd()+f'/data/college_graphs/{college_no_spaces}')
+    os.mkdir(os.getcwd().replace('code', '')+f'data/college_graphs/{college_no_spaces}')
 
     
     #Get the index of the college
     i = colleges.index[colleges['college'] == f'{college}'].tolist()[0]
     
     #get corresponding csv file
-    college_data = pd.read_csv(os.getcwd()+'/data/college_data/college'+str(i)+'.csv')
+    college_data = pd.read_csv(os.getcwd().replace('/code', '')+'/data/college_data/college'+str(i)+'.csv')
     
     #get rows with missing data
     missing_id_rows = college_data.loc[(pd.isna(college_data['h-index'])) & (pd.isna(college_data['citations']))]
@@ -65,7 +61,6 @@ def plot_college(index):
     
     
     
-    
     #PLOTTING H-INDEX
     
     
@@ -79,34 +74,58 @@ def plot_college(index):
     h_indexes = rows_to_plot['h-index']
     names = rows_to_plot['name']
     
-    #plot bad data first at the bottom
-    fig = px.scatter(x = missing_profs, y = missing_h_indexes, labels = {'x':'name', 'y':'h-index'},title = f'{college}', width = fig_width, height = 1000, range_y = [1,320], range_x = [-1,rows],color_discrete_sequence=['red'], log_y = True)
-    fig.update_layout(
-    yaxis = dict(
-        #log scale
-        tickmode = 'array',
-        tickvals = [0,5,10, 20,40,80,160, 320]
+    print(len(missing_h_indexes))
+    
+    if len(missing_h_indexes)!=0:
+        #plot bad data first at the bottom
+        fig = px.scatter(x = missing_profs, y = missing_h_indexes, labels = {'x':'name', 'y':'h-index'},title = f'{college}', width = fig_width, height = 1000, range_y = [1,320], range_x = [-1,rows],color_discrete_sequence=['red'], log_y = True)
+        fig.update_layout(
+        yaxis = dict(
+            #log scale
+            tickmode = 'array',
+            tickvals = [0,5,10, 20,40,80,160, 320]
+        )
     )
-)
-    #add labels to bad data saying 'NO DATA' when you hover over the  points
-    fig.update_traces(hovertemplate='NO DATA')
+        #add labels to bad data saying 'NO DATA' when you hover over the  points
+        fig.update_traces(hovertemplate='NO DATA')
+
+        # the annotation for the average line disappears for some reason so get the x-value to add it manually
+        if(pd.isna(missing_id_rows.iloc[0,0])):
+            annotation_x = rows_to_plot.iloc[0,0]
+        else:
+            annotation_x = missing_id_rows.iloc[0,0]
     
-    # the annotation for the average line disappears for some reason so get the x-value to add it manually
-    if(pd.isna(missing_id_rows.iloc[0,0])):
-        annotation_x = rows_to_plot.iloc[0,0]
     else:
-        annotation_x = missing_id_rows.iloc[0,0]
-    
+        fig = go.Figure()
+        fig.update_xaxes(range = [-1,rows])
+
+
+        # plot good data
+        fig.add_trace(
+        go.Scatter(
+            x=names,
+            y= h_indexes,
+            mode ='markers', name = '',marker = dict( color = 'black'))
+        )
     # plot average line
     if(not pd.isna(h_indx_mean)):
         fig.add_hline(y=h_indx_mean, line_color = 'black',annotation_text=f'Average = {h_indx_mean}', annotation_position = "bottom")
-        fig.add_trace(go.Scatter(
-            x=[missing_id_rows.iloc[0,0]],
-            y=[h_indx_mean],
-            mode="lines+text",
-            text=[f'Average = {h_indx_mean}'],
-            textposition="top right"
-        ))
+        if len(missing_profs)!=0:
+            fig.add_trace(go.Scatter(
+                x=[missing_id_rows.iloc[0,0]],
+                y=[h_indx_mean],
+                mode="lines+text",
+                text=[f'Average = {h_indx_mean}'],
+                textposition="top right"
+            ))
+        else:
+            fig.add_trace(go.Scatter(
+                x=[rows_to_plot.iloc[0,0]],
+                y=[h_indx_mean],
+                mode="lines+text",
+                text=[f'Average = {h_indx_mean}'],
+                textposition="top right"
+            ))
     else:
         h_indx_mean = 0
     
@@ -117,20 +136,12 @@ def plot_college(index):
                color="#000000"
            )
         )
-    
-    # plot good data
-    fig.add_trace(
-    go.Scatter(
-        x=names,
-        y= h_indexes,
-        mode ='markers', name = '',marker = dict( color = 'black'))
-    )
-    
+
     # hide the legend
     fig.update_layout(showlegend=False)
     
     #fig.show()
-    fig.write_html(os.getcwd()+f'/data/college_graphs/{college_no_spaces}/{college_no_spaces}_h_index.html')
+    fig.write_html(os.getcwd().replace('code','')+f'data/college_graphs/{college_no_spaces}/{college_no_spaces}_h_index.html')
 
     
     # PLOTTING CITATIONS
@@ -144,55 +155,64 @@ def plot_college(index):
     
     citations = rows_to_plot['citations']
 
-        
-    fig = px.scatter(x = missing_profs, y = missing_citations, labels = {'x':'name', 'y':'citations'},title = f'{college}', width = fig_width, height = 1000, range_y = [1,325000], range_x = [-1,rows],color_discrete_sequence=['red'],log_y = True)
-    fig.update_layout(
-    yaxis = dict(
-        tickmode = 'array',
-        tickvals = [0,33,325, 3250,32500,325000]
+    if len(missing_h_indexes)!=0:
+        fig = px.scatter(x = missing_profs, y = missing_citations, labels = {'x':'name', 'y':'citations'},title = f'{college}', width = fig_width, height = 1000, range_y = [1,325000], range_x = [-1,rows],color_discrete_sequence=['red'],log_y = True)
+        fig.update_layout(
+        yaxis = dict(
+            tickmode = 'array',
+            tickvals = [0,33,325, 3250,32500,325000]
+        )
     )
-)
-    
-    fig.update_traces(hovertemplate='NO DATA')
 
-    
-    if(pd.isna(missing_id_rows.iloc[0,0])):
-        annotation_x = rows_to_plot.iloc[0,0]
+        fig.update_traces(hovertemplate='NO DATA')
+
+
+        if(pd.isna(missing_id_rows.iloc[0,0])):
+            annotation_x = rows_to_plot.iloc[0,0]
+        else:
+            annotation_x = missing_id_rows.iloc[0,0]
+
+
     else:
-        annotation_x = missing_id_rows.iloc[0,0]
-        
+        fig = go.Figure()
+        fig.update_xaxes(range = [-1,rows])
+        fig.add_trace(
+        go.Scatter(
+            x=names,
+            y= citations,
+            mode ='markers', name = '',marker = dict( color = 'black'))
+        )
     if(not pd.isna(cit_mean)):
-        fig.add_hline(y=cit_mean, line_color = 'black',annotation_text=f'Average = {cit_mean} citations', annotation_position = "top left")
-        fig.add_trace(go.Scatter(
-            x=[annotation_x],
-            y=[cit_mean],
-            mode="lines+text",
-            text=[f'Average = {cit_mean}'],
-            textposition="top right"
-        ))
+        fig.add_hline(y=cit_mean, line_color = 'black',annotation_text='', annotation_position = "top left")
+        if len(missing_profs)!=0:
+            fig.add_trace(go.Scatter(
+                x=[missing_id_rows.iloc[0,0]],
+                y=[cit_mean],
+                mode="lines+text",
+                text=[f'Average = {cit_mean}'],
+                textposition="top right"
+            ))
+        else:
+            fig.add_trace(go.Scatter(
+                x=[rows_to_plot.iloc[0,0]],
+                y=[cit_mean],
+                mode="lines+text",
+                text=[f'Average = {cit_mean}'],
+                textposition="top right"
+            ))
     else:
         cit_mean = 0
     fig.update_layout(title = go.layout.Title(text = f'{college} <br><sup>Average citations for {rows_to_plot.shape[0]} professors: {cit_mean}</sup>', xref = 'paper', x = 0), font=dict(
-               family="Courier New, monospace",
-               size=10,
-               color="#000000"
-           )
-        )
-
-    
-    fig.add_trace(
-    go.Scatter(
-        x=names,
-        y= citations,
-        mode ='markers', name = '',marker = dict( color = 'black'))
-    )
+                   family="Courier New, monospace",
+                   size=10,
+                   color="#000000"
+               )
+            )
     fig.update_layout(showlegend=False)
     
     #fig.show()
-    fig.write_html(os.getcwd()+f'/data/college_graphs/{college_no_spaces}/{college_no_spaces}_citations.html')
+    fig.write_html(os.getcwd().replace('code', '')+f'data/college_graphs/{college_no_spaces}/{college_no_spaces}_citations.html')
 
 #plot all colleges
-for i in range(208,colleges.shape[0]):
-    print("starting " + str(i) + ": "+str(colleges.iloc[i,0]))
+for i in range(378,colleges.shape[0]):
     plot_college(i)
-    print(str(i) + ": "+str(colleges.iloc[i,0]) + " done")

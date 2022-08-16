@@ -1,11 +1,11 @@
 import pandas as pd
 import os
 
-data = pd.read_csv(os.getcwd().replace('code/','')+'/data/cleaned_prof_data_v5.csv')
+data = pd.read_csv(os.getcwd().replace('code','')+'data/cleaned_prof_data_v7.csv')
 
 colleges = sorted(list(set(list(data['affiliation']))))
 
-os.mkdir(os.getcwd().replace('code/','')+'/data/college_data')
+os.mkdir(os.getcwd().replace('code','')+'data/college_data')
 for i in range(len(colleges)):
     college = colleges[i]
     sub_data = data.drop(['affiliation'], axis = 1).loc[data['affiliation'] == college]

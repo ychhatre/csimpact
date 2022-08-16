@@ -10,13 +10,17 @@ average_h_index = []
 average_citations = []
 
 for i in range(colleges.shape[0]):
+    print("i= "+str(i))
     college_data = pd.read_csv(os.getcwd().replace('code', '') + '/data/college_data/college'+str(i)+'.csv')
     valid_h_index = list(college_data.loc[~pd.isna(college_data['h-index'])]['h-index'])
     for item in valid_h_index:
+        #print(float(item))
         if item != 'None':
-            item = int(float(item))
+            item = float(item)
         else:
-            item = 0
+            item = 0.0
+    print(valid_h_index)
+
     total_h_index = sum(valid_h_index)
     h_index_sum.append(total_h_index)
     
@@ -58,7 +62,7 @@ total_h_index_list = []
 for row in ranked_h_index.iterrows():
     total_h_index_list.append(colleges.iloc[row[0],0])
 total_h_index_df['college'] = total_h_index_list
-total_h_index_df.to_csv(os.getcwd().replace('code', '') + '/data/total_h_index_ranking.csv', index = False)
+total_h_index_df.to_csv(os.getcwd().replace('code', '') + 'data/ranking_data/total_h_index_ranking.csv', index = False)
 
 
 ranked_citations = all_college_stats.sort_values('total_citations', ascending = False)
@@ -67,7 +71,7 @@ total_citations_list = []
 for row in ranked_citations.iterrows():
     total_citations_list.append(colleges.iloc[row[0],0])
 total_citations_df['college'] = total_citations_list
-total_citations_df.to_csv(os.getcwd().replace('code', '') + '/data/total_citations_ranking.csv', index = False)
+total_citations_df.to_csv(os.getcwd().replace('code', '') + 'data/ranking_data/total_citations_ranking.csv', index = False)
 
 
 ranked_avg_h_index = all_college_stats.sort_values('average_h_index', ascending = False)
@@ -76,7 +80,7 @@ avg_h_index_list = []
 for row in ranked_avg_h_index.iterrows():
     avg_h_index_list.append(colleges.iloc[row[0],0])
 avg_h_index_df['college'] = avg_h_index_list
-avg_h_index_df.to_csv(os.getcwd().replace('code', '') + '/data/avg_h_index_ranking.csv', index = False)
+avg_h_index_df.to_csv(os.getcwd().replace('code', '') + 'data/ranking_data/avg_h_index_ranking.csv', index = False)
 
 
 ranked_avg_citations = all_college_stats.sort_values('average_citations', ascending = False)
@@ -85,4 +89,4 @@ avg_citations_list = []
 for row in ranked_avg_citations.iterrows():
     avg_citations_list.append(colleges.iloc[row[0],0])
 avg_citations_df['college'] = avg_citations_list
-avg_citations_df.to_csv(os.getcwd().replace('code', '') + '/data/avg_citations_ranking.csv', index = False)
+avg_citations_df.to_csv(os.getcwd().replace('code', '') + 'data/ranking_data/avg_citations_ranking.csv', index = False)

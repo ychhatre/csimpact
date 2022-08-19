@@ -1,20 +1,20 @@
-name,homepage,scholar_id,citations,h-index
-Dazhao Cheng,https://webpages.uncc.edu/dcheng3,rRsraIwAAAAJ,867.0,15.0
-Wenwen Dou,https://cci.uncc.edu/directory/wenwen-dou,NRrQjcIAAAAJ,,
-Aidong Lu,https://webpages.uncc.edu/alu1,NOSCHOLARPAGE,,
-Kalpathi R. Subramanian,https://cci.uncc.edu/computer-science/45/5,dKJr2vwAAAAJ,1400.0,17.0
-Dong Dai,https://webpages.charlotte.edu/ddai,wGF_4JsAAAAJ,398.0,12.0
-Bojan Cukic,https://cci.uncc.edu/directory/bojan-cukic,B7N812UAAAAJ,8851.0,38.0
-Wlodek Zadrozny,https://cci.uncc.edu/directory/wlodek-zadrozny,PwdKImsAAAAJ,8904.0,48.0
-Min Shin,https://viscenter.uncc.edu/min-shin,T50sdQ8AAAAJ,,
-Erik Saule,https://webpages.uncc.edu/~esaule/public-website/welcome.html,QoClHFIAAAAJ,,
-Zachary Wartell,https://cci.uncc.edu/directory/zachary-wartell,NOSCHOLARPAGE,,
-Ashit Talukder,https://analyticsfrontiers.uncc.edu/speakers/ashit-talukder-phd,NOSCHOLARPAGE,,
-Samira Shaikh,https://analyticsfrontiers.uncc.edu/speakers/samira-shaikh,IM-64IoAAAAJ,,
-Shaoting Zhang,https://webpages.uncc.edu/~szhang16,oiBMWK4AAAAJ,11087.0,52.0
-Zbigniew W. Ras,https://webpages.uncc.edu/ras,2ihGAJkAAAAJ,3821.0,30.0
-Razvan C. Bunescu,https://webpages.uncc.edu/rbunescu,fi4HWW8AAAAJ,11631.0,34.0
-Jing Yang,https://webpages.uncc.edu/jyang13,r1jAycQAAAAJ,3002.0,29.0
-Srinivas Akella,https://webpages.uncc.edu/sakella,vPOJwdkAAAAJ,,
-Amirmohammad Rooshenas,https://rooshenas.github.io,ncHbkrQAAAAJ,412.0,6.0
-Keh-Hsun Chen,https://webpages.uncc.edu/chen,NOSCHOLARPAGE,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Dazhao Cheng,https://webpages.uncc.edu/dcheng3,rRsraIwAAAAJ,867.0,15.0,2013.0
+Wenwen Dou,https://cci.uncc.edu/directory/wenwen-dou,,,,
+Aidong Lu,https://webpages.uncc.edu/alu1,,,,
+Kalpathi R. Subramanian,https://cci.uncc.edu/computer-science/45/5,dKJr2vwAAAAJ,1400.0,17.0,1987.0
+Dong Dai,https://webpages.charlotte.edu/ddai,wGF_4JsAAAAJ,398.0,12.0,2011.0
+Bojan Cukic,https://cci.uncc.edu/directory/bojan-cukic,B7N812UAAAAJ,8851.0,38.0,1993.0
+Wlodek Zadrozny,https://cci.uncc.edu/directory/wlodek-zadrozny,PwdKImsAAAAJ,8904.0,48.0,1976.0
+Min Shin,https://viscenter.uncc.edu/min-shin,,,,
+Erik Saule,https://webpages.uncc.edu/~esaule/public-website/welcome.html,,,,
+Zachary Wartell,https://cci.uncc.edu/directory/zachary-wartell,,,,
+Ashit Talukder,https://analyticsfrontiers.uncc.edu/speakers/ashit-talukder-phd,,,,
+Samira Shaikh,https://analyticsfrontiers.uncc.edu/speakers/samira-shaikh,,,,
+Shaoting Zhang,https://webpages.uncc.edu/~szhang16,oiBMWK4AAAAJ,11087.0,52.0,2005.0
+Zbigniew W. Ras,https://webpages.uncc.edu/ras,2ihGAJkAAAAJ,3821.0,30.0,1976.0
+Razvan C. Bunescu,https://webpages.uncc.edu/rbunescu,fi4HWW8AAAAJ,11631.0,34.0,2000.0
+Jing Yang,https://webpages.uncc.edu/jyang13,r1jAycQAAAAJ,3002.0,29.0,2002.0
+Srinivas Akella,https://webpages.uncc.edu/sakella,,,,
+Amirmohammad Rooshenas,https://rooshenas.github.io,ncHbkrQAAAAJ,412.0,6.0,2010.0
+Keh-Hsun Chen,https://webpages.uncc.edu/chen,,,,

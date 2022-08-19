@@ -1,32 +1,32 @@
-name,homepage,scholar_id,citations,h-index
-Andreas Zeller,https://www.st.cs.uni-saarland.de/zeller,#NAME?,,
-Sebastian U. Stich,https://www.sstich.ch,8l-mDfQAAAAJ,5791.0,24.0
-Sven Bugiel,https://trust.cispa.saarland/~bugiel,sPrlusAAAAAJ,3578.0,24.0
-Antoine Joux,https://cispa.saarland/people/c01anjo,BG9yVCMAAAAJ,10422.0,44.0
-Aleksandar Bojchevski,https://abojchevski.github.io,F1APiN4AAAAJ,2285.0,14.0
-Dániel Marx,https://cispa.saarland/people/c01dama,hY2ibr8AAAAJ,9651.0,48.0
-Mario Fritz,https://cispa.saarland/people/gallery,4V1nNm4AAAAJ,14780.0,62.0
-Nico Döttling,https://cispa.saarland/people/nico.doettling,F8rmIoIAAAAJ,1455.0,23.0
-Cas Cremers,https://cispa.saarland/people/cas.cremers,3uT_2lcAAAAJ,6479.0,38.0
-Rebekka Burkholz,https://sites.google.com/view/rebekkaburkholz/rebekka-burkholz,vkWBb2wAAAAJ,197.0,7.0
-Rayna Dimitrova,https://www.sheffield.ac.uk/dcs/people/academic/rayna-dimitrova,HgCDGyQAAAAJ,384.0,11.0
-Yang Zhang,https://yangzhangalmo.github.io,Xeb2888AAAAJ,2154.0,22.0
-Thorsten Holz,http://syssec.rub.de/~tho,tv2HR38AAAAJ,19365.0,69.0
-Jilles Vreeken,http://people.mmci.uni-saarland.de/~jilles,p5HEQfIAAAAJ,4724.0,36.0
-Nils Ole Tippenhauer,https://cispa.saarland/people/nils.tippenhauer,IptcAgQAAAAJ,4858.0,36.0
-Michael Backes,https://cispa.de/en/people/backes,ZVS3KOEAAAAJ,18330.0,77.0
-Bernd Finkbeiner,https://www.react.uni-saarland.de/people/finkbeiner.html,mSwHrYMAAAAJ,4322.0,35.0
-Mridula Singh,https://cispa.de/en/people/c01mrsi,0nTK5BsAAAAJ,129.0,7.0
-Katharina Krombholz,https://cispa.saarland/people/katharina.krombholz,BkeawyUAAAAJ,1878.0,18.0
-Julian Loss,https://www.julianloss.com,RTGQifoAAAAJ,516.0,12.0
-Sascha Fahl,https://saschafahl.de,uiB3WGEAAAAJ,4118.0,32.0
-Michael Schwarz,https://cispa.de/en/people/c02misc,2HPadJUAAAAJ,7157.0,27.0
-Christian Rossow,https://christian-rossow.de,lNn4hRMAAAAJ,5387.0,39.0
-Cristian-Alexandru Staicu,https://www.staicu.org,JmpDeRQAAAAJ,514.0,10.0
-Christoph Lenzen,https://cispa.de/en/people/c01chle,9Y9je40AAAAJ,2319.0,25.0
-Sebastian Brandt,https://cispa.de/de/people/c01sebr,3MIPfVYAAAAJ,694.0,15.0
-Swen Jacobs,https://www.react.uni-saarland.de/people/jacobs.html,pofIiPIAAAAJ,1143.0,20.0
-Giancarlo Pellegrino,https://people.cispa.io/giancarlo.pellegrino,PC_RNUcAAAAJ,1119.0,18.0
-Lucjan Hanzlik,https://cispa.saarland/people/lucjan.hanzlik,xV54a20AAAAJ,326.0,9.0
-Ben Stock,https://people.cispa.io/ben.stock,_hDa-5wAAAAJ,1204.0,18.0
-Karl Wüst,https://cispa.de/en/people/c01kawu,F5oUrWAAAAAJ,2689.0,11.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Andreas Zeller,https://www.st.cs.uni-saarland.de/zeller,,,,
+Sebastian U. Stich,https://www.sstich.ch,8l-mDfQAAAAJ,5791.0,24.0,2009.0
+Sven Bugiel,https://trust.cispa.saarland/~bugiel,sPrlusAAAAAJ,3578.0,24.0,2009.0
+Antoine Joux,https://cispa.saarland/people/c01anjo,BG9yVCMAAAAJ,10422.0,44.0,1991.0
+Aleksandar Bojchevski,https://abojchevski.github.io,F1APiN4AAAAJ,2285.0,14.0,2013.0
+Dániel Marx,https://cispa.saarland/people/c01dama,hY2ibr8AAAAJ,9651.0,48.0,2000.0
+Mario Fritz,https://cispa.saarland/people/gallery,4V1nNm4AAAAJ,14780.0,62.0,2002.0
+Nico Döttling,https://cispa.saarland/people/nico.doettling,F8rmIoIAAAAJ,1455.0,23.0,2010.0
+Cas Cremers,https://cispa.saarland/people/cas.cremers,3uT_2lcAAAAJ,6479.0,38.0,2002.0
+Rebekka Burkholz,https://sites.google.com/view/rebekkaburkholz/rebekka-burkholz,vkWBb2wAAAAJ,197.0,7.0,2016.0
+Rayna Dimitrova,https://www.sheffield.ac.uk/dcs/people/academic/rayna-dimitrova,HgCDGyQAAAAJ,384.0,11.0,2008.0
+Yang Zhang,https://yangzhangalmo.github.io,Xeb2888AAAAJ,2154.0,22.0,2011.0
+Thorsten Holz,http://syssec.rub.de/~tho,tv2HR38AAAAJ,19365.0,69.0,2004.0
+Jilles Vreeken,http://people.mmci.uni-saarland.de/~jilles,p5HEQfIAAAAJ,4724.0,36.0,2002.0
+Nils Ole Tippenhauer,https://cispa.saarland/people/nils.tippenhauer,IptcAgQAAAAJ,4858.0,36.0,2005.0
+Michael Backes,https://cispa.de/en/people/backes,ZVS3KOEAAAAJ,18330.0,77.0,2001.0
+Bernd Finkbeiner,https://www.react.uni-saarland.de/people/finkbeiner.html,mSwHrYMAAAAJ,4322.0,35.0,1995.0
+Mridula Singh,https://cispa.de/en/people/c01mrsi,0nTK5BsAAAAJ,129.0,7.0,2014.0
+Katharina Krombholz,https://cispa.saarland/people/katharina.krombholz,BkeawyUAAAAJ,1878.0,18.0,2012.0
+Julian Loss,https://www.julianloss.com,RTGQifoAAAAJ,516.0,12.0,2016.0
+Sascha Fahl,https://saschafahl.de,uiB3WGEAAAAJ,4118.0,32.0,2011.0
+Michael Schwarz,https://cispa.de/en/people/c02misc,2HPadJUAAAAJ,7157.0,27.0,2014.0
+Christian Rossow,https://christian-rossow.de,lNn4hRMAAAAJ,5387.0,39.0,2007.0
+Cristian-Alexandru Staicu,https://www.staicu.org,JmpDeRQAAAAJ,514.0,10.0,2014.0
+Christoph Lenzen,https://cispa.de/en/people/c01chle,9Y9je40AAAAJ,2319.0,25.0,
+Sebastian Brandt,https://cispa.de/de/people/c01sebr,3MIPfVYAAAAJ,694.0,15.0,2015.0
+Swen Jacobs,https://www.react.uni-saarland.de/people/jacobs.html,pofIiPIAAAAJ,1143.0,20.0,2004.0
+Giancarlo Pellegrino,https://people.cispa.io/giancarlo.pellegrino,PC_RNUcAAAAJ,1119.0,18.0,2010.0
+Lucjan Hanzlik,https://cispa.saarland/people/lucjan.hanzlik,xV54a20AAAAJ,326.0,9.0,2012.0
+Ben Stock,https://people.cispa.io/ben.stock,_hDa-5wAAAAJ,1204.0,18.0,2009.0
+Karl Wüst,https://cispa.de/en/people/c01kawu,F5oUrWAAAAAJ,2689.0,11.0,2016.0

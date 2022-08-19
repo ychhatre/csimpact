@@ -1,17 +1,17 @@
-name,homepage,scholar_id,citations,h-index
-Ruth Breu,https://qe-informatik.uibk.ac.at/doctors/ruth-breu,wjWOdgUAAAAJ,4759.0,36.0
-Antonio Jose Rodriguez-Sanchez,https://iis.uibk.ac.at/people/antonio,ei7XukUAAAAJ,914.0,12.0
-Jan Beutel,https://www.uibk.ac.at/informatik/forschung/professorinnen.html.de,LRkwAAAAJ,,
-Aart Middeldorp,http://cl-informatik.uibk.ac.at/users/ami,R9MO_3AAAAAJ,4246.0,36.0
-Rainer Böhme,https://informationsecurity.uibk.ac.at/people/rainer-boehme,ez_Q6GMAAAAJ,10546.0,48.0
-Thomas Fahringer,http://dps.uibk.ac.at/~tf,ZXg8fYAAAAAJ,12159.0,53.0
-Dieter A. Fensel,http://www.fensel.com,MKgl6f4AAAAJ,38370.0,81.0
-Matthias Harders,https://igs.uibk.ac.at/igs_html/members/IGSMember_Harders.html,ZwyxhDwAAAAJ,3297.0,30.0
-Rene Thiemann,http://cl-informatik.uibk.ac.at/users/thiemann,NOSHOLARPAGE,,
-Michael Felderer,http://mfelderer.at,4kwCpCcAAAAJ,4587.0,34.0
-Georg Moser,https://tcs-informatik.uibk.ac.at,nT0BZ_AAAAAJ,1261.0,22.0
-Anna Fensel,http://anna.fensel.com,R73gJDcAAAAJ,1771.0,24.0
-Cezary Kaliszyk,http://cl-informatik.uibk.ac.at/cek,bp68Q1kAAAAJ,3148.0,28.0
-Günther Specht,https://dbis-informatik.uibk.ac.at/specht,Csj85-oAAAAJ,3374.0,28.0
-Adam Jatowt,https://adammo12.github.io/adamjatowt,l2vn9GoAAAAJ,3781.0,30.0
-Justus Piater,https://iis.uibk.ac.at/people/justus,meJCYXAAAAAJ,5466.0,38.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Ruth Breu,https://qe-informatik.uibk.ac.at/doctors/ruth-breu,wjWOdgUAAAAJ,4759.0,36.0,1988.0
+Antonio Jose Rodriguez-Sanchez,https://iis.uibk.ac.at/people/antonio,ei7XukUAAAAJ,914.0,12.0,2004.0
+Jan Beutel,https://www.uibk.ac.at/informatik/forschung/professorinnen.html.de,,,,
+Aart Middeldorp,http://cl-informatik.uibk.ac.at/users/ami,R9MO_3AAAAAJ,4246.0,36.0,1987.0
+Rainer Böhme,https://informationsecurity.uibk.ac.at/people/rainer-boehme,ez_Q6GMAAAAJ,10546.0,48.0,2004.0
+Thomas Fahringer,http://dps.uibk.ac.at/~tf,ZXg8fYAAAAAJ,12159.0,53.0,1991.0
+Dieter A. Fensel,http://www.fensel.com,MKgl6f4AAAAJ,38370.0,81.0,2002.0
+Matthias Harders,https://igs.uibk.ac.at/igs_html/members/IGSMember_Harders.html,ZwyxhDwAAAAJ,3297.0,30.0,1999.0
+Rene Thiemann,http://cl-informatik.uibk.ac.at/users/thiemann,,,,
+Michael Felderer,http://mfelderer.at,4kwCpCcAAAAJ,4587.0,34.0,2004.0
+Georg Moser,https://tcs-informatik.uibk.ac.at,nT0BZ_AAAAAJ,1261.0,22.0,1996.0
+Anna Fensel,http://anna.fensel.com,R73gJDcAAAAJ,1771.0,24.0,2001.0
+Cezary Kaliszyk,http://cl-informatik.uibk.ac.at/cek,bp68Q1kAAAAJ,3148.0,28.0,2004.0
+Günther Specht,https://dbis-informatik.uibk.ac.at/specht,Csj85-oAAAAJ,3374.0,28.0,1989.0
+Adam Jatowt,https://adammo12.github.io/adamjatowt,l2vn9GoAAAAJ,3781.0,30.0,2003.0
+Justus Piater,https://iis.uibk.ac.at/people/justus,meJCYXAAAAAJ,5466.0,38.0,1995.0

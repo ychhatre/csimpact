@@ -1,13 +1,13 @@
-name,homepage,scholar_id,citations,h-index
-Hua Wang,http://inside.mines.edu/~huawang,TZ5nsRUAAAAJ,36944.0,80.0
-Bill Hoff,http://inside.mines.edu/~whoff,XvoGQx4AAAAJ,4200.0,25.0
-Thomas Emrys Williams,http://inside.mines.edu/~twilliams,NOSCHOLARPAGE,,
-Qi Han,http://inside.mines.edu/~qhan,CiPyIk4AAAAJ,3015.0,26.0
-Neil Dantam,http://inside.mines.edu/~ndantam,J-6Ch9sAAAAJ,848.0,15.0
-Esat Belviranli,https://mehmet.belviranli.com,8FX4WfwAAAAJ,346.0,10.0
-Jedidiah McClurg,https://www.jrmcclurg.com,SVuYyQ4AAAAJ,333.0,8.0
-Dinesh Mehta,http://www.mines.edu/~dmehta,LhsmMqoAAAAJ,1270.0,15.0
-Tracy Camp,http://www.mines.edu/~tcamp,8TyIlFgAAAAJ,14684.0,36.0
-Chuan Yue,https://inside.mines.edu/~chuanyue,r4nMOKsAAAAJ,1143.0,17.0
-Bo Wu,https://inside.mines.edu/~bwu,E-2t4EQAAAAJ,10573.0,29.0
-Dejun Yang,https://inside.mines.edu/~djyang,tkoI1M4AAAAJ,8682.0,35.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Hua Wang,http://inside.mines.edu/~huawang,TZ5nsRUAAAAJ,36944.0,80.0,
+Bill Hoff,http://inside.mines.edu/~whoff,XvoGQx4AAAAJ,4200.0,25.0,1984.0
+Thomas Emrys Williams,http://inside.mines.edu/~twilliams,,,,
+Qi Han,http://inside.mines.edu/~qhan,CiPyIk4AAAAJ,3015.0,26.0,1997.0
+Neil Dantam,http://inside.mines.edu/~ndantam,J-6Ch9sAAAAJ,848.0,15.0,2010.0
+Esat Belviranli,https://mehmet.belviranli.com,8FX4WfwAAAAJ,346.0,10.0,2010.0
+Jedidiah McClurg,https://www.jrmcclurg.com,SVuYyQ4AAAAJ,333.0,8.0,2012.0
+Dinesh Mehta,http://www.mines.edu/~dmehta,LhsmMqoAAAAJ,1270.0,15.0,1988.0
+Tracy Camp,http://www.mines.edu/~tcamp,8TyIlFgAAAAJ,14684.0,36.0,1992.0
+Chuan Yue,https://inside.mines.edu/~chuanyue,r4nMOKsAAAAJ,1143.0,17.0,2004.0
+Bo Wu,https://inside.mines.edu/~bwu,E-2t4EQAAAAJ,10573.0,29.0,2003.0
+Dejun Yang,https://inside.mines.edu/~djyang,tkoI1M4AAAAJ,8682.0,35.0,2009.0

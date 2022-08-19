@@ -1,11 +1,11 @@
-name,homepage,scholar_id,citations,h-index
-Christian Bizer,https://www.uni-mannheim.de/dws/people/professors/prof-dr-christian-bizer,INQwsQkAAAAJ,39353.0,66.0
-Frederik Armknecht,https://ls.wim.uni-mannheim.de/de/ths/arbeitsgruppe/mitarbeiter/prof-dr-frederik-armknecht,NOSCHOLARPAGE,,
-Colin Atkinson,https://www.wim.uni-mannheim.de/atkinson,RPepUhcAAAAJ,8559.0,40.0
-Matthias Krause,https://ls.wim.uni-mannheim.de/de/ths/arbeitsgruppe/mitarbeiter/prof-dr-matthias-krause,NOSCHOLARPAGE,,
-Guido Moerkotte,https://www.wim.uni-mannheim.de/moerkotte,LDo3PYQAAAAJ,6790.0,42.0
-Heiner Stuckenschmidt,https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiner-stuckenschmidt,oqpT1YUAAAAJ,15051.0,63.0
-Heiko Paulheim,https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiko-paulheim,SkSl3NkAAAAJ,7852.0,45.0
-Rainer Gemulla,https://www.uni-mannheim.de/dws/people/professors/prof-dr-rainer-gemulla,s_GmFv0AAAAJ,4325.0,30.0
-Simone Paolo Ponzetto,https://www.uni-mannheim.de/dws/people/professors/prof-dr-simone-paolo-ponzetto,VmIFG0EAAAAJ,8409.0,32.0
-Goran Glavas,https://www.uni-mannheim.de/dws/people/professors/prof-dr-goran-glavas,Ym0myOwAAAAJ,2428.0,26.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Christian Bizer,https://www.uni-mannheim.de/dws/people/professors/prof-dr-christian-bizer,INQwsQkAAAAJ,39353.0,66.0,2001.0
+Frederik Armknecht,https://ls.wim.uni-mannheim.de/de/ths/arbeitsgruppe/mitarbeiter/prof-dr-frederik-armknecht,,,,
+Colin Atkinson,https://www.wim.uni-mannheim.de/atkinson,RPepUhcAAAAJ,8559.0,40.0,1987.0
+Matthias Krause,https://ls.wim.uni-mannheim.de/de/ths/arbeitsgruppe/mitarbeiter/prof-dr-matthias-krause,,,,
+Guido Moerkotte,https://www.wim.uni-mannheim.de/moerkotte,LDo3PYQAAAAJ,6790.0,42.0,1988.0
+Heiner Stuckenschmidt,https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiner-stuckenschmidt,oqpT1YUAAAAJ,15051.0,63.0,1997.0
+Heiko Paulheim,https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiko-paulheim,SkSl3NkAAAAJ,7852.0,45.0,2007.0
+Rainer Gemulla,https://www.uni-mannheim.de/dws/people/professors/prof-dr-rainer-gemulla,s_GmFv0AAAAJ,4325.0,30.0,2003.0
+Simone Paolo Ponzetto,https://www.uni-mannheim.de/dws/people/professors/prof-dr-simone-paolo-ponzetto,VmIFG0EAAAAJ,8409.0,32.0,2005.0
+Goran Glavas,https://www.uni-mannheim.de/dws/people/professors/prof-dr-goran-glavas,Ym0myOwAAAAJ,2428.0,26.0,2010.0

@@ -1,29 +1,29 @@
-name,homepage,scholar_id,citations,h-index
-Berthe Y. Choueiry,http://cse.unl.edu/~choueiry,NOSCHOLARPAGE,,
-Arman Roohi,https://armanroohi.com,pToIGNYAAAAJ,1190.0,18.0
-Massimiliano Pierobon,http://cse.unl.edu/~pierobon,Rhu5LQIAAAAJ,4056.0,25.0
-Ashok Samal,http://cse.unl.edu/~samal,NOSCHOLARPAGE,,
-Stephen Cooper,http://cse.unl.edu/~scooper,8Hfi_iUAAAAJ,34839.0,58.0
-Stephen E. Reichenbach,http://cse.unl.edu/~reich,GDQ7k80AAAAJ,3748.0,31.0
-Mehmet C. Vuran,http://cse.unl.edu/~mcvuran,MD9vpVQAAAAJ,20851.0,48.0
-Witawas Srisa-an,http://cse.unl.edu/~witty,Nf_0d9MAAAAJ,1506.0,20.0
-Bonita Sharif,https://www.shbonita.me,2WeXBokAAAAJ,2225.0,26.0
-Ying Lu,http://cse.unl.edu/~ylu,9PW-tPAAAAAJ,35556.0,94.0
-Lisong Xu,http://cse.unl.edu/~xu,ns_6BgMAAAAJ,6998.0,23.0
-Stephen Scott,http://cse.unl.edu/~sscott,7lTeshwAAAAJ,12772.0,53.0
-Vinodchandran Variyam,http://cse.unl.edu/~vinod,NOSCHOLARPAGE,,
-Peter Z. Revesz,http://cse.unl.edu/~revesz,dDwXNpYAAAAJ,4310.0,30.0
-Justin Bradley,http://justinbradley.unl.edu,JOvtrn8AAAAJ,474.0,10.0
-Hongfeng Yu,http://vis.unl.edu/~yu,yeWsFW4AAAAJ,3100.0,30.0
-Brittany A. Duncan,http://cse.unl.edu/~bduncan,nuaqmtQAAAAJ,427.0,12.0
-Hoang-Dung Tran,https://sites.google.com/site/trhoangdung,_RzS3uMAAAAJ,1112.0,17.0
-Carrick Detweiler,http://cse.unl.edu/~carrick,E4kvshMAAAAJ,2435.0,26.0
-Byrav Ramamurthy,http://cse.unl.edu/~byrav,Moj2TLMAAAAJ,9570.0,42.0
-Hau Chan,https://cse.unl.edu/~hchan,NOSCHOLARPAGE,,
-Nirnimesh Ghose,https://cse.unl.edu/~nghose,ei4UVscAAAAJ,73.0,5.0
-Robert Dyer,https://go.unl.edu/rdyer,#NAME?,,
-Jitender S. Deogun,http://cse.unl.edu/~deogun,QpLZdfoAAAAJ,6352.0,44.0
-Leen-Kiat Soh,http://cse.unl.edu/~lksoh,Q-UHlQ0AAAAJ,5381.0,35.0
-Hamid Bagheri,http://cse.unl.edu/~hbagheri,h_AYrscAAAAJ,1475.0,22.0
-Qiuming Yao,https://cse.unl.edu/~yao,CPUkfngAAAAJ,1976.0,21.0
-Juan Cui,http://cse.unl.edu/~jcui,lLmMKb0AAAAJ,2343.0,30.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Berthe Y. Choueiry,http://cse.unl.edu/~choueiry,7OEsDcQAAAAJ,1034.0,17.0,1991.0
+Arman Roohi,https://armanroohi.com,pToIGNYAAAAJ,1190.0,18.0,2011.0
+Massimiliano Pierobon,http://cse.unl.edu/~pierobon,Rhu5LQIAAAAJ,4056.0,25.0,2005.0
+Ashok Samal,http://cse.unl.edu/~samal,,,,
+Stephen Cooper,http://cse.unl.edu/~scooper,8Hfi_iUAAAAJ,34839.0,58.0,1989.0
+Stephen E. Reichenbach,http://cse.unl.edu/~reich,GDQ7k80AAAAJ,3748.0,31.0,1985.0
+Mehmet C. Vuran,http://cse.unl.edu/~mcvuran,MD9vpVQAAAAJ,20851.0,48.0,2004.0
+Witawas Srisa-an,http://cse.unl.edu/~witty,Nf_0d9MAAAAJ,1506.0,20.0,1998.0
+Bonita Sharif,https://www.shbonita.me,2WeXBokAAAAJ,2225.0,26.0,2004.0
+Ying Lu,http://cse.unl.edu/~ylu,9PW-tPAAAAAJ,35556.0,94.0,
+Lisong Xu,http://cse.unl.edu/~xu,ns_6BgMAAAAJ,6998.0,23.0,2000.0
+Stephen Scott,http://cse.unl.edu/~sscott,7lTeshwAAAAJ,12772.0,53.0,1964.0
+Vinodchandran Variyam,http://cse.unl.edu/~vinod,,,,
+Peter Z. Revesz,http://cse.unl.edu/~revesz,dDwXNpYAAAAJ,4310.0,30.0,1989.0
+Justin Bradley,http://justinbradley.unl.edu,JOvtrn8AAAAJ,474.0,10.0,2006.0
+Hongfeng Yu,http://vis.unl.edu/~yu,yeWsFW4AAAAJ,3100.0,30.0,2001.0
+Brittany A. Duncan,http://cse.unl.edu/~bduncan,nuaqmtQAAAAJ,427.0,12.0,2009.0
+Hoang-Dung Tran,https://sites.google.com/site/trhoangdung,_RzS3uMAAAAJ,1112.0,17.0,2011.0
+Carrick Detweiler,http://cse.unl.edu/~carrick,E4kvshMAAAAJ,2435.0,26.0,2004.0
+Byrav Ramamurthy,http://cse.unl.edu/~byrav,Moj2TLMAAAAJ,9570.0,42.0,1987.0
+Hau Chan,https://cse.unl.edu/~hchan,,,,
+Nirnimesh Ghose,https://cse.unl.edu/~nghose,ei4UVscAAAAJ,73.0,5.0,2012.0
+Robert Dyer,https://go.unl.edu/rdyer,,,,
+Jitender S. Deogun,http://cse.unl.edu/~deogun,QpLZdfoAAAAJ,6352.0,44.0,1979.0
+Leen-Kiat Soh,http://cse.unl.edu/~lksoh,Q-UHlQ0AAAAJ,5381.0,35.0,1993.0
+Hamid Bagheri,http://cse.unl.edu/~hbagheri,h_AYrscAAAAJ,1475.0,22.0,2002.0
+Qiuming Yao,https://cse.unl.edu/~yao,CPUkfngAAAAJ,1976.0,21.0,2005.0
+Juan Cui,http://cse.unl.edu/~jcui,lLmMKb0AAAAJ,2343.0,30.0,2004.0

@@ -1,4 +1,4 @@
-name,homepage,scholar_id,citations,h-index
-Hamid Sarbazi-Azad,http://sharif.edu/~azad,9OHC9AsAAAAJ,4242.0,35.0
-Mohammad Sabokrou,http://cs.ipm.ac.ir/~sabokrou,jqHXvT0AAAAJ,2202.0,18.0
-Pejman Lotfi-Kamran,http://cs.ipm.ac.ir/~plotfi,UZIKgasAAAAJ,1717.0,21.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Hamid Sarbazi-Azad,http://sharif.edu/~azad,9OHC9AsAAAAJ,4242.0,35.0,2000.0
+Mohammad Sabokrou,http://cs.ipm.ac.ir/~sabokrou,jqHXvT0AAAAJ,2202.0,18.0,2011.0
+Pejman Lotfi-Kamran,http://cs.ipm.ac.ir/~plotfi,UZIKgasAAAAJ,1717.0,21.0,2005.0

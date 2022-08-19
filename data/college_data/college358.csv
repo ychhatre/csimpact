@@ -1,8 +1,8 @@
-name,homepage,scholar_id,citations,h-index
-Diego Gutierrez,http://giga.cps.unizar.es/~diegog,7ja8HqUAAAAJ,5939.0,44.0
-Adrián Jarabo,http://giga.cps.unizar.es/~ajarabo,pXKBhbkAAAAJ,1831.0,19.0
-Julio Marco,http://webdiis.unizar.es/~juliom,47C_SbAAAAAJ,391.0,8.0
-Adolfo Muñoz,http://giga.cps.unizar.es/~amunoz/index.php/en,H8bBlDkAAAAJ,799.0,13.0
-Belén Masiá,http://webdiis.unizar.es/~bmasia,d10sXc8AAAAJ,2351.0,20.0
-Marta Ortín,http://webdiis.unizar.es/~ortin,hyOoV44AAAAJ,109.0,6.0
-Ana Serrano,http://webdiis.unizar.es/~aserrano,#NAME?,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Diego Gutierrez,http://giga.cps.unizar.es/~diegog,7ja8HqUAAAAJ,5939.0,44.0,2001.0
+Adrián Jarabo,http://giga.cps.unizar.es/~ajarabo,pXKBhbkAAAAJ,1831.0,19.0,1991.0
+Julio Marco,http://webdiis.unizar.es/~juliom,47C_SbAAAAAJ,391.0,8.0,2014.0
+Adolfo Muñoz,http://giga.cps.unizar.es/~amunoz/index.php/en,H8bBlDkAAAAJ,799.0,13.0,2003.0
+Belén Masiá,http://webdiis.unizar.es/~bmasia,d10sXc8AAAAJ,2351.0,20.0,2009.0
+Marta Ortín,http://webdiis.unizar.es/~ortin,hyOoV44AAAAJ,109.0,6.0,2011.0
+Ana Serrano,http://webdiis.unizar.es/~aserrano,,,,

@@ -1,37 +1,37 @@
-name,homepage,scholar_id,citations,h-index
-Junior Barrera,http://www.ime.usp.br/~jb,NbfbLAwAAAAJ,,
-Nina S. T. Hirata,http://www.ime.usp.br/~nina,NOSCHOLARPAGE,,
-Julio Michael Stern,http://www.ime.usp.br/~jstern,7spXyx8AAAAJ,1841.0,23.0
-Kelly Rosa Braghetto,http://www.ime.usp.br/~kellyrb,GZ66SBcAAAAJ,326.0,11.0
-Fabio Kon,http://www.ime.usp.br/~kon,VE8BW84AAAAJ,6766.0,40.0
-Leliane N. de Barros,http://www.ime.usp.br/~leliane,CqqZ8b0AAAAJ,915.0,16.0
-Alan M. Durham,http://www.ime.usp.br/~durham,sX7BGkIAAAAJ,1366.0,19.0
-Paulo Andre Vechiatto Miranda,http://www.ime.usp.br/~pmiranda,NOSCHOLARPAGE,,
-Renata Wassermann,http://www.ime.usp.br/~renata,_CyspwkAAAAJ,1333.0,18.0
-Ronaldo Fumio Hashimoto,http://www.ime.usp.br/~ronaldo,SBu22bUAAAAJ,1205.0,17.0
-Routo Terada,http://www.ime.usp.br/~rt,NH6zsPUAAAAJ,571.0,12.0
-Sinai Robins,http://www.ime.usp.br/~sinai,PRi_2KEAAAAJ,8060.0,35.0
-Ana C. V. de Melo,http://www.ime.usp.br/~acvm,NOSCHOLARPAGE,,
-Marcel Kenji de Carli Silva,http://www.ime.usp.br/~mkenji,NOSCHOLARPAGE,,
-Carlos H. Morimoto,http://www.ime.usp.br/~hitoshi,ylIa7EoAAAAJ,,
-Mikhailo Dokuchaev,http://www.ime.usp.br/~dokucha,BEi35iIAAAAJ,561.0,14.0
-Karina Valdivia Delgado,http://www.ime.usp.br/~kvd,xSgMBCMAAAAJ,606.0,12.0
-Ernesto G. Birgin,http://www.ime.usp.br/~egbirgin,K5oE4mAAAAAJ,11601.0,41.0
-Walter F. Mascarenhas,http://www.ime.usp.br/~walter,AifN5CUAAAAJ,,
-Denis Deratani Mauá,http://www.ime.usp.br/~ddm,NOSCHOLARPAGE,,
-Alfredo Goldman,http://www.ime.usp.br/~gold,Cgl09uMAAAAJ,2395.0,24.0
-Cristina G. Fernandes,http://www.ime.usp.br/~cris,XnaNOq8AAAAJ,1033.0,16.0
-Flavio S. Corrêa da Silva,http://www.ime.usp.br/~fcs,NOSCHOLARPAGE,,
-Anarosa A. F. Brandão,https://www2.pcs.usp.br/pcsv6/index.php/menucolaboradores/117-colaboradores/211,0YlNxKgAAAAJ,813.0,14.0
-Jaime Simao Sichman,https://www2.pcs.usp.br/pcsv6/index.php/131-docentes/223-jaime,rlSHIHIAAAAJ,,
-André Fujita,http://www.ime.usp.br/~fujita,R2gGcVYAAAAJ,2262.0,25.0
-Yoshiharu Kohayakawa,http://www.ime.usp.br/~yk,EC6p9kIAAAAJ,4078.0,39.0
-Marcelo Finger,http://www.ime.usp.br/~finger,uuu73GEAAAAJ,3019.0,22.0
-Carlos E. Ferreira,http://www.ime.usp.br/~cef,cp2Bft4AAAAJ,420.0,12.0
-Daniel M. Batista,http://www.ime.usp.br/~batista,6iYphXAAAAAJ,1399.0,17.0
-Roberto Hirata Jr,http://www.ime.usp.br/~hirata,Z6UgkRkAAAAJ,,
-João Eduardo Ferreira,http://www.ime.usp.br/~jef,wR2O6I0AAAAJ,1891.0,25.0
-Yoshiko Wakabayashi,http://www.ime.usp.br/~yw,m_ljtMkAAAAJ,2417.0,24.0
-Marcelo Gomes de Queiroz,http://www.ime.usp.br/~mqz,NOSCHOLARPAGE,,
-Marcel Jackowski,https://www.ime.usp.br/~mjack/Welcome.html,WEBkqvcAAAAJ,3043.0,27.0
-Roberto M. Cesar,http://www.ime.usp.br/~cesar,NOSCHOLARPAGE,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Junior Barrera,http://www.ime.usp.br/~jb,FSrFOAMAAAAJ,2750.0,25.0,1987.0
+Nina S. T. Hirata,http://www.ime.usp.br/~nina,HnC89_0AAAAJ,1298.0,18.0,1995.0
+Julio Michael Stern,http://www.ime.usp.br/~jstern,7spXyx8AAAAJ,1841.0,23.0,1974.0
+Kelly Rosa Braghetto,http://www.ime.usp.br/~kellyrb,GZ66SBcAAAAJ,326.0,11.0,2005.0
+Fabio Kon,http://www.ime.usp.br/~kon,VE8BW84AAAAJ,6766.0,40.0,1992.0
+Leliane N. de Barros,http://www.ime.usp.br/~leliane,CqqZ8b0AAAAJ,915.0,16.0,1985.0
+Alan M. Durham,http://www.ime.usp.br/~durham,sX7BGkIAAAAJ,1366.0,19.0,1987.0
+Paulo Andre Vechiatto Miranda,http://www.ime.usp.br/~pmiranda,3Bpmr6cAAAAJ,1643.0,23.0,2004.0
+Renata Wassermann,http://www.ime.usp.br/~renata,_CyspwkAAAAJ,1333.0,18.0,1994.0
+Ronaldo Fumio Hashimoto,http://www.ime.usp.br/~ronaldo,SBu22bUAAAAJ,1205.0,17.0,1994.0
+Routo Terada,http://www.ime.usp.br/~rt,NH6zsPUAAAAJ,571.0,12.0,1978.0
+Sinai Robins,http://www.ime.usp.br/~sinai,PRi_2KEAAAAJ,8060.0,35.0,1990.0
+Ana C. V. de Melo,http://www.ime.usp.br/~acvm,bd5jYIgAAAAJ,1077.0,14.0,1995.0
+Marcel Kenji de Carli Silva,http://www.ime.usp.br/~mkenji,,,,
+Carlos H. Morimoto,http://www.ime.usp.br/~hitoshi,,,,
+Mikhailo Dokuchaev,http://www.ime.usp.br/~dokucha,BEi35iIAAAAJ,561.0,14.0,2009.0
+Karina Valdivia Delgado,http://www.ime.usp.br/~kvd,xSgMBCMAAAAJ,606.0,12.0,2004.0
+Ernesto G. Birgin,http://www.ime.usp.br/~egbirgin,K5oE4mAAAAAJ,11601.0,41.0,1998.0
+Walter F. Mascarenhas,http://www.ime.usp.br/~walter,,,,
+Denis Deratani Mauá,http://www.ime.usp.br/~ddm,,,,
+Alfredo Goldman,http://www.ime.usp.br/~gold,Cgl09uMAAAAJ,2395.0,24.0,1965.0
+Cristina G. Fernandes,http://www.ime.usp.br/~cris,XnaNOq8AAAAJ,1033.0,16.0,1980.0
+Flavio S. Corrêa da Silva,http://www.ime.usp.br/~fcs,,,,
+Anarosa A. F. Brandão,https://www2.pcs.usp.br/pcsv6/index.php/menucolaboradores/117-colaboradores/211,0YlNxKgAAAAJ,813.0,14.0,1996.0
+Jaime Simao Sichman,https://www2.pcs.usp.br/pcsv6/index.php/131-docentes/223-jaime,,,,
+André Fujita,http://www.ime.usp.br/~fujita,R2gGcVYAAAAJ,2262.0,25.0,2002.0
+Yoshiharu Kohayakawa,http://www.ime.usp.br/~yk,EC6p9kIAAAAJ,4078.0,39.0,1990.0
+Marcelo Finger,http://www.ime.usp.br/~finger,uuu73GEAAAAJ,3019.0,22.0,1989.0
+Carlos E. Ferreira,http://www.ime.usp.br/~cef,cp2Bft4AAAAJ,420.0,12.0,1977.0
+Daniel M. Batista,http://www.ime.usp.br/~batista,6iYphXAAAAAJ,1399.0,17.0,2006.0
+Roberto Hirata Jr,http://www.ime.usp.br/~hirata,gl55XocAAAAJ,1668.0,21.0,1993.0
+João Eduardo Ferreira,http://www.ime.usp.br/~jef,wR2O6I0AAAAJ,1891.0,25.0,1991.0
+Yoshiko Wakabayashi,http://www.ime.usp.br/~yw,m_ljtMkAAAAJ,2417.0,24.0,1977.0
+Marcelo Gomes de Queiroz,http://www.ime.usp.br/~mqz,,,,
+Marcel Jackowski,https://www.ime.usp.br/~mjack/Welcome.html,WEBkqvcAAAAJ,3043.0,27.0,1997.0
+Roberto M. Cesar,http://www.ime.usp.br/~cesar,,,,

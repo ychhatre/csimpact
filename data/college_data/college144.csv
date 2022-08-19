@@ -1,24 +1,24 @@
-name,homepage,scholar_id,citations,h-index
-Gabriel Tsechpenakis,http://cs.iupui.edu/people/gavriil-tsechpenakis,y7uuI7gAAAAJ,749.0,13.0
-Rajeev R. Raje,https://science.iupui.edu/people/raje-rajeev,kf7o8yAAAAAJ,1830.0,23.0
-Arjan Durresi,http://cs.iupui.edu/~durresi,MrVb9FkAAAAJ,6644.0,39.0
-Murat Dundar,http://cadkd.cs.iupui.edu,UvNbBnEAAAAJ,3384.0,28.0
-Mihran Tuceryan,http://cs.iupui.edu/people/mihran-tuceryan,F-o1I5wAAAAJ,6527.0,27.0
-George Mohler,http://science.iupui.edu/people/george-mohler,J-vrZ58AAAAJ,3741.0,25.0
-Jiang Yu Zheng,http://cs.iupui.edu/~jzheng,Gih-kpUAAAAJ,2807.0,24.0
-Shiaofen Fang,http://cs.iupui.edu/~sfang,NOSCHOLARPAGE,,
-Yuni Xia,http://cs.iupui.edu/~yxia,NOSCHOLARPAGE,,
-Xukai Zou,http://cs.iupui.edu/~xkzou,NOSCHOLARPAGE,,
-Fengguang Song,http://cs.iupui.edu/~fgsong,BoVnm1wAAAAJ,846.0,14.0
-Yao Liang,https://science.iupui.edu/people/liang-yao,Pkod5TQAAAAJ,2221.0,11.0
-Aqueasha Martin-Hammond,https://soic.iupui.edu/people/aqueasha-martin-hammond,ldnCWNQAAAAJ,360.0,11.0
-Karl F. MacDorman,https://soic.iupui.edu/people/karl-macdorman,W-DuNjYAAAAJ,12177.0,34.0
-Andrew D Miller,https://soic.iupui.edu/people/andrew-miller,U5QeuUcAAAAJ,1695.0,18.0
-Mohammad Al Hasan,http://cs.iupui.edu/~alhasan,fsCnri8AAAAJ,7673.0,34.0
-Lynn Dombrowski,https://soic.iupui.edu/people/lynn-dombrowski,ZCNrpS8AAAAJ,1570.0,18.0
-Khairi Reda,https://soic.iupui.edu/people/khairi-reda,sxXvVekAAAAJ,676.0,14.0
-Snehasis Mukhopadhyay,http://cs.iupui.edu/~smukhopa,HW1_VNwAAAAJ,,
-Francesco Cafaro,https://soic.iupui.edu/people/francesco-cafaro,gvdVQ7gAAAAJ,367.0,11.0
-Erin Brady,https://soic.iupui.edu/people/erin-brady,BAZIWBUAAAAJ,1326.0,18.0
-Davide Bolchini,https://soic.iupui.edu/people/davide-bolchini,vUNp_gwAAAAJ,2331.0,25.0
-James H. Hill,http://sebox.cs.iupui.edu,NOSCHOLARPAGE,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Gabriel Tsechpenakis,http://cs.iupui.edu/people/gavriil-tsechpenakis,y7uuI7gAAAAJ,749.0,13.0,2006.0
+Rajeev R. Raje,https://science.iupui.edu/people/raje-rajeev,kf7o8yAAAAAJ,1830.0,23.0,1993.0
+Arjan Durresi,http://cs.iupui.edu/~durresi,MrVb9FkAAAAJ,6644.0,39.0,
+Murat Dundar,http://cadkd.cs.iupui.edu,UvNbBnEAAAAJ,3384.0,28.0,2002.0
+Mihran Tuceryan,http://cs.iupui.edu/people/mihran-tuceryan,F-o1I5wAAAAJ,6527.0,27.0,1982.0
+George Mohler,http://science.iupui.edu/people/george-mohler,J-vrZ58AAAAJ,3741.0,25.0,2007.0
+Jiang Yu Zheng,http://cs.iupui.edu/~jzheng,Gih-kpUAAAAJ,2807.0,24.0,1986.0
+Shiaofen Fang,http://cs.iupui.edu/~sfang,,,,
+Yuni Xia,http://cs.iupui.edu/~yxia,,,,
+Xukai Zou,http://cs.iupui.edu/~xkzou,,,,
+Fengguang Song,http://cs.iupui.edu/~fgsong,BoVnm1wAAAAJ,846.0,14.0,2002.0
+Yao Liang,https://science.iupui.edu/people/liang-yao,Pkod5TQAAAAJ,2221.0,11.0,2006.0
+Aqueasha Martin-Hammond,https://soic.iupui.edu/people/aqueasha-martin-hammond,ldnCWNQAAAAJ,360.0,11.0,2008.0
+Karl F. MacDorman,https://soic.iupui.edu/people/karl-macdorman,W-DuNjYAAAAJ,12177.0,34.0,1992.0
+Andrew D Miller,https://soic.iupui.edu/people/andrew-miller,U5QeuUcAAAAJ,1695.0,18.0,2004.0
+Mohammad Al Hasan,http://cs.iupui.edu/~alhasan,fsCnri8AAAAJ,7673.0,34.0,2005.0
+Lynn Dombrowski,https://soic.iupui.edu/people/lynn-dombrowski,ZCNrpS8AAAAJ,1570.0,18.0,
+Khairi Reda,https://soic.iupui.edu/people/khairi-reda,sxXvVekAAAAJ,676.0,14.0,2009.0
+Snehasis Mukhopadhyay,http://cs.iupui.edu/~smukhopa,,,,
+Francesco Cafaro,https://soic.iupui.edu/people/francesco-cafaro,gvdVQ7gAAAAJ,367.0,11.0,2009.0
+Erin Brady,https://soic.iupui.edu/people/erin-brady,BAZIWBUAAAAJ,1326.0,18.0,2011.0
+Davide Bolchini,https://soic.iupui.edu/people/davide-bolchini,vUNp_gwAAAAJ,2331.0,25.0,1999.0
+James H. Hill,http://sebox.cs.iupui.edu,,,,

@@ -1,19 +1,19 @@
-name,homepage,scholar_id,citations,h-index
-Lior Pachter,http://pachterlab.github.io/biography.html,DKfEcuEAAAAJ,93815.0,72.0
-Tracey Ho,http://www.its.caltech.edu/~tho,bI2zeOUAAAAJ,13040.0,48.0
-Erik Winfree,http://www.dna.caltech.edu/~winfree,5GQF2FwAAAAJ,25474.0,61.0
-Alan H. Barr,http://www.eas.caltech.edu/people/2923/profile,NOSCHOLARPAGE,,
-Joel A. Tropp,http://users.cms.caltech.edu/~jtropp,i4_3daEAAAAJ,41293.0,55.0
-Adam Wierman,http://www.cs.caltech.edu/~adamw,4OvOdSgAAAAJ,9528.0,52.0
-Venkat Chandrasekaran,http://users.cms.caltech.edu/~venkatc,NOSCHOLARPAGE,,
-Alain J. Martin,http://www.eas.caltech.edu/people/3119/profile,nwfZfqoAAAAJ,14442.0,61.0
-Leonard J. Schulman,http://www.cs.caltech.edu/~schulman,NOSCHOLARPAGE,,
-Mathieu Desbrun,http://www.geometry.caltech.edu/~mathieu,a8ZyGisAAAAJ,22047.0,70.0
-Yaser S. Abu-Mostafa,https://work.caltech.edu,NOSCHOLARPAGE,,
-Pietro Perona,https://www.vision.caltech.edu/Perona.html,j29kMCwAAAAJ,118679.0,111.0
-Peter Schröder,http://www.cs.caltech.edu/~ps,t3TgxNwAAAAJ,24927.0,66.0
-Thomas Vidick,http://cms.caltech.edu/~vidick,IGDs4HwAAAAJ,3610.0,32.0
-Chris Umans,http://www.cs.caltech.edu/~umans,uNsqlqYAAAAJ,3525.0,29.0
-Fernando G. S. L. Brandão,http://fernandobrandao.org,zmDJrh0AAAAJ,12174.0,45.0
-Yisong Yue,http://www.yisongyue.com,tEk4qo8AAAAJ,6884.0,44.0
-Steven H. Low,http://www.eas.caltech.edu/people/3109/profile,4BrebIYAAAAJ,41588.0,91.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Lior Pachter,http://pachterlab.github.io/biography.html,DKfEcuEAAAAJ,93815.0,72.0,1987.0
+Tracey Ho,http://www.its.caltech.edu/~tho,bI2zeOUAAAAJ,13040.0,48.0,1987.0
+Erik Winfree,http://www.dna.caltech.edu/~winfree,5GQF2FwAAAAJ,25474.0,61.0,1987.0
+Alan H. Barr,http://www.eas.caltech.edu/people/2923/profile,,,,
+Joel A. Tropp,http://users.cms.caltech.edu/~jtropp,i4_3daEAAAAJ,41293.0,55.0,2000.0
+Adam Wierman,http://www.cs.caltech.edu/~adamw,4OvOdSgAAAAJ,9528.0,52.0,2002.0
+Venkat Chandrasekaran,http://users.cms.caltech.edu/~venkatc,,,,
+Alain J. Martin,http://www.eas.caltech.edu/people/3119/profile,nwfZfqoAAAAJ,14442.0,61.0,
+Leonard J. Schulman,http://www.cs.caltech.edu/~schulman,HgaNy9kAAAAJ,23105.0,81.0,1983.0
+Mathieu Desbrun,http://www.geometry.caltech.edu/~mathieu,a8ZyGisAAAAJ,22047.0,70.0,1994.0
+Yaser S. Abu-Mostafa,https://work.caltech.edu,,,,
+Pietro Perona,https://www.vision.caltech.edu/Perona.html,j29kMCwAAAAJ,118679.0,111.0,1985.0
+Peter Schröder,http://www.cs.caltech.edu/~ps,t3TgxNwAAAAJ,24927.0,66.0,1988.0
+Thomas Vidick,http://cms.caltech.edu/~vidick,IGDs4HwAAAAJ,3610.0,32.0,2008.0
+Chris Umans,http://www.cs.caltech.edu/~umans,uNsqlqYAAAAJ,3525.0,29.0,1996.0
+Fernando G. S. L. Brandão,http://fernandobrandao.org,zmDJrh0AAAAJ,12174.0,45.0,2004.0
+Yisong Yue,http://www.yisongyue.com,tEk4qo8AAAAJ,6884.0,44.0,2007.0
+Steven H. Low,http://www.eas.caltech.edu/people/3109/profile,4BrebIYAAAAJ,41588.0,91.0,1990.0

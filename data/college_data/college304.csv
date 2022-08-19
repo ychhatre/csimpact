@@ -1,5 +1,5 @@
-name,homepage,scholar_id,citations,h-index
-Sebastian Zug,https://tu-freiberg.de/fakult1/inf/professuren/softwaretechnologie-und-robotik/team,D6A7l-MAAAAJ,639.0,13.0
-Bernhard Jung,https://tu-freiberg.de/user/645,NOSCHOLARPAGE,,
-Heinrich Jasper,http://www.informatik.tu-freiberg.de/prof3/jasper.html,NOSCHOLARPAGE,,
-Konrad Froitzheim,https://tu-freiberg.de/fakult1/inf/organisation/professuren/bs-kt-prof-froitzheim,NOSCHOLARPAGE,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Sebastian Zug,https://tu-freiberg.de/fakult1/inf/professuren/softwaretechnologie-und-robotik/team,D6A7l-MAAAAJ,639.0,13.0,2007.0
+Bernhard Jung,https://tu-freiberg.de/user/645,,,,
+Heinrich Jasper,http://www.informatik.tu-freiberg.de/prof3/jasper.html,,,,
+Konrad Froitzheim,https://tu-freiberg.de/fakult1/inf/organisation/professuren/bs-kt-prof-froitzheim,,,,

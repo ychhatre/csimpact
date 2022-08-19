@@ -1,18 +1,18 @@
-name,homepage,scholar_id,citations,h-index
-Matthias Renz,https://www.ai.informatik.uni-kiel.de/ai/team/prof-dr-matthias-renz,47gh3JkAAAAJ,3221.0,26.0
-Thomas Wilke,https://www.theorie.informatik.uni-kiel.de/de/team/thomas-wilke,hu_TR4wAAAAJ,4757.0,32.0
-Olaf Landsiedel,https://www.ds.informatik.uni-kiel.de/en/people/olaf,_kenE7EAAAAJ,2925.0,24.0
-Sven Tomforde,https://www.ins.informatik.uni-kiel.de/en/team,mg9mTiMAAAAJ,2414.0,26.0
-Michael Hanus,https://www.informatik.uni-kiel.de/~mh,SkNKYjQAAAAJ,6093.0,38.0
-Isabella Peters,https://www.ws.informatik.uni-kiel.de/de/team/prof.-dr.-isabella-peters,VRJcHbQAAAAJ,3805.0,26.0
-Andreas Speck,https://www.bit.informatik.uni-kiel.de/de/team/prof.-dr.-andreas-speck,NOSCHOLARPAGE,,
-Andreas Michael Mühling,https://www.ddi.inf.uni-kiel.de/de/personen/prof.-dr.-andreas-muehling,CRgmx1oAAAAJ,750.0,16.0
-Agnes Koschmider,https://www.pa.informatik.uni-kiel.de/en/team/prof-dr-agnes-koschmider,n1JYiwQAAAAJ,2573.0,29.0
-Klaus Tochtermann,https://www.zbw.eu/en/research/klaus-tochtermann,2j9m_PMAAAAJ,3398.0,24.0
-Bernhard Thalheim,https://www.is.informatik.uni-kiel.de/thalheim,lkH3h9gAAAAJ,6351.0,38.0
-Dirk Henri Nowotka,https://www.zs.informatik.uni-kiel.de/en/team/nowotka,#NAME?,,
-Thomas Slawig,https://www.algopt.informatik.uni-kiel.de/de/team/prof.-dr.-thomas-slawig,NOSCHOLARPAGE,,
-Reinhard von Hanxleden,https://www.rtsys.informatik.uni-kiel.de/en/team/rvh,OKUzh7QAAAAJ,3344.0,29.0
-Wilhelm Hasselbring,https://www.se.informatik.uni-kiel.de/en/team/prof.-dr.-wilhelm-willi-hasselbring,L1C_kM0AAAAJ,8457.0,45.0
-Reinhard Koch,https://www.mip.informatik.uni-kiel.de/en/team/prof.-dr.-ing.-reinhard-koch,xgjKDqAAAAAJ,11063.0,46.0
-Klaus Jansen,https://www.algo.informatik.uni-kiel.de/de/team/klaus-jansen,gaqzMHAAAAAJ,7065.0,45.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Matthias Renz,https://www.ai.informatik.uni-kiel.de/ai/team/prof-dr-matthias-renz,47gh3JkAAAAJ,3221.0,26.0,2001.0
+Thomas Wilke,https://www.theorie.informatik.uni-kiel.de/de/team/thomas-wilke,hu_TR4wAAAAJ,4757.0,32.0,1991.0
+Olaf Landsiedel,https://www.ds.informatik.uni-kiel.de/en/people/olaf,_kenE7EAAAAJ,2925.0,24.0,2003.0
+Sven Tomforde,https://www.ins.informatik.uni-kiel.de/en/team,mg9mTiMAAAAJ,2414.0,26.0,2008.0
+Michael Hanus,https://www.informatik.uni-kiel.de/~mh,SkNKYjQAAAAJ,6093.0,38.0,1984.0
+Isabella Peters,https://www.ws.informatik.uni-kiel.de/de/team/prof.-dr.-isabella-peters,VRJcHbQAAAAJ,3805.0,26.0,2006.0
+Andreas Speck,https://www.bit.informatik.uni-kiel.de/de/team/prof.-dr.-andreas-speck,,,,
+Andreas Michael Mühling,https://www.ddi.inf.uni-kiel.de/de/personen/prof.-dr.-andreas-muehling,CRgmx1oAAAAJ,750.0,16.0,1993.0
+Agnes Koschmider,https://www.pa.informatik.uni-kiel.de/en/team/prof-dr-agnes-koschmider,n1JYiwQAAAAJ,2573.0,29.0,2000.0
+Klaus Tochtermann,https://www.zbw.eu/en/research/klaus-tochtermann,2j9m_PMAAAAJ,3398.0,24.0,
+Bernhard Thalheim,https://www.is.informatik.uni-kiel.de/thalheim,lkH3h9gAAAAJ,6351.0,38.0,1985.0
+Dirk Henri Nowotka,https://www.zs.informatik.uni-kiel.de/en/team/nowotka,-oLw6tMAAAAJ,884.0,15.0,1998.0
+Thomas Slawig,https://www.algopt.informatik.uni-kiel.de/de/team/prof.-dr.-thomas-slawig,,,,
+Reinhard von Hanxleden,https://www.rtsys.informatik.uni-kiel.de/en/team/rvh,OKUzh7QAAAAJ,3344.0,29.0,1987.0
+Wilhelm Hasselbring,https://www.se.informatik.uni-kiel.de/en/team/prof.-dr.-wilhelm-willi-hasselbring,L1C_kM0AAAAJ,8457.0,45.0,1990.0
+Reinhard Koch,https://www.mip.informatik.uni-kiel.de/en/team/prof.-dr.-ing.-reinhard-koch,xgjKDqAAAAAJ,11063.0,46.0,1990.0
+Klaus Jansen,https://www.algo.informatik.uni-kiel.de/de/team/klaus-jansen,gaqzMHAAAAAJ,7065.0,45.0,1991.0

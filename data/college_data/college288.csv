@@ -1,8 +1,8 @@
-name,homepage,scholar_id,citations,h-index
-Willem Visser,http://www.cs.sun.ac.za/~wvisser,5yAC8o8AAAAJ,10489.0,47.0
-Brink van der Merwe,http://www.cs.sun.ac.za/~abvdm,TKlHqnMAAAAJ,773.0,15.0
-Jaco Geldenhuys,http://www.cs.sun.ac.za/~jaco,Y5dRFosAAAAJ,1206.0,19.0
-Trienko L. Grobler,http://www.cs.sun.ac.za/people/academic,R-voJbEAAAAJ,596.0,12.0
-Lynette van Zijl,http://www.cs.sun.ac.za/~lvzijl,VYsbpdwAAAAJ,497.0,12.0
-Steve Kroon,http://www.cs.sun.ac.za/~kroon,#NAME?,,
-Bernd Fischer,http://www.cs.sun.ac.za/~bfischer,m51BXiwAAAAJ,3201.0,31.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Willem Visser,http://www.cs.sun.ac.za/~wvisser,5yAC8o8AAAAJ,10489.0,47.0,1993.0
+Brink van der Merwe,http://www.cs.sun.ac.za/~abvdm,TKlHqnMAAAAJ,773.0,15.0,1995.0
+Jaco Geldenhuys,http://www.cs.sun.ac.za/~jaco,Y5dRFosAAAAJ,1206.0,19.0,1971.0
+Trienko L. Grobler,http://www.cs.sun.ac.za/people/academic,R-voJbEAAAAJ,596.0,12.0,2006.0
+Lynette van Zijl,http://www.cs.sun.ac.za/~lvzijl,VYsbpdwAAAAJ,497.0,12.0,1987.0
+Steve Kroon,http://www.cs.sun.ac.za/~kroon,-M2yWHQAAAAJ,439.0,9.0,2004.0
+Bernd Fischer,http://www.cs.sun.ac.za/~bfischer,m51BXiwAAAAJ,3201.0,31.0,1979.0

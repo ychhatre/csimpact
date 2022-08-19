@@ -1,27 +1,27 @@
-name,homepage,scholar_id,citations,h-index
-Eduard Mehofer,https://cs.univie.ac.at/eduard.mehofer,NOSCHOLARPAGE,,
-Claudia Plant,https://cs.univie.ac.at/claudia.plant,QSYzTd0AAAAJ,2918.0,29.0
-Karl Anton Froeschl,https://cs.univie.ac.at/karl-anton.froeschl,NOSCHOLARPAGE,,
-Edgar R. Weippl,https://sec.cs.univie.ac.at/team/person/83163,YU1wAV0AAAAJ,7873.0,43.0
-Dimitris Karagiannis,https://cs.univie.ac.at/dimitris.karagiannis,NOSCHOLARPAGE,,
-Erich Schikuta,https://cs.univie.ac.at/erich.schikuta,MluSpmIAAAAJ,2775.0,26.0
-Moritz Grosse-Wentrup,https://cs.univie.ac.at/moritz.grosse-wentrup,15GNzKcAAAAJ,3473.0,26.0
-Gabriele E. Danninger-Uchida,https://cs.univie.ac.at/gabriele.uchida,NOSCHOLARPAGE,,
-Ivo L. Hofacker,https://cs.univie.ac.at/ivo.hofacker,sO2tBiAAAAAJ,37607.0,71.0
-Wolfgang Klas,https://cs.univie.ac.at/wolfgang.klas,NOSCHOLARPAGE,,
-Monika Henzinger,https://cs.univie.ac.at/monika.henzinger,NXbggxYAAAAJ,21575.0,70.0
-Arndt von Haeseler,https://informatik.univie.ac.at/Arndt.von%20Haeseler,iH_4RxYAAAAJ,49974.0,73.0
-Torsten Möller,https://cs.univie.ac.at/torsten.moeller,3cGVmqsAAAAJ,7644.0,45.0
-Benjamin Roth,https://informatik.univie.ac.at/Benjamin.Roth,hz5AsE0AAAAJ,1619.0,17.0
-Maria Knobelsdorf,https://informatik.univie.ac.at/Maria.Knobelsdorf,NOSCHOLARPAGE,,
-Helmut Hlavacs,https://cs.univie.ac.at/helmut.hlavacs,I6E7smMAAAAJ,3274.0,32.0
-Siegfried Benkner,https://cs.univie.ac.at/siegfried.benkner,vIdBdA8AAAAJ,3109.0,34.0
-Peter Karl Reichl,https://cs.univie.ac.at/peter.reichl,co0c914AAAAJ,3652.0,30.0
-Maria Leitner,https://informatik.univie.ac.at/Maria.Leitner,NOSCHOLARPAGE,,
-Sebastian Tschiatschek,https://dm.cs.univie.ac.at/team/person/109359,NOSCHOLARPAGE,,
-Renate Motschnig,https://cs.univie.ac.at/renate.motschnig,NOSCHOLARPAGE,,
-Uwe Zdun,https://cs.univie.ac.at/uwe.zdun,jLm9DCkAAAAJ,6132.0,38.0
-Nils M. Kriege,https://dm.cs.univie.ac.at/team/person/111520,wGT17PcAAAAJ,1561.0,15.0
-Wilfried N. Gansterer,https://cs.univie.ac.at/wilfried.gansterer,NOSCHOLARPAGE,,
-Gerald Quirchmayr,https://cs.univie.ac.at/gerald.quirchmayr,NOSCHOLARPAGE,,
-Werner Winiwarter,https://cs.univie.ac.at/werner.winiwarter,NOSCHOLARPAGE,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Eduard Mehofer,https://cs.univie.ac.at/eduard.mehofer,,,,
+Claudia Plant,https://cs.univie.ac.at/claudia.plant,QSYzTd0AAAAJ,2918.0,29.0,2004.0
+Karl Anton Froeschl,https://cs.univie.ac.at/karl-anton.froeschl,,,,
+Edgar R. Weippl,https://sec.cs.univie.ac.at/team/person/83163,YU1wAV0AAAAJ,7873.0,43.0,1999.0
+Dimitris Karagiannis,https://cs.univie.ac.at/dimitris.karagiannis,,,,
+Erich Schikuta,https://cs.univie.ac.at/erich.schikuta,MluSpmIAAAAJ,2775.0,26.0,1983.0
+Moritz Grosse-Wentrup,https://cs.univie.ac.at/moritz.grosse-wentrup,15GNzKcAAAAJ,3473.0,26.0,2005.0
+Gabriele E. Danninger-Uchida,https://cs.univie.ac.at/gabriele.uchida,,,,
+Ivo L. Hofacker,https://cs.univie.ac.at/ivo.hofacker,sO2tBiAAAAAJ,37607.0,71.0,1990.0
+Wolfgang Klas,https://cs.univie.ac.at/wolfgang.klas,,,,
+Monika Henzinger,https://cs.univie.ac.at/monika.henzinger,NXbggxYAAAAJ,21575.0,70.0,1990.0
+Arndt von Haeseler,https://informatik.univie.ac.at/Arndt.von%20Haeseler,iH_4RxYAAAAJ,49974.0,73.0,
+Torsten Möller,https://cs.univie.ac.at/torsten.moeller,3cGVmqsAAAAJ,7644.0,45.0,1992.0
+Benjamin Roth,https://informatik.univie.ac.at/Benjamin.Roth,hz5AsE0AAAAJ,1619.0,17.0,2010.0
+Maria Knobelsdorf,https://informatik.univie.ac.at/Maria.Knobelsdorf,ADZsiiEAAAAJ,793.0,15.0,2006.0
+Helmut Hlavacs,https://cs.univie.ac.at/helmut.hlavacs,I6E7smMAAAAJ,3274.0,32.0,1998.0
+Siegfried Benkner,https://cs.univie.ac.at/siegfried.benkner,vIdBdA8AAAAJ,3109.0,34.0,1992.0
+Peter Karl Reichl,https://cs.univie.ac.at/peter.reichl,co0c914AAAAJ,3652.0,30.0,1993.0
+Maria Leitner,https://informatik.univie.ac.at/Maria.Leitner,W7uTJPgAAAAJ,454.0,13.0,2010.0
+Sebastian Tschiatschek,https://dm.cs.univie.ac.at/team/person/109359,nlJCSWcAAAAJ,1651.0,21.0,2011.0
+Renate Motschnig,https://cs.univie.ac.at/renate.motschnig,u6Q3elwAAAAJ,3545.0,30.0,1981.0
+Uwe Zdun,https://cs.univie.ac.at/uwe.zdun,jLm9DCkAAAAJ,6132.0,38.0,1999.0
+Nils M. Kriege,https://dm.cs.univie.ac.at/team/person/111520,wGT17PcAAAAJ,1561.0,15.0,2008.0
+Wilfried N. Gansterer,https://cs.univie.ac.at/wilfried.gansterer,vdfs-t8AAAAJ,2004.0,22.0,1997.0
+Gerald Quirchmayr,https://cs.univie.ac.at/gerald.quirchmayr,,,,
+Werner Winiwarter,https://cs.univie.ac.at/werner.winiwarter,,,,

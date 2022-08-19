@@ -1,21 +1,21 @@
-name,homepage,scholar_id,citations,h-index
-Jim Buffenbarger,http://cs.boisestate.edu/~buff,fY5q3E0AAAAJ,148.0,5.0
-Maria Soledad Pera,http://cs.boisestate.edu/~sole/web,NOSCHOLARPAGE,,
-Catherine Mills Olschanowsky,http://coen.boisestate.edu/catherineolschan,NOSCHOLARPAGE,,
-Amit Jain,http://cs.boisestate.edu/~amit,Pk-vgwEAAAAJ,,
-Casey Kennington,http://www.caseyreddkennington.com,Um4ZbbgAAAAJ,802.0,16.0
-Francesca Spezzano,https://sites.google.com/site/francescaspezzano,u_5TCGoAAAAJ,928.0,13.0
-Hoda Mehrpouyan,http://hodamehrpouyan.com,NOSCHOLARPAGE,,
-Dianxiang Xu,http://cs.boisestate.edu/~dxu,FqBb3CMAAAAJ,,
-Min Long,http://flash.uchicago.edu/~long,Ex_raoQAAAAJ,1254.0,9.0
-Bogdan Dit,http://cs.boisestate.edu/~bdit,txY2NHUAAAAJ,2479.0,21.0
-Timothy L. Andersen,http://cs.boisestate.edu/~tim,mTErwxgAAAAJ,39177.0,97.0
-Gaby Dagher,http://cs.boisestate.edu/~gdagher,NOSCHOLARPAGE,,
-Jerry Alan Fails,http://cs.boisestate.edu/~jfails,eO71_M8AAAAJ,3297.0,22.0
-Jyh-Haw Yeh,http://cs.boisestate.edu/~jhyeh,NOSCHOLARPAGE,,
-Jidong Xiao,http://cs.boisestate.edu/~jxiao,PYvcetMAAAAJ,187.0,6.0
-Steve Cutchin,http://cs.boisestate.edu/~scutchin,vH5VbsQAAAAJ,742.0,11.0
-Yantian Hou,http://cs.boisestate.edu/~yhou,r_glIckAAAAJ,,
-Michael D. Ekstrand,https://coen.boisestate.edu/faculty-staff/michaelekstrand,YicUduAAAAAJ,3269.0,22.0
-Edoardo Serra,https://sites.google.com/site/serraedoardo,9FRe3hcAAAAJ,767.0,6.0
-Elena Sherman,http://cs.boisestate.edu/~esherman,NOSCHOLARPAGE,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Jim Buffenbarger,http://cs.boisestate.edu/~buff,fY5q3E0AAAAJ,148.0,5.0,1992.0
+Maria Soledad Pera,http://cs.boisestate.edu/~sole/web,,,,
+Catherine Mills Olschanowsky,http://coen.boisestate.edu/catherineolschan,V6gXo9IAAAAJ,788.0,18.0,2002.0
+Amit Jain,http://cs.boisestate.edu/~amit,,,,
+Casey Kennington,http://www.caseyreddkennington.com,Um4ZbbgAAAAJ,802.0,16.0,2008.0
+Francesca Spezzano,https://sites.google.com/site/francescaspezzano,u_5TCGoAAAAJ,928.0,13.0,2009.0
+Hoda Mehrpouyan,http://hodamehrpouyan.com,,,,
+Dianxiang Xu,http://cs.boisestate.edu/~dxu,pcVMVpIAAAAJ,3225.0,29.0,1992.0
+Min Long,http://flash.uchicago.edu/~long,Ex_raoQAAAAJ,1254.0,9.0,1998.0
+Bogdan Dit,http://cs.boisestate.edu/~bdit,txY2NHUAAAAJ,2479.0,21.0,2008.0
+Timothy L. Andersen,http://cs.boisestate.edu/~tim,mTErwxgAAAAJ,39177.0,97.0,1981.0
+Gaby Dagher,http://cs.boisestate.edu/~gdagher,c77MRUEAAAAJ,846.0,9.0,2013.0
+Jerry Alan Fails,http://cs.boisestate.edu/~jfails,eO71_M8AAAAJ,3297.0,22.0,1952.0
+Jyh-Haw Yeh,http://cs.boisestate.edu/~jhyeh,oDEimkEAAAAJ,529.0,13.0,1997.0
+Jidong Xiao,http://cs.boisestate.edu/~jxiao,PYvcetMAAAAJ,187.0,6.0,2012.0
+Steve Cutchin,http://cs.boisestate.edu/~scutchin,vH5VbsQAAAAJ,742.0,11.0,1989.0
+Yantian Hou,http://cs.boisestate.edu/~yhou,UDwqCaoAAAAJ,453.0,12.0,2013.0
+Michael D. Ekstrand,https://coen.boisestate.edu/faculty-staff/michaelekstrand,YicUduAAAAAJ,3269.0,22.0,2009.0
+Edoardo Serra,https://sites.google.com/site/serraedoardo,9FRe3hcAAAAJ,767.0,6.0,2010.0
+Elena Sherman,http://cs.boisestate.edu/~esherman,YVovscMAAAAJ,123.0,5.0,2008.0

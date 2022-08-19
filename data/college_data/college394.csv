@@ -1,18 +1,18 @@
-name,homepage,scholar_id,citations,h-index
-Matthias Galster,http://www.cosc.canterbury.ac.nz/matthias.galster,NOSCHOLARPAGE,,
-Austen Rainer,https://www.cosc.canterbury.ac.nz/austen.rainer,NOSCHOLARPAGE,,
-Dong Seong Kim,http://cosc.canterbury.ac.nz/dongseong.kim,Fuu6i50AAAAJ,5720.0,34.0
-Tadao Takaoka,http://www.cosc.canterbury.ac.nz/tad.takaoka,M5viz6kAAAAJ,1558.0,19.0
-Tim Bell,http://www.cosc.canterbury.ac.nz/tim.bell,NOSCHOLARPAGE,,
-R. Mukundan,http://www.cosc.canterbury.ac.nz/mukundan,Bk5BJ80AAAAJ,4988.0,26.0
-Moffat Mathews,http://www.cosc.canterbury.ac.nz/moffat.mathews,S_0AsA4AAAAJ,483.0,13.0
-Neville Churcher,http://www.cosc.canterbury.ac.nz/neville.churcher,NOSCHOLARPAGE,,
-Krzysztof Pawlikowski,http://www.cosc.canterbury.ac.nz/krys.pawlikowski,_kwcKaYAAAAJ,3072.0,21.0
-Thomas Young,https://www.cosc.canterbury.ac.nz/thomas.young,NOSCHOLARPAGE,,
-Andreas Willig,http://www.cosc.canterbury.ac.nz/andreas.willig,NOSCHOLARPAGE,,
-Rob Lindeman,http://www.canterbury.ac.nz/spark/Researcher.aspx?researcherid=4447467,50jH5EUAAAAJ,4076.0,34.0
-Antonija Mitrovic,http://www.cosc.canterbury.ac.nz/tanja.mitrovic,qIf7b10AAAAJ,7842.0,44.0
-Andy Cockburn,http://www.cosc.canterbury.ac.nz/andrew.cockburn,HzupDnMAAAAJ,13255.0,64.0
-Richard D. Green,http://www.cosc.canterbury.ac.nz/richard.green,NOSCHOLARPAGE,,
-Walter Guttmann,http://www.cosc.canterbury.ac.nz/walter.guttmann,NOSCHOLARPAGE,,
-Kourosh Neshatian,http://www.cosc.canterbury.ac.nz/kourosh.neshatian,NOSCHOLARPAGE,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Matthias Galster,http://www.cosc.canterbury.ac.nz/matthias.galster,,,,
+Austen Rainer,https://www.cosc.canterbury.ac.nz/austen.rainer,KpFTNeQAAAAJ,4230.0,21.0,1998.0
+Dong Seong Kim,http://cosc.canterbury.ac.nz/dongseong.kim,Fuu6i50AAAAJ,5720.0,34.0,1992.0
+Tadao Takaoka,http://www.cosc.canterbury.ac.nz/tad.takaoka,M5viz6kAAAAJ,1558.0,19.0,1969.0
+Tim Bell,http://www.cosc.canterbury.ac.nz/tim.bell,TpHIeC4AAAAJ,13864.0,46.0,1986.0
+R. Mukundan,http://www.cosc.canterbury.ac.nz/mukundan,Bk5BJ80AAAAJ,4988.0,26.0,1990.0
+Moffat Mathews,http://www.cosc.canterbury.ac.nz/moffat.mathews,S_0AsA4AAAAJ,483.0,13.0,2006.0
+Neville Churcher,http://www.cosc.canterbury.ac.nz/neville.churcher,0B_iGfgAAAAJ,1285.0,21.0,1982.0
+Krzysztof Pawlikowski,http://www.cosc.canterbury.ac.nz/krys.pawlikowski,_kwcKaYAAAAJ,3072.0,21.0,1980.0
+Thomas Young,https://www.cosc.canterbury.ac.nz/thomas.young,,,,
+Andreas Willig,http://www.cosc.canterbury.ac.nz/andreas.willig,,,,
+Rob Lindeman,http://www.canterbury.ac.nz/spark/Researcher.aspx?researcherid=4447467,50jH5EUAAAAJ,4076.0,34.0,1987.0
+Antonija Mitrovic,http://www.cosc.canterbury.ac.nz/tanja.mitrovic,qIf7b10AAAAJ,7842.0,44.0,1993.0
+Andy Cockburn,http://www.cosc.canterbury.ac.nz/andrew.cockburn,HzupDnMAAAAJ,13255.0,64.0,1978.0
+Richard D. Green,http://www.cosc.canterbury.ac.nz/richard.green,,,,
+Walter Guttmann,http://www.cosc.canterbury.ac.nz/walter.guttmann,,,,
+Kourosh Neshatian,http://www.cosc.canterbury.ac.nz/kourosh.neshatian,,,,

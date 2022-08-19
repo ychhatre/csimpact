@@ -1,18 +1,18 @@
-name,homepage,scholar_id,citations,h-index
-Douglas Lawrence,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=lawrencd,NOSCHOLARPAGE,,
-Savas Kaya,http://savaskaya.net,k8A7YxcAAAAJ,3462.0,26.0
-Cindy Marling,http://oucsace.cs.ohiou.edu/~marling,zeBniq4AAAAJ,2018.0,23.0
-Jundong Liu,http://media.cs.ohio.edu,NOSCHOLARPAGE,,
-Mehmet Celenk,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=celenk,NOSCHOLARPAGE,,
-Jeffrey C. Dill,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=dill,NOSCHOLARPAGE,,
-Frank A. Drews,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=drews,NOSCHOLARPAGE,,
-Chris Bartone,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=bartone,NOSCHOLARPAGE,,
-Frank van Graas,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=vangraas,NOSCHOLARPAGE,,
-Shawn Ostermann,http://oucsace.cs.ohiou.edu/~osterman/Homepage.html,NOSCHOLARPAGE,,
-J. Jim Zhu,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=zhuj,NOSCHOLARPAGE,,
-Gordon Stewart,http://ace.cs.ohio.edu/~gstewart,pnzKfOcAAAAJ,677.0,11.0
-Harsha Chenji,http://ace.eecs.ohiou.edu/~chenji,DdiZCHoAAAAJ,770.0,11.0
-David M. Chelberg,http://oucsace.cs.ohiou.edu/~chelberg,NOSCHOLARPAGE,,
-David Juedes,http://oucsace.cs.ohiou.edu/~juedes,eTFiw7wAAAAJ,2622.0,20.0
-Avinash Karanth,http://oucsace.cs.ohiou.edu/~avinashk,NOSCHOLARPAGE,,
-Lonnie R. Welch,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=welch,NOSCHOLARPAGE,,
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Douglas Lawrence,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=lawrencd,,,,
+Savas Kaya,http://savaskaya.net,k8A7YxcAAAAJ,3462.0,26.0,1997.0
+Cindy Marling,http://oucsace.cs.ohiou.edu/~marling,zeBniq4AAAAJ,2018.0,23.0,1996.0
+Jundong Liu,http://media.cs.ohio.edu,,,,
+Mehmet Celenk,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=celenk,,,,
+Jeffrey C. Dill,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=dill,,,,
+Frank A. Drews,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=drews,,,,
+Chris Bartone,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=bartone,,,,
+Frank van Graas,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=vangraas,,,,
+Shawn Ostermann,http://oucsace.cs.ohiou.edu/~osterman/Homepage.html,,,,
+J. Jim Zhu,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=zhuj,,,,
+Gordon Stewart,http://ace.cs.ohio.edu/~gstewart,pnzKfOcAAAAJ,677.0,11.0,2007.0
+Harsha Chenji,http://ace.eecs.ohiou.edu/~chenji,DdiZCHoAAAAJ,770.0,11.0,2008.0
+David M. Chelberg,http://oucsace.cs.ohiou.edu/~chelberg,,,,
+David Juedes,http://oucsace.cs.ohiou.edu/~juedes,eTFiw7wAAAAJ,2622.0,20.0,1987.0
+Avinash Karanth,http://oucsace.cs.ohiou.edu/~avinashk,,,,
+Lonnie R. Welch,https://www.ohio.edu/engineering/about/people/profiles.cfm?profile=welch,uz54usYAAAAJ,4054.0,31.0,

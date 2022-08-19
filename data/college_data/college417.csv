@@ -1,13 +1,13 @@
-name,homepage,scholar_id,citations,h-index
-Georgi Gaydadjiev,https://www.rug.nl/staff/g.gaydadjiev/?lang=en,IL5KrG4AAAAJ,4385.0,31.0
-Johan Bos,https://www.rug.nl/staff/johan.bos,Pkj8OSoAAAAJ,7502.0,41.0
-Arianna Bisazza,http://www.cs.rug.nl/~bisazza,biQvUhcAAAAJ,1893.0,18.0
-Niels A. Taatgen,http://www.ai.rug.nl/~niels,F5FI6uYAAAAJ,7380.0,42.0
-Tommaso Caselli,https://www.rug.nl/staff/t.caselli,fxQvP_QAAAAJ,1683.0,17.0
-Jos Roerdink,https://www.rug.nl/staff/j.b.t.m.roerdink,jCFYHlkAAAAJ,8025.0,42.0
-Antonio Toral,http://antoniotor.al,YcdNfhcAAAAJ,2486.0,25.0
-L. C. Verbrugge,http://www.ai.rug.nl/~rineke,p6lcxiMAAAAJ,3384.0,31.0
-Malvina Nissim,https://malvinanissim.github.io,hnTpEOAAAAAJ,3384.0,32.0
-Paris Avgeriou,http://www.cs.rug.nl/~paris,OlYdiYMAAAAJ,8745.0,47.0
-Gertjan van Noord,http://www.let.rug.nl/vannoord,dgU9Yq0AAAAJ,,
-Marco A. Wiering,http://www.ai.rug.nl/~mwiering,880vFIgAAAAJ,7390.0,40.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Georgi Gaydadjiev,https://www.rug.nl/staff/g.gaydadjiev/?lang=en,IL5KrG4AAAAJ,4385.0,31.0,1996.0
+Johan Bos,https://www.rug.nl/staff/johan.bos,Pkj8OSoAAAAJ,7502.0,41.0,1985.0
+Arianna Bisazza,http://www.cs.rug.nl/~bisazza,biQvUhcAAAAJ,1893.0,18.0,2007.0
+Niels A. Taatgen,http://www.ai.rug.nl/~niels,F5FI6uYAAAAJ,7380.0,42.0,1990.0
+Tommaso Caselli,https://www.rug.nl/staff/t.caselli,fxQvP_QAAAAJ,1683.0,17.0,2006.0
+Jos Roerdink,https://www.rug.nl/staff/j.b.t.m.roerdink,jCFYHlkAAAAJ,8025.0,42.0,1981.0
+Antonio Toral,http://antoniotor.al,YcdNfhcAAAAJ,2486.0,25.0,2004.0
+L. C. Verbrugge,http://www.ai.rug.nl/~rineke,p6lcxiMAAAAJ,3384.0,31.0,1989.0
+Malvina Nissim,https://malvinanissim.github.io,hnTpEOAAAAAJ,3384.0,32.0,1990.0
+Paris Avgeriou,http://www.cs.rug.nl/~paris,OlYdiYMAAAAJ,8745.0,47.0,1999.0
+Gertjan van Noord,http://www.let.rug.nl/vannoord,,,,
+Marco A. Wiering,http://www.ai.rug.nl/~mwiering,880vFIgAAAAJ,7390.0,40.0,1995.0

@@ -1,12 +1,13 @@
 import pandas as pd
 import os
 
-colleges = pd.read_csv(os.getcwd().replace('code', '') + '/data/colleges.csv')
 
-avg_citations = pd.read_csv(os.getcwd().replace('code', '') + '/data/ranking_data/avg_citations_ranking.csv')
-avg_h_index = pd.read_csv(os.getcwd().replace('code', '') + '/data/ranking_data/avg_h_index_ranking.csv')
-total_citations = pd.read_csv(os.getcwd().replace('code', '') + '/data/ranking_data/total_citations_ranking.csv')
-total_h_index = pd.read_csv(os.getcwd().replace('code', '') + '/data/ranking_data/total_h_index_ranking.csv')
+colleges = pd.read_csv(os.getcwd().replace('code', '') + 'data/colleges.csv')
+
+avg_citations = pd.read_csv(os.getcwd().replace('code', '') + 'data/ranking_data/avg_citations_ranking.csv')
+avg_h_index = pd.read_csv(os.getcwd().replace('code', '') + 'data/ranking_data/avg_h_index_ranking.csv')
+total_citations = pd.read_csv(os.getcwd().replace('code', '') + 'data/ranking_data/total_citations_ranking.csv')
+total_h_index = pd.read_csv(os.getcwd().replace('code', '') + 'data/ranking_data/total_h_index_ranking.csv')
 
 my_list = [avg_citations,avg_h_index,total_citations,total_h_index]
 
@@ -41,4 +42,4 @@ college_avg_rank_sorted = college_avg_rank.sort_values('avg_rank', ascending = T
 
 college_avg_rank_sorted = college_avg_rank_sorted.reset_index(drop = True)
 
-college_avg_rank_sorted.to_csv(os.getcwd().replace('code', '') + '/data/college_avg_rank.csv', index = False)
+college_avg_rank_sorted.to_csv(os.getcwd().replace('code', '') + 'data/college_avg_rank.csv', index = False)

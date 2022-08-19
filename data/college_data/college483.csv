@@ -1,15 +1,15 @@
-name,homepage,scholar_id,citations,h-index
-Melanie E. Moses,https://www.cs.unm.edu/~melaniem,WFZ4azsAAAAJ,3359.0,31.0
-Thomas P. Hayes,https://www.cs.unm.edu/~hayes,RsicLQsAAAAJ,2609.0,22.0
-Lance R. Williams,https://www.cs.unm.edu/~williams,OJBW1aUAAAAJ,2008.0,21.0
-Deepak Kapur,https://www.cs.unm.edu/~kapur,U6XKBVIAAAAJ,8872.0,53.0
-Darko Stefanovic,https://www.cs.unm.edu/~darko,hd6nAfsAAAAJ,7509.0,35.0
-Gruia-Catalin Roman,http://www.cs.unm.edu/directory/faculty-profiles/gruia-catalin-roman.html,NOSCHOLARPAGE,,
-Lydia Tapia,http://www.cs.unm.edu/~tapia,V2LAAxUAAAAJ,1852.0,21.0
-David H. Ackley,http://www.cs.unm.edu/~ackley,Sx9dTQoAAAAJ,10913.0,23.0
-Trilce Estrada,http://www.cs.unm.edu/~estrada/trilce/pmwiki.php,pwzksPcAAAAJ,614.0,12.0
-Jared Saia,http://www.cs.unm.edu/~saia,Ne9-wmAAAAAJ,3558.0,28.0
-Patrick Gage Kelley,http://www.cs.unm.edu/~pgk,4_fN00YAAAAJ,7113.0,31.0
-Abdullah Mueen,http://www.cs.unm.edu/~mueen,OImDWloAAAAJ,7783.0,32.0
-Shuang (Sean) Luan,https://www.cs.unm.edu/~sluan,JF8EmRMAAAAJ,1073.0,18.0
-Patrick G. Bridges,http://www.cs.unm.edu/directory/faculty-profiles/patrick-bridges.html,Q10SbJQAAAAJ,3078.0,28.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Melanie E. Moses,https://www.cs.unm.edu/~melaniem,WFZ4azsAAAAJ,3359.0,31.0,2001.0
+Thomas P. Hayes,https://www.cs.unm.edu/~hayes,RsicLQsAAAAJ,2609.0,22.0,2001.0
+Lance R. Williams,https://www.cs.unm.edu/~williams,OJBW1aUAAAAJ,2008.0,21.0,1985.0
+Deepak Kapur,https://www.cs.unm.edu/~kapur,U6XKBVIAAAAJ,8872.0,53.0,1979.0
+Darko Stefanovic,https://www.cs.unm.edu/~darko,hd6nAfsAAAAJ,7509.0,35.0,1992.0
+Gruia-Catalin Roman,http://www.cs.unm.edu/directory/faculty-profiles/gruia-catalin-roman.html,P4aWmYEAAAAJ,9367.0,46.0,1952.0
+Lydia Tapia,http://www.cs.unm.edu/~tapia,V2LAAxUAAAAJ,1852.0,21.0,2000.0
+David H. Ackley,http://www.cs.unm.edu/~ackley,Sx9dTQoAAAAJ,10913.0,23.0,1982.0
+Trilce Estrada,http://www.cs.unm.edu/~estrada/trilce/pmwiki.php,pwzksPcAAAAJ,614.0,12.0,2003.0
+Jared Saia,http://www.cs.unm.edu/~saia,Ne9-wmAAAAAJ,3558.0,28.0,1995.0
+Patrick Gage Kelley,http://www.cs.unm.edu/~pgk,4_fN00YAAAAJ,7113.0,31.0,2006.0
+Abdullah Mueen,http://www.cs.unm.edu/~mueen,OImDWloAAAAJ,7783.0,32.0,2009.0
+Shuang (Sean) Luan,https://www.cs.unm.edu/~sluan,JF8EmRMAAAAJ,1073.0,18.0,2001.0
+Patrick G. Bridges,http://www.cs.unm.edu/directory/faculty-profiles/patrick-bridges.html,Q10SbJQAAAAJ,3078.0,28.0,1995.0

@@ -1,24 +1,24 @@
-name,homepage,scholar_id,citations,h-index
-Juan A. Fraire,https://depend.cs.uni-saarland.de/~jfraire,YXq56tgAAAAJ,840.0,15.0
-Damián Barsotti,https://cs.famaf.unc.edu.ar/~damian,NOSCHOLARPAGE,,
-Carlos Areces,https://cs.famaf.unc.edu.ar/~careces,Ku5jaRkAAAAJ,2704.0,23.0
-Beta Ziliani,https://people.mpi-sws.org/~beta,zPeBksEAAAAJ,294.0,9.0
-Diego Vaggione,http://ual.famaf.unc.edu.ar/index.php/home/diego-vaggione,NOSCHOLARPAGE,,
-Franco M. Luque,https://cs.famaf.unc.edu.ar/~francolq,edh9Nv4AAAAJ,314.0,10.0
-Nicolás Wolovick,https://cs.famaf.unc.edu.ar/~nicolasw,v9TbZAEAAAAJ,489.0,11.0
-Pedro Sánchez Terraf,https://cs.famaf.unc.edu.ar/~pedro,pgrAV_MAAAAJ,177.0,7.0
-Hector Gramaglia,https://www.famaf.unc.edu.ar/~ciem/personas/gramaglia.html,NOSCHOLARPAGE,,
-Raul Fervari,http://cs.famaf.unc.edu.ar/~rfervari,3dg1ASwAAAAJ,395.0,11.0
-Martín Ariel Domínguez,https://cs.famaf.unc.edu.ar/~mdoming,ExBxMa4AAAAJ,97.0,5.0
-Miguel Pagano,http://cs.famaf.unc.edu.ar/~mpagano,RYvj54kAAAAJ,99.0,6.0
-Laura Brandán Briones,https://www.famaf.unc.edu.ar/archivo/perfiles/lbrandan,NOSCHOLARPAGE,,
-Silvia María Ojeda,https://www.famaf.unc.edu.ar/~ojeda,NOSCHOLARPAGE,,
-Miguel Campercholi,http://ual.famaf.unc.edu.ar/index.php/home/miguel-campercholi,NOSCHOLARPAGE,,
-Daniel Penazzi,https://www.famaf.unc.edu.ar/~penazzi,NOSCHOLARPAGE,,
-Jorge A. Sánchez,https://www.famaf.unc.edu.ar/~jsanchez,XV4_wlwAAAAJ,8528.0,16.0
-Damián A. Knopoff,https://www.famaf.unc.edu.ar/~knopoff,e_iNL4IAAAAJ,827.0,13.0
-Daniel Fridlender,https://www.famaf.unc.edu.ar/archivo/perfiles/fridlend,NOSCHOLARPAGE,,
-Paula Estrella,https://www.famaf.unc.edu.ar/~pestrella,Mo7TUaQAAAAJ,167.0,7.0
-Luciana Benotti,https://cs.famaf.unc.edu.ar/~luciana,QqsVx-oAAAAJ,,
-Laura Alonso Alemany,https://cs.famaf.unc.edu.ar/~laura,ZhbejRkAAAAJ,401.0,11.0
-Pedro R. D'Argenio,https://cs.famaf.unc.edu.ar/~dargenio,Z7i2nckAAAAJ,3664.0,29.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Juan A. Fraire,https://depend.cs.uni-saarland.de/~jfraire,YXq56tgAAAAJ,840.0,15.0,2013.0
+Damián Barsotti,https://cs.famaf.unc.edu.ar/~damian,,,,
+Carlos Areces,https://cs.famaf.unc.edu.ar/~careces,Ku5jaRkAAAAJ,2704.0,23.0,1995.0
+Beta Ziliani,https://people.mpi-sws.org/~beta,zPeBksEAAAAJ,294.0,9.0,2011.0
+Diego Vaggione,http://ual.famaf.unc.edu.ar/index.php/home/diego-vaggione,,,,
+Franco M. Luque,https://cs.famaf.unc.edu.ar/~francolq,edh9Nv4AAAAJ,314.0,10.0,2009.0
+Nicolás Wolovick,https://cs.famaf.unc.edu.ar/~nicolasw,v9TbZAEAAAAJ,489.0,11.0,2001.0
+Pedro Sánchez Terraf,https://cs.famaf.unc.edu.ar/~pedro,pgrAV_MAAAAJ,177.0,7.0,2004.0
+Hector Gramaglia,https://www.famaf.unc.edu.ar/~ciem/personas/gramaglia.html,,,,
+Raul Fervari,http://cs.famaf.unc.edu.ar/~rfervari,3dg1ASwAAAAJ,395.0,11.0,2012.0
+Martín Ariel Domínguez,https://cs.famaf.unc.edu.ar/~mdoming,ExBxMa4AAAAJ,97.0,5.0,2003.0
+Miguel Pagano,http://cs.famaf.unc.edu.ar/~mpagano,RYvj54kAAAAJ,99.0,6.0,2009.0
+Laura Brandán Briones,https://www.famaf.unc.edu.ar/archivo/perfiles/lbrandan,,,,
+Silvia María Ojeda,https://www.famaf.unc.edu.ar/~ojeda,,,,
+Miguel Campercholi,http://ual.famaf.unc.edu.ar/index.php/home/miguel-campercholi,,,,
+Daniel Penazzi,https://www.famaf.unc.edu.ar/~penazzi,,,,
+Jorge A. Sánchez,https://www.famaf.unc.edu.ar/~jsanchez,XV4_wlwAAAAJ,8528.0,16.0,2006.0
+Damián A. Knopoff,https://www.famaf.unc.edu.ar/~knopoff,e_iNL4IAAAAJ,827.0,13.0,2013.0
+Daniel Fridlender,https://www.famaf.unc.edu.ar/archivo/perfiles/fridlend,,,,
+Paula Estrella,https://www.famaf.unc.edu.ar/~pestrella,Mo7TUaQAAAAJ,167.0,7.0,2005.0
+Luciana Benotti,https://cs.famaf.unc.edu.ar/~luciana,,,,
+Laura Alonso Alemany,https://cs.famaf.unc.edu.ar/~laura,ZhbejRkAAAAJ,401.0,11.0,2001.0
+Pedro R. D'Argenio,https://cs.famaf.unc.edu.ar/~dargenio,Z7i2nckAAAAJ,3664.0,29.0,1994.0

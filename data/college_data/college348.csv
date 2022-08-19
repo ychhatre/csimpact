@@ -1,23 +1,23 @@
-name,homepage,scholar_id,citations,h-index
-Changqing Li,https://www.ucmerced.edu/content/changqing-li,hBTddCdYvMUC,2709.0,25.0
-Marcelo Kallmann,http://graphics.ucmerced.edu/~mkallmann,XHHdaL4AAAAJ,3541.0,32.0
-Yang-Quan Chen,https://sites.ucmerced.edu/yqchen,RDEIRbcAAAAJ,44673.0,91.0
-Alberto Cerpa,http://www.andes.ucmerced.edu/~acerpa,NOSCHOLARPAGE,,
-Ahmed Sabbir Arif,http://www.asarif.com,l9kbH78AAAAJ,799.0,15.0
-Hua Huang,https://sites.ucmerced.edu/huahuang,MymQmUcAAAAJ,381.0,8.0
-Stefano Carpin,https://sites.ucmerced.edu/scarpin,ootP9OgAAAAJ,4682.0,33.0
-Paul Maglio,http://mist.ucmerced.edu/pmaglio,xXlMjAMAAAAJ,25226.0,62.0
-Shijia Pan,http://www.andrew.cmu.edu/user/shijiapa,oauqR3wAAAAJ,1452.0,22.0
-Mukesh Singhal,http://cloudlab.ucmerced.edu/people/~mukesh,If8AWhgAAAAJ,12163.0,55.0
-Wan Du,https://faculty.ucmerced.edu/wdu,5AIv8YoAAAAJ,1575.0,21.0
-Angelo Kyrilov,https://www.ucmerced.edu/content/angelo-kyrilov,NOSCHOLARPAGE,,
-Sungjin Im,https://faculty.ucmerced.edu/sim3,muR7xmMAAAAJ,1321.0,20.0
-Ming-Hsuan Yang,https://faculty.ucmerced.edu/mhyang,p9-ohHsAAAAJ,91656.0,135.0
-Florin Rusu,https://faculty.ucmerced.edu/frusu,8PfpzuEAAAAJ,4227.0,20.0
-Dong Li,https://faculty.ucmerced.edu/dong-li,mGfEQ9wAAAAJ,2855.0,26.0
-Miguel Á. Carreira-Perpiñán,https://faculty.ucmerced.edu/mcarreira-perpinan,SYdYhxgAAAAJ,7554.0,35.0
-Xiaoyi Lu,http://faculty.ucmerced.edu/luxi,BeYVNhIAAAAJ,2358.0,26.0
-David C. Noelle,https://eecs.ucmerced.edu/content/david-noelle,NOSCHOLARPAGE,,
-Pengfei Su,https://pengfei-su.github.io,LAttsHIAAAAJ,,
-Hyeran Jeon,https://www.mocalab.org,WyJcBncAAAAJ,981.0,17.0
-Shawn D. Newsam,https://faculty.ucmerced.edu/snewsam/index.html,pQZX0mEAAAAJ,6114.0,32.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Changqing Li,https://www.ucmerced.edu/content/changqing-li,hBTddCdYvMUC,2709.0,25.0,1999.0
+Marcelo Kallmann,http://graphics.ucmerced.edu/~mkallmann,XHHdaL4AAAAJ,3541.0,32.0,1997.0
+Yang-Quan Chen,https://sites.ucmerced.edu/yqchen,RDEIRbcAAAAJ,44673.0,91.0,
+Alberto Cerpa,http://www.andes.ucmerced.edu/~acerpa,,,,
+Ahmed Sabbir Arif,http://www.asarif.com,l9kbH78AAAAJ,799.0,15.0,2005.0
+Hua Huang,https://sites.ucmerced.edu/huahuang,MymQmUcAAAAJ,381.0,8.0,2013.0
+Stefano Carpin,https://sites.ucmerced.edu/scarpin,ootP9OgAAAAJ,4682.0,33.0,2000.0
+Paul Maglio,http://mist.ucmerced.edu/pmaglio,xXlMjAMAAAAJ,25226.0,62.0,1982.0
+Shijia Pan,http://www.andrew.cmu.edu/user/shijiapa,oauqR3wAAAAJ,1452.0,22.0,2011.0
+Mukesh Singhal,http://cloudlab.ucmerced.edu/people/~mukesh,If8AWhgAAAAJ,12163.0,55.0,1983.0
+Wan Du,https://faculty.ucmerced.edu/wdu,5AIv8YoAAAAJ,1575.0,21.0,2010.0
+Angelo Kyrilov,https://www.ucmerced.edu/content/angelo-kyrilov,,,,
+Sungjin Im,https://faculty.ucmerced.edu/sim3,muR7xmMAAAAJ,1321.0,20.0,2009.0
+Ming-Hsuan Yang,https://faculty.ucmerced.edu/mhyang,p9-ohHsAAAAJ,91656.0,135.0,
+Florin Rusu,https://faculty.ucmerced.edu/frusu,8PfpzuEAAAAJ,4227.0,20.0,2003.0
+Dong Li,https://faculty.ucmerced.edu/dong-li,mGfEQ9wAAAAJ,2855.0,26.0,2006.0
+Miguel Á. Carreira-Perpiñán,https://faculty.ucmerced.edu/mcarreira-perpinan,SYdYhxgAAAAJ,7554.0,35.0,1995.0
+Xiaoyi Lu,http://faculty.ucmerced.edu/luxi,BeYVNhIAAAAJ,2358.0,26.0,2008.0
+David C. Noelle,https://eecs.ucmerced.edu/content/david-noelle,,,,
+Pengfei Su,https://pengfei-su.github.io,,,,
+Hyeran Jeon,https://www.mocalab.org,WyJcBncAAAAJ,981.0,17.0,2009.0
+Shawn D. Newsam,https://faculty.ucmerced.edu/snewsam/index.html,pQZX0mEAAAAJ,6114.0,32.0,1999.0

@@ -1,23 +1,23 @@
-name,homepage,scholar_id,citations,h-index
-Narendra S. Goel,http://engineering.wayne.edu/profile/aa2671,E8X4MN4AAAAJ,5232.0,19.0
-Suzan Arslanturk,http://suzanars.eng.wayne.edu/index.html,08yfzbMAAAAJ,96.0,6.0
-Amiangshu Bosu,http://amiangshu.com,kIrGUa8AAAAJ,,
-Weisong Shi,http://www.cs.wayne.edu/~weisong,4rPcoCEAAAAJ,16229.0,53.0
-Zhizhong Han,https://h312h.github.io,RGNWczEAAAAJ,1562.0,23.0
-Marco Brocanelli,http://brok.eng.wayne.edu,AyWhHyQAAAAJ,228.0,8.0
-RhongHo Jang,https://engineering.wayne.edu/profile/hf8512,h9Nfyf0AAAAJ,140.0,7.0
-Monica Brockmeyer,http://engineering.wayne.edu/profile/ag7006,NOSCHOLARPAGE,,
-Sorin Draghici,http://vortex.cs.wayne.edu/Sorin/index.htm,fbkIhRYAAAAJ,15721.0,54.0
-Zheng Dong,http://zheng.eng.wayne.edu,QbJYBncAAAAJ,360.0,12.0
-Alexander Kotov,http://www.cs.wayne.edu/kotov,83gsCFsAAAAJ,1142.0,17.0
-Jing Hua,http://www.cs.wayne.edu/~jinghua,E0PGasMAAAAJ,3214.0,33.0
-Daniel Grosu,http://www.cs.wayne.edu/~dgrosu,LhsomaUAAAAJ,4335.0,33.0
-Zichun Zhong,http://www.cs.wayne.edu/zzhong,1YiIoGYAAAAJ,760.0,13.0
-Dongxiao Zhu,http://www.cs.wayne.edu/dzhu,L0CbApYAAAAJ,2918.0,23.0
-Nathan Fisher,http://www.cs.wayne.edu/~fishern,30pCSfEAAAAJ,2098.0,24.0
-Shiyong Lu,http://www.cs.wayne.edu/~shiyong,ZsA3NvYAAAAJ,9294.0,37.0
-Lihao Xu,http://www.cs.wayne.edu/~lihao,Q1QN1qYAAAAJ,4066.0,23.0
-Loren Schwiebert,http://www.cs.wayne.edu/~loren,mP7h9LcAAAAJ,6142.0,34.0
-Farshad Fotouhi,http://www.cs.wayne.edu/fotouhi/page.php,IkBUnLYAAAAJ,4037.0,30.0
-Robert G. Reynolds,http://ai.cs.wayne.edu/ai/member%20webs/Reynolds/index.htm,DGxl9iUAAAAJ,7576.0,40.0
-Ming Dong,http://www.cs.wayne.edu/~mdong,yCUFD2wAAAAJ,4595.0,35.0
+name,homepage,scholar_id,citations,h-index,earliest_paper
+Narendra S. Goel,http://engineering.wayne.edu/profile/aa2671,E8X4MN4AAAAJ,5232.0,19.0,1966.0
+Suzan Arslanturk,http://suzanars.eng.wayne.edu/index.html,08yfzbMAAAAJ,96.0,6.0,2011.0
+Amiangshu Bosu,http://amiangshu.com,,,,
+Weisong Shi,http://www.cs.wayne.edu/~weisong,4rPcoCEAAAAJ,16229.0,53.0,1986.0
+Zhizhong Han,https://h312h.github.io,RGNWczEAAAAJ,1562.0,23.0,2011.0
+Marco Brocanelli,http://brok.eng.wayne.edu,AyWhHyQAAAAJ,228.0,8.0,2012.0
+RhongHo Jang,https://engineering.wayne.edu/profile/hf8512,h9Nfyf0AAAAJ,140.0,7.0,2015.0
+Monica Brockmeyer,http://engineering.wayne.edu/profile/ag7006,,,,
+Sorin Draghici,http://vortex.cs.wayne.edu/Sorin/index.htm,fbkIhRYAAAAJ,15721.0,54.0,1996.0
+Zheng Dong,http://zheng.eng.wayne.edu,QbJYBncAAAAJ,360.0,12.0,2010.0
+Alexander Kotov,http://www.cs.wayne.edu/kotov,83gsCFsAAAAJ,1142.0,17.0,2010.0
+Jing Hua,http://www.cs.wayne.edu/~jinghua,E0PGasMAAAAJ,3214.0,33.0,1999.0
+Daniel Grosu,http://www.cs.wayne.edu/~dgrosu,LhsomaUAAAAJ,4335.0,33.0,1996.0
+Zichun Zhong,http://www.cs.wayne.edu/zzhong,1YiIoGYAAAAJ,760.0,13.0,2008.0
+Dongxiao Zhu,http://www.cs.wayne.edu/dzhu,L0CbApYAAAAJ,2918.0,23.0,2005.0
+Nathan Fisher,http://www.cs.wayne.edu/~fishern,30pCSfEAAAAJ,2098.0,24.0,2004.0
+Shiyong Lu,http://www.cs.wayne.edu/~shiyong,ZsA3NvYAAAAJ,9294.0,37.0,1998.0
+Lihao Xu,http://www.cs.wayne.edu/~lihao,Q1QN1qYAAAAJ,4066.0,23.0,1998.0
+Loren Schwiebert,http://www.cs.wayne.edu/~loren,mP7h9LcAAAAJ,6142.0,34.0,1992.0
+Farshad Fotouhi,http://www.cs.wayne.edu/fotouhi/page.php,IkBUnLYAAAAJ,4037.0,30.0,1986.0
+Robert G. Reynolds,http://ai.cs.wayne.edu/ai/member%20webs/Reynolds/index.htm,DGxl9iUAAAAJ,7576.0,40.0,1974.0
+Ming Dong,http://www.cs.wayne.edu/~mdong,yCUFD2wAAAAJ,4595.0,35.0,1999.0

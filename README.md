@@ -17,7 +17,7 @@ We combined four different ranking systems to get the overall ranking:
 
 The 3rd and 4th rankings were derived by dividing the total of that metric (i.e. total citations, total h-index) by the number of professors. By using average indicies, we hoped to consider the holistic impacts of all of the faculty. 
 
-To achieve the [overall ranking](https://github.com/ychhatre/csimpact/blob/main/data/college_avg_rank.csv), we took an average of the four indicies above. For example, UC Berkely has rankings of 0, 1, 1, 1, respectively and thus has an overall ranking of $$\dfrac{0 + 1 + 1 + 1}{4}$$ = 0.75 (with 0 being the highest). We then simply sorted the colleges based on their overall score.
+To achieve the [overall ranking](https://github.com/ychhatre/csimpact/blob/main/data/college_avg_rank.csv), we took an average of the four indicies above. For example, UC Berkely has rankings of 0, 1, 1, 1, respectively and thus has an overall ranking of (0 + 1 + 1 + 1)/4 = 0.75 (with 0 being the highest). We then simply sorted the colleges based on their overall score.
 
 ### **Future Improvements**
 

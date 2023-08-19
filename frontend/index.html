@@ -1,13 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>CSImpact</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-	<h1>CSImpact: A ranking of the impact of institutions' computer science programs</h1>
-  </body>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>CSImpact</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@500;560&family=Handlee&family=Jaldi&family=Marmelad&family=Reem+Kufi+Ink&family=Signika+Negative&family=Spinnaker&display=swap"
+    rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+  <script src="//jquerycsvtotable.googlecode.com/files/jquery.csvToTable.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.js"></script>
+</head>
+
+<body>
+  <h1 style="margin: 25px auto auto 50px; font-family: Spinnaker">CSImpact</h1>
+  <h3 style="font-family: Jaldi; margin-left: 75px;">An objective ranking of the "impact" of computer science programs
+    from institutions around the world, based on Google Scholar data.</h3>
+
+  <div id="CSVTable"></div>
+
+  <table id="tdata" class="tdata" border="1" style="border-collapse: collapse;">
+    <thead>
+      <th>Institution</th>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <!-- <input type = "button" id = "btnsubmit" value = "Submit" onclick = "readCSVFile();"> -->
+
+  <form>
+    <select class="metric" id="metric">
+      <option value="overall">Overall Ranking</option>
+      <option value="avg_h_index">Average h-index</option>
+      <option value="total_h_index">Total h-index</option>
+      <option value="avg_citations">Average Citations</option>
+      <option value="total_citations">Total Citations</option>
+    </select>
+    <script>
+      var select = document.getElementById("metric");
+      metricUnit = select[select.selectedIndex].value;
+    </script>
+    <input type="submit" value="Submit" id="myButton">
+  </form>
+
+  <script>
+    $(document).ready(function () {
+      $('#myButton').click(function () {
+        alert("click");
+        $.ajax({
+          url: "overall_ranking.csv",
+          dataType: "text",
+          success: function (data) {
+            var ranking_data = data.split(/\r?\n|\r/);
+            var table_data = '<table class="table table-bordered table-striped">';
+            // alert(ranking_data.length);
+            alert("hello");
+            for (var count = 0; count < ranking_data.length; count++) {
+              var cell_data = ranking_data[count].split(",");
+              alert(cell_data[0]);
+              table_data += '<tr>';
+              for (var cell_count = 0; cell_count < cell_data.length; cell_count++) {
+                if (count === 0) {
+                  table_data += '<th>' + cell_data[cell_count] + '</th>';
+                }
+                else {
+                  table_data += '<td>' + cell_data[cell_count] + '</td>';
+                }
+              }
+              table_data += '</tr>';
+            }
+            table_data += '</table>';
+            $('#CSVTable').html(table_data);
+          }
+        });
+      });
+
+    });
+  </script>
+
+</body>
+
 </html>

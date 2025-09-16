@@ -27,5 +27,5 @@ We would like to make it so that the rankings would automatically update themsel
 
 **Contributors**
 - [kevins4202](https://github.com/kevins4202)
-- [ychattre](https://github.com/ychhatre)
+- [ychhatre](https://github.com/ychhatre)
 - Under the guidance of [remzi-arpacidusseau](https://github.com/remzi-arpacidusseau)
